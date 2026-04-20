@@ -9,10 +9,9 @@ With this explorer, you can use the map to hover over parks around the Seattle a
 
 ## How to open the explorer
 
-Click on this streamlit link:
-
-
-
+Click on this streamlit link: \
+https://michaelgov-seattle-park-features-app-81fgqh.streamlit.app
+### or 
 Copy these lines of codes into your terminal to start the app.
 
 >py -m venv .venv 
