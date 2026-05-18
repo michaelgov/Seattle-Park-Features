@@ -22,7 +22,7 @@ Copy these lines of codes into your terminal to start the app.
 
 ## How to access API endpoints
 
-[Watch The Video Here](https://youtu.be/blkwCrCxDIE)
+[Watch The Video Here](https://youtu.be/8vuujcXPjyM)
 
 >flask --app flask_get run -p 5002
 
