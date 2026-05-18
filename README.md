@@ -19,3 +19,13 @@ Copy these lines of codes into your terminal to start the app.
 >.venv\Scripts\activate
  
 >streamlit run app.py
+
+## How to access API endpoints
+
+[Watch The Video Here](https://youtu.be/blkwCrCxDIE)
+
+>flask --app flask_get run -p 5002
+
+>ngrok http http://localhost:5002
+
+> Test via testapi.py and changing the URL
