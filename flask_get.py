@@ -3,10 +3,10 @@ import json
 
 app = Flask(__name__)
 
-with open("park.json", "r", encoding="utf-8") as file:
+with open("data/park.json", "r", encoding="utf-8") as file:
     parks = json.load(file)
 
-with open("park_amen.json", "r", encoding="utf-8") as file:
+with open("data/park_amen.json", "r", encoding="utf-8") as file:
     amenities = json.load(file)
 
 
