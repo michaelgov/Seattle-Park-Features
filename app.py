@@ -1,57 +1,62 @@
 import streamlit as st
 import pandas as pd
 import pydeck as pdk
-import json
-import csv
-
-def read_json_file(filepath):
-    with open(filepath, encoding="utf-8") as f:
-        return json.load(f)
-
-park_list = read_json_file("data/park.json")
-
-features = []
-with open("data/park_amen.csv", newline="", encoding="utf-8") as f:
-    reader = csv.DictReader(f)
-    for row in reader:
-        features.append(row)
-
-def add_features_to_parks(parks, features):
-    for park in parks:
-        park_id = str(park.get("pmaid")).strip()
-        park_features_list = []
-
-        for feature in features:
-            feature_park_id = str(feature.get("PMAID")).strip()
-            if feature_park_id == park_id:
-                park_features_list.append(feature.get("feature desc"))
-
-        park["features"] = park_features_list
-
-    return parks
-
-my_parks_with_features = add_features_to_parks(park_list, features)
-
-data = []
-for park in my_parks_with_features:
-    if park.get("x_coord") and park.get("y_coord"):
-        data.append({
-            "name": park.get("name"),
-            "address": park.get("address"),
-            "pmaid": park.get("pmaid"),
-            "lat": float(park.get("y_coord")),
-            "lon": float(park.get("x_coord")),
-            "features": ", ".join(park.get("features", []))
-        })
-
-df = pd.DataFrame(data)
+import requests
 
 st.title("Seattle Parks Map")
+
+BASE_API_URL = "https://unveiled-freely-defacing.ngrok-free.dev"
+
+st.sidebar.header("Search and Filter")
+
+search_text = st.sidebar.text_input("Search park by name or address").strip()
+zip_code = st.sidebar.text_input("Filter by ZIP code, ex: 98144").strip()
+
+if search_text:
+    response = requests.get(
+        f"{BASE_API_URL}/search",
+        params={"q": search_text}
+    )
+elif zip_code:
+    response = requests.get(
+        f"{BASE_API_URL}/parks/zip/{zip_code}"
+    )
+else:
+    response = requests.get(
+        f"{BASE_API_URL}/parks"
+    )
+
+if response.status_code != 200:
+    st.error("Could not connect to the Parks API.")
+    st.write("Status code:", response.status_code)
+    st.write("Response text:", response.text)
+    st.stop()
+
+parks_data = response.json()
+
+df = pd.DataFrame(parks_data)
+
+if df.empty:
+    st.warning("No parks found.")
+    st.stop()
+
+df = df.dropna(subset=["x_coord", "y_coord"])
+
+df["lat"] = pd.to_numeric(df["y_coord"], errors="coerce")
+df["lon"] = pd.to_numeric(df["x_coord"], errors="coerce")
+
+df = df.dropna(subset=["lat", "lon"])
+
+if df.empty:
+    st.warning("No parks with valid coordinates found.")
+    st.stop()
+
+st.write("Number of parks shown:", len(df))
 
 layer = pdk.Layer(
     "ScatterplotLayer",
     data=df,
-    get_position='[lon, lat]',
+    get_position="[lon, lat]",
     get_radius=60,
     get_fill_color=[255, 80, 80],
     pickable=True,
@@ -66,7 +71,12 @@ view_state = pdk.ViewState(
 deck = pdk.Deck(
     layers=[layer],
     initial_view_state=view_state,
-    tooltip={"text": "{name}\n{address}\nPark ID: {pmaid}\nFeatures: {features}"}
+    tooltip={
+        "text": "{name}\n{address}\nZIP: {zip_code}\nPark ID: {pmaid}\nFeatures: {features}"
+    }
 )
 
 st.pydeck_chart(deck)
+
+st.subheader("Park Data")
+st.dataframe(df[["name", "address", "zip_code", "pmaid", "features"]])
