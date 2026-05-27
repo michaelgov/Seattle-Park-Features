@@ -1,0 +1,7802 @@
+{
+  "Adult Fitness Equipment": [
+    {
+      "pmaid": "345",
+      "name": "Powell Barnett Park",
+      "address": "352 Martin Luther King Jr Way",
+      "zip_code": "98112",
+      "x_coord": "-122.295998",
+      "y_coord": "47.605197"
+    },
+    {
+      "pmaid": "358",
+      "name": "Hing Hay Park",
+      "address": "423 Maynard Ave S",
+      "zip_code": "98104",
+      "x_coord": "-122.325435",
+      "y_coord": "47.598609"
+    },
+    {
+      "pmaid": "376",
+      "name": "Montlake Playfield",
+      "address": "1618 E Calhoun St",
+      "zip_code": "98112",
+      "x_coord": "-122.310081",
+      "y_coord": "47.642407"
+    },
+    {
+      "pmaid": "422",
+      "name": "Rainier Beach Playfield",
+      "address": "8802 Rainier Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.273136",
+      "y_coord": "47.525041"
+    },
+    {
+      "pmaid": "4242",
+      "name": "Sam Smith Park",
+      "address": "1400 Martin Luther King Jr Way S",
+      "zip_code": "98122",
+      "x_coord": "-122.297814",
+      "y_coord": "47.589982"
+    },
+    {
+      "pmaid": "4243",
+      "name": "Atlantic Street Park",
+      "address": "1501 21st Ave S",
+      "zip_code": "98144",
+      "x_coord": "-122.30566",
+      "y_coord": "47.589165"
+    },
+    {
+      "pmaid": "429",
+      "name": "John C. Little, Sr. Park",
+      "address": "6961 37th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.286686",
+      "y_coord": "47.539048"
+    },
+    {
+      "pmaid": "431",
+      "name": "Van Asselt Playground",
+      "address": "7050 Beacon Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.294068",
+      "y_coord": "47.539446"
+    },
+    {
+      "pmaid": "435",
+      "name": "University Playground",
+      "address": "4745 9th Ave NE",
+      "zip_code": "98105",
+      "x_coord": "-122.319312",
+      "y_coord": "47.664447"
+    },
+    {
+      "pmaid": "4450",
+      "name": "Bitter Lake Reservoir Open Space",
+      "address": "14201 Linden Ave N",
+      "zip_code": "98133",
+      "x_coord": "-122.348583",
+      "y_coord": "47.731181"
+    },
+    {
+      "pmaid": "4456",
+      "name": "Hubbard Homestead",
+      "address": "11203 5th Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.324674",
+      "y_coord": "47.709964"
+    },
+    {
+      "pmaid": "450",
+      "name": "Delridge Playfield",
+      "address": "4458 Delridge Way SW",
+      "zip_code": "98106",
+      "x_coord": "-122.364371",
+      "y_coord": "47.562842"
+    },
+    {
+      "pmaid": "456",
+      "name": "Hiawatha Playfield",
+      "address": "2700 California Ave SW",
+      "zip_code": "98116",
+      "x_coord": "-122.384965",
+      "y_coord": "47.578272"
+    }
+  ],
+  "Art in the Park": [
+    {
+      "pmaid": "1104",
+      "name": "Meridian Playground",
+      "address": "4649 Sunnyside Ave N",
+      "zip_code": "98103",
+      "x_coord": "-122.332557",
+      "y_coord": "47.664159"
+    },
+    {
+      "pmaid": "1106",
+      "name": "Thomas C. Wales Park",
+      "address": "2401 6th Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.344468",
+      "y_coord": "47.640523"
+    },
+    {
+      "pmaid": "114",
+      "name": "Jefferson Park",
+      "address": "3801 Beacon Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.311441",
+      "y_coord": "47.568067"
+    },
+    {
+      "pmaid": "200",
+      "name": "Woodland Park Zoo",
+      "address": "700 N 50th St",
+      "zip_code": "98103",
+      "x_coord": "-122.35043",
+      "y_coord": "47.666183"
+    },
+    {
+      "pmaid": "243",
+      "name": "Golden Gardens Park",
+      "address": "8498 Seaview Pl NW",
+      "zip_code": "98117",
+      "x_coord": "-122.403454",
+      "y_coord": "47.686852"
+    },
+    {
+      "pmaid": "244",
+      "name": "Albert Davis Park",
+      "address": "12526 27th Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.298752",
+      "y_coord": "47.72016"
+    },
+    {
+      "pmaid": "250",
+      "name": "Sandel Playground",
+      "address": "9053 1st Ave NW",
+      "zip_code": "98117",
+      "x_coord": "-122.358701",
+      "y_coord": "47.695134"
+    },
+    {
+      "pmaid": "253",
+      "name": "Bergen Place",
+      "address": "5420 22nd Ave NW",
+      "zip_code": "98107",
+      "x_coord": "-122.384495",
+      "y_coord": "47.66833"
+    },
+    {
+      "pmaid": "264",
+      "name": "Longfellow Creek Greenspace",
+      "address": "Delridge Way SW & SW Graham St",
+      "zip_code": "98106",
+      "x_coord": "-122.363435",
+      "y_coord": "47.530167"
+    },
+    {
+      "pmaid": "287",
+      "name": "Froula Playground",
+      "address": "7200 12th Ave NE",
+      "zip_code": "98115",
+      "x_coord": "-122.313978",
+      "y_coord": "47.680538"
+    },
+    {
+      "pmaid": "291",
+      "name": "Mineral Springs Park",
+      "address": "1500 N 105th St",
+      "zip_code": "98133",
+      "x_coord": "-122.336528",
+      "y_coord": "47.705755"
+    },
+    {
+      "pmaid": "293",
+      "name": "Gas Works Park",
+      "address": "2101 N Northlake Way",
+      "zip_code": "98103",
+      "x_coord": "-122.334906",
+      "y_coord": "47.645639"
+    },
+    {
+      "pmaid": "298",
+      "name": "Marvin's Garden",
+      "address": "5400 Ballard Ave NW",
+      "zip_code": "98107",
+      "x_coord": "-122.384972",
+      "y_coord": "47.667976"
+    },
+    {
+      "pmaid": "306",
+      "name": "City Hall Park",
+      "address": "450 3rd Ave",
+      "zip_code": "98119",
+      "x_coord": "-122.329875",
+      "y_coord": "47.602022"
+    },
+    {
+      "pmaid": "307",
+      "name": "Green Lake Park",
+      "address": "7201 E Greenlake Dr N",
+      "zip_code": "98115",
+      "x_coord": "-122.330394",
+      "y_coord": "47.678938"
+    },
+    {
+      "pmaid": "309",
+      "name": "Denny Park",
+      "address": "100 Dexter Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.341049",
+      "y_coord": "47.61913"
+    },
+    {
+      "pmaid": "3102",
+      "name": "Cal Anderson Park and Bobby Morris Playfield",
+      "address": "1635 11th Ave",
+      "zip_code": "98122",
+      "x_coord": "-122.319134",
+      "y_coord": "47.617013"
+    },
+    {
+      "pmaid": "311",
+      "name": "Myrtle Edwards Park",
+      "address": "3130 Alaskan Way",
+      "zip_code": "98121",
+      "x_coord": "-122.36087",
+      "y_coord": "47.618767"
+    },
+    {
+      "pmaid": "312",
+      "name": "Freeway Park - Jim Ellis Freeway Park",
+      "address": "700 Seneca St",
+      "zip_code": "98101",
+      "x_coord": "-122.330904",
+      "y_coord": "47.609472"
+    },
+    {
+      "pmaid": "3149",
+      "name": "Fauntleroy Creek Ravine",
+      "address": "9102 Fauntleroy Way SW",
+      "zip_code": "98136",
+      "x_coord": "-122.392498",
+      "y_coord": "47.522599"
+    },
+    {
+      "pmaid": "320",
+      "name": "Marshall Park",
+      "address": "1191 7th Ave W",
+      "zip_code": "98119",
+      "x_coord": "-122.366805",
+      "y_coord": "47.629436"
+    },
+    {
+      "pmaid": "323",
+      "name": "Occidental Square",
+      "address": "117 S Washington St",
+      "zip_code": "98104",
+      "x_coord": "-122.333272",
+      "y_coord": "47.600463"
+    },
+    {
+      "pmaid": "325",
+      "name": "Pioneer Square",
+      "address": "100 Yesler Way",
+      "zip_code": "98104",
+      "x_coord": "-122.333886",
+      "y_coord": "47.602076"
+    },
+    {
+      "pmaid": "326",
+      "name": "Prefontaine Place",
+      "address": "425 3rd Ave",
+      "zip_code": "98104",
+      "x_coord": "-122.330883",
+      "y_coord": "47.601844"
+    },
+    {
+      "pmaid": "327",
+      "name": "Jackson Park Golf Course",
+      "address": "1100 NE 135th St",
+      "zip_code": "98125",
+      "x_coord": "-122.319103",
+      "y_coord": "47.729254"
+    },
+    {
+      "pmaid": "336",
+      "name": "Regrade Park",
+      "address": "2251 3rd Ave",
+      "zip_code": "98121",
+      "x_coord": "-122.344776",
+      "y_coord": "47.614346"
+    },
+    {
+      "pmaid": "338",
+      "name": "Victor Steinbrueck Park",
+      "address": "2001 Western Ave",
+      "zip_code": "98121",
+      "x_coord": "-122.343869",
+      "y_coord": "47.610153"
+    },
+    {
+      "pmaid": "340",
+      "name": "Laurelhurst Playfield",
+      "address": "4544 NE 41st St",
+      "zip_code": "98105",
+      "x_coord": "-122.278019",
+      "y_coord": "47.65989"
+    },
+    {
+      "pmaid": "342",
+      "name": "Kerry Park",
+      "address": "211 W Highland Dr",
+      "zip_code": "98119",
+      "x_coord": "-122.359874",
+      "y_coord": "47.629023"
+    },
+    {
+      "pmaid": "344",
+      "name": "Lake Union Park",
+      "address": "860 Terry Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.338848",
+      "y_coord": "47.627015"
+    },
+    {
+      "pmaid": "353",
+      "name": "Garfield Playfield",
+      "address": "537 25th Ave",
+      "zip_code": "98122",
+      "x_coord": "-122.301412",
+      "y_coord": "47.607098"
+    },
+    {
+      "pmaid": "358",
+      "name": "Hing Hay Park",
+      "address": "423 Maynard Ave S",
+      "zip_code": "98104",
+      "x_coord": "-122.325435",
+      "y_coord": "47.598609"
+    },
+    {
+      "pmaid": "362",
+      "name": "Louisa Boren Park",
+      "address": "1606 15th Ave E",
+      "zip_code": "98112",
+      "x_coord": "-122.311628",
+      "y_coord": "47.635274"
+    },
+    {
+      "pmaid": "364",
+      "name": "International Children's Park",
+      "address": "700 S Lane St",
+      "zip_code": "98104",
+      "x_coord": "-122.323412",
+      "y_coord": "47.596897"
+    },
+    {
+      "pmaid": "373",
+      "name": "Miller Playfield",
+      "address": "330 19th Ave E",
+      "zip_code": "98112",
+      "x_coord": "-122.306261",
+      "y_coord": "47.621433"
+    },
+    {
+      "pmaid": "3881",
+      "name": "Maple Leaf Resevoir Park",
+      "address": "1020 NE 82nd St",
+      "zip_code": "98115",
+      "x_coord": "-122.315613",
+      "y_coord": "47.689015"
+    },
+    {
+      "pmaid": "390",
+      "name": "Pratt Park",
+      "address": "1800 S Main St",
+      "zip_code": "98144",
+      "x_coord": "-122.307257",
+      "y_coord": "47.601407"
+    },
+    {
+      "pmaid": "3909",
+      "name": "Tilikum Place",
+      "address": "2701 5th Ave",
+      "zip_code": "98121",
+      "x_coord": "-122.347411",
+      "y_coord": "47.618382"
+    },
+    {
+      "pmaid": "3923",
+      "name": "Martin Luther King, Jr. Memorial",
+      "address": "2200 Martin Luther King Jr  Way S",
+      "zip_code": "98144",
+      "x_coord": "-122.297165",
+      "y_coord": "47.582756"
+    },
+    {
+      "pmaid": "393",
+      "name": "Washington Park Arboretum",
+      "address": "2300 Arboretum Dr E",
+      "zip_code": "98112",
+      "x_coord": "-122.294835",
+      "y_coord": "47.636477"
+    },
+    {
+      "pmaid": "3941",
+      "name": "Walt Hundley Playfield",
+      "address": "6920 34th Ave SW",
+      "zip_code": "98126",
+      "x_coord": "-122.373415",
+      "y_coord": "47.54017"
+    },
+    {
+      "pmaid": "398",
+      "name": "Warren G. Magnuson Park",
+      "address": "7400 Sand Point Way NE",
+      "zip_code": "98115",
+      "x_coord": "-122.255084",
+      "y_coord": "47.680304"
+    },
+    {
+      "pmaid": "399",
+      "name": "Volunteer Park",
+      "address": "1247 15th Ave E",
+      "zip_code": "98112",
+      "x_coord": "-122.315568",
+      "y_coord": "47.630378"
+    },
+    {
+      "pmaid": "4011",
+      "name": "Fremont Canal Park",
+      "address": "199 N Canal St",
+      "zip_code": "98103",
+      "x_coord": "-122.357864",
+      "y_coord": "47.651802"
+    },
+    {
+      "pmaid": "4029",
+      "name": "Peace Park",
+      "address": "NE 40th St & NE Pacific St, Seattle",
+      "zip_code": "98105",
+      "x_coord": "-122.323616",
+      "y_coord": "47.65543"
+    },
+    {
+      "pmaid": "4034",
+      "name": "Columbia Park",
+      "address": "4721 Rainier Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.287394",
+      "y_coord": "47.559792"
+    },
+    {
+      "pmaid": "406",
+      "name": "Colman Playground",
+      "address": "1740 23rd Ave S",
+      "zip_code": "98122",
+      "x_coord": "-122.301957",
+      "y_coord": "47.587625"
+    },
+    {
+      "pmaid": "419",
+      "name": "Mt. Baker Park",
+      "address": "2521 Lake Park Dr S",
+      "zip_code": "98144",
+      "x_coord": "-122.288481",
+      "y_coord": "47.580957"
+    },
+    {
+      "pmaid": "4242",
+      "name": "Sam Smith Park",
+      "address": "1400 Martin Luther King Jr Way S",
+      "zip_code": "98122",
+      "x_coord": "-122.297814",
+      "y_coord": "47.589982"
+    },
+    {
+      "pmaid": "4278",
+      "name": "Ballard Commons Park",
+      "address": "5701 22nd Ave NW",
+      "zip_code": "98107",
+      "x_coord": "-122.385487",
+      "y_coord": "47.670549"
+    },
+    {
+      "pmaid": "428",
+      "name": "Seward Park",
+      "address": "5900 Lake Washington Blvd S",
+      "zip_code": "98118",
+      "x_coord": "-122.250639",
+      "y_coord": "47.54923"
+    },
+    {
+      "pmaid": "431",
+      "name": "Van Asselt Playground",
+      "address": "7050 Beacon Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.294068",
+      "y_coord": "47.539446"
+    },
+    {
+      "pmaid": "433",
+      "name": "Dr. Jose Rizal Park",
+      "address": "1007 12th Ave S",
+      "zip_code": "98144",
+      "x_coord": "-122.318094",
+      "y_coord": "47.593859"
+    },
+    {
+      "pmaid": "435",
+      "name": "University Playground",
+      "address": "4745 9th Ave NE",
+      "zip_code": "98105",
+      "x_coord": "-122.319312",
+      "y_coord": "47.664447"
+    },
+    {
+      "pmaid": "436",
+      "name": "Benefit Playground",
+      "address": "9320 38th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.284294",
+      "y_coord": "47.518998"
+    },
+    {
+      "pmaid": "4404",
+      "name": "A. B. Ernst Park",
+      "address": "723 N 35th St",
+      "zip_code": "98103",
+      "x_coord": "-122.348826",
+      "y_coord": "47.650087"
+    },
+    {
+      "pmaid": "4418",
+      "name": "Blue Dog Pond",
+      "address": "1520 26th Ave S",
+      "zip_code": "98144",
+      "x_coord": "-122.297814",
+      "y_coord": "47.589982"
+    },
+    {
+      "pmaid": "4445",
+      "name": "Northgate Park",
+      "address": "10510 5th Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.322424",
+      "y_coord": "47.705194"
+    },
+    {
+      "pmaid": "4446",
+      "name": "I-5 Colonnade",
+      "address": "1701 Lakeview Blvd E",
+      "zip_code": "98102",
+      "x_coord": "-122.323409",
+      "y_coord": "47.634898"
+    },
+    {
+      "pmaid": "445",
+      "name": "Alki Beach Park",
+      "address": "1702 Alki Ave SW",
+      "zip_code": "98116",
+      "x_coord": "-122.402173",
+      "y_coord": "47.582912"
+    },
+    {
+      "pmaid": "4450",
+      "name": "Bitter Lake Reservoir Open Space",
+      "address": "14201 Linden Ave N",
+      "zip_code": "98133",
+      "x_coord": "-122.348583",
+      "y_coord": "47.731181"
+    },
+    {
+      "pmaid": "446",
+      "name": "Alki Playground",
+      "address": "5817 SW Lander St",
+      "zip_code": "98116",
+      "x_coord": "-122.407312",
+      "y_coord": "47.578497"
+    },
+    {
+      "pmaid": "4465",
+      "name": "Rotary Viewpoint",
+      "address": "4622 35th Ave SW",
+      "zip_code": "98126",
+      "x_coord": "-122.375859",
+      "y_coord": "47.560222"
+    },
+    {
+      "pmaid": "447",
+      "name": "Belvedere Park",
+      "address": "3600 SW Admiral Way",
+      "zip_code": "98126",
+      "x_coord": "-122.376896",
+      "y_coord": "47.580673"
+    },
+    {
+      "pmaid": "450",
+      "name": "Delridge Playfield",
+      "address": "4458 Delridge Way SW",
+      "zip_code": "98106",
+      "x_coord": "-122.364371",
+      "y_coord": "47.562842"
+    },
+    {
+      "pmaid": "457",
+      "name": "Highland Park Playground",
+      "address": "1100 SW Cloverdale St",
+      "zip_code": "98106",
+      "x_coord": "-122.349034",
+      "y_coord": "47.52738"
+    },
+    {
+      "pmaid": "460",
+      "name": "Lincoln Park",
+      "address": "8011 Fauntleroy Way SW",
+      "zip_code": "98136",
+      "x_coord": "-122.396012",
+      "y_coord": "47.531176"
+    },
+    {
+      "pmaid": "468",
+      "name": "Westcrest Park",
+      "address": "9000 8th Ave SW",
+      "zip_code": "98106",
+      "x_coord": "-122.341719",
+      "y_coord": "47.525783"
+    },
+    {
+      "pmaid": "488",
+      "name": "Ravenna-Eckstein Park",
+      "address": "6535 Ravenna Ave NE",
+      "zip_code": "98115",
+      "x_coord": "-122.304964",
+      "y_coord": "47.676873"
+    },
+    {
+      "pmaid": "496",
+      "name": "Burke-Gilman Playground Park",
+      "address": "5201 Sand Point Way NE",
+      "zip_code": "98105",
+      "x_coord": "-122.282623",
+      "y_coord": "47.666634"
+    },
+    {
+      "pmaid": "497",
+      "name": "Ballard Playground",
+      "address": "2644 NW 60th St",
+      "zip_code": "98107",
+      "x_coord": "-122.39155",
+      "y_coord": "47.672786"
+    },
+    {
+      "pmaid": "592",
+      "name": "Sturgus Park",
+      "address": "904 Sturgus Ave S",
+      "zip_code": "98144",
+      "x_coord": "-122.314376",
+      "y_coord": "47.59409"
+    }
+  ],
+  "Baseball/Softball Fields": [
+    {
+      "pmaid": "114",
+      "name": "Jefferson Park",
+      "address": "3801 Beacon Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.311441",
+      "y_coord": "47.568067"
+    },
+    {
+      "pmaid": "241",
+      "name": "B.F. Day Playground",
+      "address": "4020 Fremont Ave N",
+      "zip_code": "98103",
+      "x_coord": "-122.349222",
+      "y_coord": "47.65603"
+    },
+    {
+      "pmaid": "242",
+      "name": "Gilman Playground",
+      "address": "923 NW 54th St",
+      "zip_code": "98107",
+      "x_coord": "-122.369684",
+      "y_coord": "47.667292"
+    },
+    {
+      "pmaid": "248",
+      "name": "Ross Playground",
+      "address": "4320 4th Ave NW",
+      "zip_code": "98107",
+      "x_coord": "-122.361347",
+      "y_coord": "47.659718"
+    },
+    {
+      "pmaid": "251",
+      "name": "Soundview Playfield",
+      "address": "1590 NW 90th St",
+      "zip_code": "98117",
+      "x_coord": "-122.378878",
+      "y_coord": "47.695416"
+    },
+    {
+      "pmaid": "288",
+      "name": "Bitter Lake Playfield",
+      "address": "13035 Linden Ave N",
+      "zip_code": "98133",
+      "x_coord": "-122.349314",
+      "y_coord": "47.724209"
+    },
+    {
+      "pmaid": "289",
+      "name": "Loyal Heights Playfield",
+      "address": "2101 NW 77th St",
+      "zip_code": "98117",
+      "x_coord": "-122.38324",
+      "y_coord": "47.684106"
+    },
+    {
+      "pmaid": "292",
+      "name": "Woodland Park",
+      "address": "1000 N 50th St",
+      "zip_code": "98103",
+      "x_coord": "-122.344218",
+      "y_coord": "47.668906"
+    },
+    {
+      "pmaid": "303",
+      "name": "Bayview Playground",
+      "address": "2614 24th Ave W",
+      "zip_code": "98199",
+      "x_coord": "-122.386786",
+      "y_coord": "47.643802"
+    },
+    {
+      "pmaid": "307",
+      "name": "Green Lake Park",
+      "address": "7201 E Greenlake Dr N",
+      "zip_code": "98115",
+      "x_coord": "-122.330394",
+      "y_coord": "47.678938"
+    },
+    {
+      "pmaid": "3102",
+      "name": "Cal Anderson Park and Bobby Morris Playfield",
+      "address": "1635 11th Ave",
+      "zip_code": "98122",
+      "x_coord": "-122.319134",
+      "y_coord": "47.617013"
+    },
+    {
+      "pmaid": "316",
+      "name": "Lawton Park",
+      "address": "4005 27th Ave W",
+      "zip_code": "98199",
+      "x_coord": "-122.391158",
+      "y_coord": "47.655065"
+    },
+    {
+      "pmaid": "319",
+      "name": "Magnolia Playfield",
+      "address": "2518 34th Ave W",
+      "zip_code": "98199",
+      "x_coord": "-122.399472",
+      "y_coord": "47.643746"
+    },
+    {
+      "pmaid": "329",
+      "name": "East Queen Anne Playground",
+      "address": "1912 Warren Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.353786",
+      "y_coord": "47.636139"
+    },
+    {
+      "pmaid": "330",
+      "name": "West Queen Anne Playfield",
+      "address": "150 W Blaine St",
+      "zip_code": "98119",
+      "x_coord": "-122.359504",
+      "y_coord": "47.635514"
+    },
+    {
+      "pmaid": "340",
+      "name": "Laurelhurst Playfield",
+      "address": "4544 NE 41st St",
+      "zip_code": "98105",
+      "x_coord": "-122.278019",
+      "y_coord": "47.65989"
+    },
+    {
+      "pmaid": "352",
+      "name": "Meadowbrook Playfield",
+      "address": "10533 35th Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.293493",
+      "y_coord": "47.705771"
+    },
+    {
+      "pmaid": "353",
+      "name": "Garfield Playfield",
+      "address": "537 25th Ave",
+      "zip_code": "98122",
+      "x_coord": "-122.301412",
+      "y_coord": "47.607098"
+    },
+    {
+      "pmaid": "361",
+      "name": "Northacres Park",
+      "address": "12718 1st Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.326124",
+      "y_coord": "47.721775"
+    },
+    {
+      "pmaid": "3703",
+      "name": "Bar-S Playground",
+      "address": "6425 SW Admiral Way",
+      "zip_code": "98116",
+      "x_coord": "-122.416054",
+      "y_coord": "47.575195"
+    },
+    {
+      "pmaid": "373",
+      "name": "Miller Playfield",
+      "address": "330 19th Ave E",
+      "zip_code": "98112",
+      "x_coord": "-122.306261",
+      "y_coord": "47.621433"
+    },
+    {
+      "pmaid": "376",
+      "name": "Montlake Playfield",
+      "address": "1618 E Calhoun St",
+      "zip_code": "98112",
+      "x_coord": "-122.310081",
+      "y_coord": "47.642407"
+    },
+    {
+      "pmaid": "380",
+      "name": "Rogers Playground",
+      "address": "2516 Eastlake Ave E",
+      "zip_code": "98102",
+      "x_coord": "-122.325257",
+      "y_coord": "47.642601"
+    },
+    {
+      "pmaid": "382",
+      "name": "Pinehurst Playground",
+      "address": "12029 14th Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.314628",
+      "y_coord": "47.716436"
+    },
+    {
+      "pmaid": "3881",
+      "name": "Maple Leaf Resevoir Park",
+      "address": "1020 NE 82nd St",
+      "zip_code": "98115",
+      "x_coord": "-122.315613",
+      "y_coord": "47.689015"
+    },
+    {
+      "pmaid": "3887",
+      "name": "Interbay Athletic Complex",
+      "address": "3027 17th Ave W",
+      "zip_code": "98119",
+      "x_coord": "-122.379191",
+      "y_coord": "47.647239"
+    },
+    {
+      "pmaid": "391",
+      "name": "Ravenna Park",
+      "address": "5520 Ravenna Ave NE",
+      "zip_code": "98105",
+      "x_coord": "-122.305705",
+      "y_coord": "47.671404"
+    },
+    {
+      "pmaid": "3941",
+      "name": "Walt Hundley Playfield",
+      "address": "6920 34th Ave SW",
+      "zip_code": "98126",
+      "x_coord": "-122.373415",
+      "y_coord": "47.54017"
+    },
+    {
+      "pmaid": "397",
+      "name": "Judkins Park and Playfield",
+      "address": "2150 S Norman St",
+      "zip_code": "98144",
+      "x_coord": "-122.303951",
+      "y_coord": "47.592425"
+    },
+    {
+      "pmaid": "3972",
+      "name": "Lakeridge Playfield",
+      "address": "10145 Rainier Ave S",
+      "zip_code": "98178",
+      "x_coord": "-122.246841",
+      "y_coord": "47.510319"
+    },
+    {
+      "pmaid": "398",
+      "name": "Warren G. Magnuson Park",
+      "address": "7400 Sand Point Way NE",
+      "zip_code": "98115",
+      "x_coord": "-122.255084",
+      "y_coord": "47.680304"
+    },
+    {
+      "pmaid": "400",
+      "name": "Beacon Hill Playground",
+      "address": "1902 13th Ave S",
+      "zip_code": "98144",
+      "x_coord": "-122.315325",
+      "y_coord": "47.586226"
+    },
+    {
+      "pmaid": "402",
+      "name": "Brighton Playfield",
+      "address": "6000 39th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.2821",
+      "y_coord": "47.548387"
+    },
+    {
+      "pmaid": "406",
+      "name": "Colman Playground",
+      "address": "1740 23rd Ave S",
+      "zip_code": "98122",
+      "x_coord": "-122.301957",
+      "y_coord": "47.587625"
+    },
+    {
+      "pmaid": "410",
+      "name": "Georgetown Playfield",
+      "address": "750 S Homer St",
+      "zip_code": "98108",
+      "x_coord": "-122.321396",
+      "y_coord": "47.55162"
+    },
+    {
+      "pmaid": "414",
+      "name": "Lakewood Playfield",
+      "address": "5013 S Angeline St",
+      "zip_code": "98118",
+      "x_coord": "-122.27006",
+      "y_coord": "47.558831"
+    },
+    {
+      "pmaid": "418",
+      "name": "Maple Wood Playfield",
+      "address": "4801 Corson Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.318845",
+      "y_coord": "47.560041"
+    },
+    {
+      "pmaid": "422",
+      "name": "Rainier Beach Playfield",
+      "address": "8802 Rainier Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.273136",
+      "y_coord": "47.525041"
+    },
+    {
+      "pmaid": "423",
+      "name": "Rainier Playfield",
+      "address": "3700 S Alaska St",
+      "zip_code": "98118",
+      "x_coord": "-122.2862",
+      "y_coord": "47.561817"
+    },
+    {
+      "pmaid": "431",
+      "name": "Van Asselt Playground",
+      "address": "7050 Beacon Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.294068",
+      "y_coord": "47.539446"
+    },
+    {
+      "pmaid": "435",
+      "name": "University Playground",
+      "address": "4745 9th Ave NE",
+      "zip_code": "98105",
+      "x_coord": "-122.319312",
+      "y_coord": "47.664447"
+    },
+    {
+      "pmaid": "439",
+      "name": "Hutchinson Playground",
+      "address": "59th Ave S & S Norfolk St",
+      "zip_code": "98118",
+      "x_coord": "-122.260062",
+      "y_coord": "47.514312"
+    },
+    {
+      "pmaid": "444",
+      "name": "View Ridge Playfield",
+      "address": "4408 NE 70th St",
+      "zip_code": "98115",
+      "x_coord": "-122.279969",
+      "y_coord": "47.679747"
+    },
+    {
+      "pmaid": "446",
+      "name": "Alki Playground",
+      "address": "5817 SW Lander St",
+      "zip_code": "98116",
+      "x_coord": "-122.407312",
+      "y_coord": "47.578497"
+    },
+    {
+      "pmaid": "450",
+      "name": "Delridge Playfield",
+      "address": "4458 Delridge Way SW",
+      "zip_code": "98106",
+      "x_coord": "-122.364371",
+      "y_coord": "47.562842"
+    },
+    {
+      "pmaid": "452",
+      "name": "Fairmount Playfield",
+      "address": "5400 Fauntleroy Way SW",
+      "zip_code": "98136",
+      "x_coord": "-122.380549",
+      "y_coord": "47.554041"
+    },
+    {
+      "pmaid": "456",
+      "name": "Hiawatha Playfield",
+      "address": "2700 California Ave SW",
+      "zip_code": "98116",
+      "x_coord": "-122.384965",
+      "y_coord": "47.578272"
+    },
+    {
+      "pmaid": "457",
+      "name": "Highland Park Playground",
+      "address": "1100 SW Cloverdale St",
+      "zip_code": "98106",
+      "x_coord": "-122.349034",
+      "y_coord": "47.52738"
+    },
+    {
+      "pmaid": "458",
+      "name": "E.C. Hughes Playground",
+      "address": "2805 SW Holden St",
+      "zip_code": "98126",
+      "x_coord": "-122.369545",
+      "y_coord": "47.532805"
+    },
+    {
+      "pmaid": "460",
+      "name": "Lincoln Park",
+      "address": "8011 Fauntleroy Way SW",
+      "zip_code": "98136",
+      "x_coord": "-122.396012",
+      "y_coord": "47.531176"
+    },
+    {
+      "pmaid": "463",
+      "name": "Riverview Playfield",
+      "address": "7226 12th Ave SW",
+      "zip_code": "98106",
+      "x_coord": "-122.348688",
+      "y_coord": "47.54101"
+    },
+    {
+      "pmaid": "464",
+      "name": "Roxhill Park",
+      "address": "2850 SW Roxbury St",
+      "zip_code": "98126",
+      "x_coord": "-122.368881",
+      "y_coord": "47.519496"
+    },
+    {
+      "pmaid": "467",
+      "name": "South Park Playground",
+      "address": "738 S Sullivan St",
+      "zip_code": "98108",
+      "x_coord": "-122.324159",
+      "y_coord": "47.528016"
+    },
+    {
+      "pmaid": "483",
+      "name": "Cowen Park",
+      "address": "5849 15th Ave NE",
+      "zip_code": "98105",
+      "x_coord": "-122.313072",
+      "y_coord": "47.672596"
+    },
+    {
+      "pmaid": "497",
+      "name": "Ballard Playground",
+      "address": "2644 NW 60th St",
+      "zip_code": "98107",
+      "x_coord": "-122.39155",
+      "y_coord": "47.672786"
+    },
+    {
+      "pmaid": "499",
+      "name": "Dahl Playfield",
+      "address": "7700 25th Ave NE",
+      "zip_code": "98115",
+      "x_coord": "-122.299309",
+      "y_coord": "47.685267"
+    }
+  ],
+  "Basketball Courts": [
+    {
+      "pmaid": "1104",
+      "name": "Meridian Playground",
+      "address": "4649 Sunnyside Ave N",
+      "zip_code": "98103",
+      "x_coord": "-122.332557",
+      "y_coord": "47.664159"
+    },
+    {
+      "pmaid": "114",
+      "name": "Jefferson Park",
+      "address": "3801 Beacon Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.311441",
+      "y_coord": "47.568067"
+    },
+    {
+      "pmaid": "241",
+      "name": "B.F. Day Playground",
+      "address": "4020 Fremont Ave N",
+      "zip_code": "98103",
+      "x_coord": "-122.349222",
+      "y_coord": "47.65603"
+    },
+    {
+      "pmaid": "242",
+      "name": "Gilman Playground",
+      "address": "923 NW 54th St",
+      "zip_code": "98107",
+      "x_coord": "-122.369684",
+      "y_coord": "47.667292"
+    },
+    {
+      "pmaid": "248",
+      "name": "Ross Playground",
+      "address": "4320 4th Ave NW",
+      "zip_code": "98107",
+      "x_coord": "-122.361347",
+      "y_coord": "47.659718"
+    },
+    {
+      "pmaid": "250",
+      "name": "Sandel Playground",
+      "address": "9053 1st Ave NW",
+      "zip_code": "98117",
+      "x_coord": "-122.358701",
+      "y_coord": "47.695134"
+    },
+    {
+      "pmaid": "289",
+      "name": "Loyal Heights Playfield",
+      "address": "2101 NW 77th St",
+      "zip_code": "98117",
+      "x_coord": "-122.38324",
+      "y_coord": "47.684106"
+    },
+    {
+      "pmaid": "303",
+      "name": "Bayview Playground",
+      "address": "2614 24th Ave W",
+      "zip_code": "98199",
+      "x_coord": "-122.386786",
+      "y_coord": "47.643802"
+    },
+    {
+      "pmaid": "307",
+      "name": "Green Lake Park",
+      "address": "7201 E Greenlake Dr N",
+      "zip_code": "98115",
+      "x_coord": "-122.330394",
+      "y_coord": "47.678938"
+    },
+    {
+      "pmaid": "310",
+      "name": "Discovery Park",
+      "address": "3801 Discovery Park Blvd",
+      "zip_code": "98199",
+      "x_coord": "-122.415282",
+      "y_coord": "47.66083"
+    },
+    {
+      "pmaid": "342",
+      "name": "Kerry Park",
+      "address": "211 W Highland Dr",
+      "zip_code": "98119",
+      "x_coord": "-122.359874",
+      "y_coord": "47.629023"
+    },
+    {
+      "pmaid": "345",
+      "name": "Powell Barnett Park",
+      "address": "352 Martin Luther King Jr Way",
+      "zip_code": "98112",
+      "x_coord": "-122.295998",
+      "y_coord": "47.605197"
+    },
+    {
+      "pmaid": "347",
+      "name": "Matthews Beach Park",
+      "address": "5100 NE 93rd St",
+      "zip_code": "98115",
+      "x_coord": "-122.271785",
+      "y_coord": "47.694564"
+    },
+    {
+      "pmaid": "350",
+      "name": "Cascade Playground",
+      "address": "333 Pontius Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.332355",
+      "y_coord": "47.621405"
+    },
+    {
+      "pmaid": "357",
+      "name": "Prentis I. Frazier Park",
+      "address": "401 24th Ave E",
+      "zip_code": "98112",
+      "x_coord": "-122.301614",
+      "y_coord": "47.622895"
+    },
+    {
+      "pmaid": "363",
+      "name": "Flo Ware Park",
+      "address": "2800 S Jackson St",
+      "zip_code": "98144",
+      "x_coord": "-122.295868",
+      "y_coord": "47.599557"
+    },
+    {
+      "pmaid": "371",
+      "name": "Madrona Playground",
+      "address": "3211 E Spring St",
+      "zip_code": "98122",
+      "x_coord": "-122.289885",
+      "y_coord": "47.611022"
+    },
+    {
+      "pmaid": "373",
+      "name": "Miller Playfield",
+      "address": "330 19th Ave E",
+      "zip_code": "98112",
+      "x_coord": "-122.306261",
+      "y_coord": "47.621433"
+    },
+    {
+      "pmaid": "382",
+      "name": "Pinehurst Playground",
+      "address": "12029 14th Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.314628",
+      "y_coord": "47.716436"
+    },
+    {
+      "pmaid": "3894",
+      "name": "Webster Park",
+      "address": "3025 NW 68th St",
+      "zip_code": "98117",
+      "x_coord": "-122.397851",
+      "y_coord": "47.677832"
+    },
+    {
+      "pmaid": "390",
+      "name": "Pratt Park",
+      "address": "1800 S Main St",
+      "zip_code": "98144",
+      "x_coord": "-122.307257",
+      "y_coord": "47.601407"
+    },
+    {
+      "pmaid": "391",
+      "name": "Ravenna Park",
+      "address": "5520 Ravenna Ave NE",
+      "zip_code": "98105",
+      "x_coord": "-122.305705",
+      "y_coord": "47.671404"
+    },
+    {
+      "pmaid": "397",
+      "name": "Judkins Park and Playfield",
+      "address": "2150 S Norman St",
+      "zip_code": "98144",
+      "x_coord": "-122.303951",
+      "y_coord": "47.592425"
+    },
+    {
+      "pmaid": "3972",
+      "name": "Lakeridge Playfield",
+      "address": "10145 Rainier Ave S",
+      "zip_code": "98178",
+      "x_coord": "-122.246841",
+      "y_coord": "47.510319"
+    },
+    {
+      "pmaid": "400",
+      "name": "Beacon Hill Playground",
+      "address": "1902 13th Ave S",
+      "zip_code": "98144",
+      "x_coord": "-122.315325",
+      "y_coord": "47.586226"
+    },
+    {
+      "pmaid": "401",
+      "name": "Bradner Gardens Park",
+      "address": "1730 Bradner Pl S",
+      "zip_code": "98144",
+      "x_coord": "-122.295426",
+      "y_coord": "47.587419"
+    },
+    {
+      "pmaid": "402",
+      "name": "Brighton Playfield",
+      "address": "6000 39th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.2821",
+      "y_coord": "47.548387"
+    },
+    {
+      "pmaid": "403",
+      "name": "Othello Playground",
+      "address": "4351 S Othello St",
+      "zip_code": "98118",
+      "x_coord": "-122.278105",
+      "y_coord": "47.536214"
+    },
+    {
+      "pmaid": "406",
+      "name": "Colman Playground",
+      "address": "1740 23rd Ave S",
+      "zip_code": "98122",
+      "x_coord": "-122.301957",
+      "y_coord": "47.587625"
+    },
+    {
+      "pmaid": "410",
+      "name": "Georgetown Playfield",
+      "address": "750 S Homer St",
+      "zip_code": "98108",
+      "x_coord": "-122.321396",
+      "y_coord": "47.55162"
+    },
+    {
+      "pmaid": "418",
+      "name": "Maple Wood Playfield",
+      "address": "4801 Corson Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.318845",
+      "y_coord": "47.560041"
+    },
+    {
+      "pmaid": "423",
+      "name": "Rainier Playfield",
+      "address": "3700 S Alaska St",
+      "zip_code": "98118",
+      "x_coord": "-122.2862",
+      "y_coord": "47.561817"
+    },
+    {
+      "pmaid": "429",
+      "name": "John C. Little, Sr. Park",
+      "address": "6961 37th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.286686",
+      "y_coord": "47.539048"
+    },
+    {
+      "pmaid": "431",
+      "name": "Van Asselt Playground",
+      "address": "7050 Beacon Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.294068",
+      "y_coord": "47.539446"
+    },
+    {
+      "pmaid": "436",
+      "name": "Benefit Playground",
+      "address": "9320 38th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.284294",
+      "y_coord": "47.518998"
+    },
+    {
+      "pmaid": "439",
+      "name": "Hutchinson Playground",
+      "address": "59th Ave S & S Norfolk St",
+      "zip_code": "98118",
+      "x_coord": "-122.260062",
+      "y_coord": "47.514312"
+    },
+    {
+      "pmaid": "444",
+      "name": "View Ridge Playfield",
+      "address": "4408 NE 70th St",
+      "zip_code": "98115",
+      "x_coord": "-122.279969",
+      "y_coord": "47.679747"
+    },
+    {
+      "pmaid": "446",
+      "name": "Alki Playground",
+      "address": "5817 SW Lander St",
+      "zip_code": "98116",
+      "x_coord": "-122.407312",
+      "y_coord": "47.578497"
+    },
+    {
+      "pmaid": "450",
+      "name": "Delridge Playfield",
+      "address": "4458 Delridge Way SW",
+      "zip_code": "98106",
+      "x_coord": "-122.364371",
+      "y_coord": "47.562842"
+    },
+    {
+      "pmaid": "456",
+      "name": "Hiawatha Playfield",
+      "address": "2700 California Ave SW",
+      "zip_code": "98116",
+      "x_coord": "-122.384965",
+      "y_coord": "47.578272"
+    },
+    {
+      "pmaid": "458",
+      "name": "E.C. Hughes Playground",
+      "address": "2805 SW Holden St",
+      "zip_code": "98126",
+      "x_coord": "-122.369545",
+      "y_coord": "47.532805"
+    },
+    {
+      "pmaid": "463",
+      "name": "Riverview Playfield",
+      "address": "7226 12th Ave SW",
+      "zip_code": "98106",
+      "x_coord": "-122.348688",
+      "y_coord": "47.54101"
+    },
+    {
+      "pmaid": "482",
+      "name": "Bryant Neighborhood Playground",
+      "address": "4103 NE 65th St",
+      "zip_code": "98115",
+      "x_coord": "-122.283644",
+      "y_coord": "47.675299"
+    },
+    {
+      "pmaid": "488",
+      "name": "Ravenna-Eckstein Park",
+      "address": "6535 Ravenna Ave NE",
+      "zip_code": "98115",
+      "x_coord": "-122.304964",
+      "y_coord": "47.676873"
+    },
+    {
+      "pmaid": "496",
+      "name": "Burke-Gilman Playground Park",
+      "address": "5201 Sand Point Way NE",
+      "zip_code": "98105",
+      "x_coord": "-122.282623",
+      "y_coord": "47.666634"
+    },
+    {
+      "pmaid": "499",
+      "name": "Dahl Playfield",
+      "address": "7700 25th Ave NE",
+      "zip_code": "98115",
+      "x_coord": "-122.299309",
+      "y_coord": "47.685267"
+    },
+    {
+      "pmaid": "595",
+      "name": "Christie Park",
+      "address": "817 NE 43rd St",
+      "zip_code": "98105",
+      "x_coord": "-122.319072",
+      "y_coord": "47.659308"
+    }
+  ],
+  "Dog Off Leash Areas": [
+    {
+      "pmaid": "243",
+      "name": "Golden Gardens Park",
+      "address": "8498 Seaview Pl NW",
+      "zip_code": "98117",
+      "x_coord": "-122.403454",
+      "y_coord": "47.686852"
+    },
+    {
+      "pmaid": "292",
+      "name": "Woodland Park",
+      "address": "1000 N 50th St",
+      "zip_code": "98103",
+      "x_coord": "-122.344218",
+      "y_coord": "47.668906"
+    },
+    {
+      "pmaid": "309",
+      "name": "Denny Park",
+      "address": "100 Dexter Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.341049",
+      "y_coord": "47.61913"
+    },
+    {
+      "pmaid": "314",
+      "name": "Kinnear Park",
+      "address": "899 W Olympic Pl",
+      "zip_code": "98119",
+      "x_coord": "-122.367207",
+      "y_coord": "47.627317"
+    },
+    {
+      "pmaid": "336",
+      "name": "Regrade Park",
+      "address": "2251 3rd Ave",
+      "zip_code": "98121",
+      "x_coord": "-122.344776",
+      "y_coord": "47.614346"
+    },
+    {
+      "pmaid": "361",
+      "name": "Northacres Park",
+      "address": "12718 1st Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.326124",
+      "y_coord": "47.721775"
+    },
+    {
+      "pmaid": "398",
+      "name": "Warren G. Magnuson Park",
+      "address": "7400 Sand Point Way NE",
+      "zip_code": "98115",
+      "x_coord": "-122.255084",
+      "y_coord": "47.680304"
+    },
+    {
+      "pmaid": "4000",
+      "name": "Plymouth Pillars Park",
+      "address": "1050 Pike St",
+      "zip_code": "98101",
+      "x_coord": "-122.329092",
+      "y_coord": "47.614124"
+    },
+    {
+      "pmaid": "409",
+      "name": "Genesee Park and Playfield",
+      "address": "4316 S Genesee St",
+      "zip_code": "98118",
+      "x_coord": "-122.278744",
+      "y_coord": "47.564856"
+    },
+    {
+      "pmaid": "433",
+      "name": "Dr. Jose Rizal Park",
+      "address": "1007 12th Ave S",
+      "zip_code": "98144",
+      "x_coord": "-122.318094",
+      "y_coord": "47.593859"
+    },
+    {
+      "pmaid": "4418",
+      "name": "Blue Dog Pond",
+      "address": "1520 26th Ave S",
+      "zip_code": "98144",
+      "x_coord": "-122.297814",
+      "y_coord": "47.589982"
+    },
+    {
+      "pmaid": "4446",
+      "name": "I-5 Colonnade",
+      "address": "1701 Lakeview Blvd E",
+      "zip_code": "98102",
+      "x_coord": "-122.323409",
+      "y_coord": "47.634898"
+    },
+    {
+      "pmaid": "468",
+      "name": "Westcrest Park",
+      "address": "9000 8th Ave SW",
+      "zip_code": "98106",
+      "x_coord": "-122.341719",
+      "y_coord": "47.525783"
+    },
+    {
+      "pmaid": "747",
+      "name": "Magnolia Manor Park",
+      "address": "3500 28th Ave W",
+      "zip_code": "98119",
+      "x_coord": "-122.390877",
+      "y_coord": "47.651085"
+    }
+  ],
+  "Drinking fountains": [
+    {
+      "pmaid": "1104",
+      "name": "Meridian Playground",
+      "address": "4649 Sunnyside Ave N",
+      "zip_code": "98103",
+      "x_coord": "-122.332557",
+      "y_coord": "47.664159"
+    },
+    {
+      "pmaid": "114",
+      "name": "Jefferson Park",
+      "address": "3801 Beacon Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.311441",
+      "y_coord": "47.568067"
+    },
+    {
+      "pmaid": "240",
+      "name": "Carkeek Park",
+      "address": "950 NW Carkeek Park Rd",
+      "zip_code": "98117",
+      "x_coord": "-122.379763",
+      "y_coord": "47.712194"
+    },
+    {
+      "pmaid": "241",
+      "name": "B.F. Day Playground",
+      "address": "4020 Fremont Ave N",
+      "zip_code": "98103",
+      "x_coord": "-122.349222",
+      "y_coord": "47.65603"
+    },
+    {
+      "pmaid": "242",
+      "name": "Gilman Playground",
+      "address": "923 NW 54th St",
+      "zip_code": "98107",
+      "x_coord": "-122.369684",
+      "y_coord": "47.667292"
+    },
+    {
+      "pmaid": "243",
+      "name": "Golden Gardens Park",
+      "address": "8498 Seaview Pl NW",
+      "zip_code": "98117",
+      "x_coord": "-122.403454",
+      "y_coord": "47.686852"
+    },
+    {
+      "pmaid": "244",
+      "name": "Albert Davis Park",
+      "address": "12526 27th Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.298752",
+      "y_coord": "47.72016"
+    },
+    {
+      "pmaid": "248",
+      "name": "Ross Playground",
+      "address": "4320 4th Ave NW",
+      "zip_code": "98107",
+      "x_coord": "-122.361347",
+      "y_coord": "47.659718"
+    },
+    {
+      "pmaid": "249",
+      "name": "Salmon Bay Park",
+      "address": "2001 NW Canoe Pl",
+      "zip_code": "98117",
+      "x_coord": "-122.381343",
+      "y_coord": "47.679297"
+    },
+    {
+      "pmaid": "250",
+      "name": "Sandel Playground",
+      "address": "9053 1st Ave NW",
+      "zip_code": "98117",
+      "x_coord": "-122.358701",
+      "y_coord": "47.695134"
+    },
+    {
+      "pmaid": "251",
+      "name": "Soundview Playfield",
+      "address": "1590 NW 90th St",
+      "zip_code": "98117",
+      "x_coord": "-122.378878",
+      "y_coord": "47.695416"
+    },
+    {
+      "pmaid": "2840",
+      "name": "Baker Park on Crown Hill",
+      "address": "8347 14th Ave NW",
+      "zip_code": "98117",
+      "x_coord": "-122.374794",
+      "y_coord": "47.690119"
+    },
+    {
+      "pmaid": "286",
+      "name": "Licton Springs Park",
+      "address": "9536 Ashworth Ave N",
+      "zip_code": "98103",
+      "x_coord": "-122.338735",
+      "y_coord": "47.698542"
+    },
+    {
+      "pmaid": "288",
+      "name": "Bitter Lake Playfield",
+      "address": "13035 Linden Ave N",
+      "zip_code": "98133",
+      "x_coord": "-122.349314",
+      "y_coord": "47.724209"
+    },
+    {
+      "pmaid": "289",
+      "name": "Loyal Heights Playfield",
+      "address": "2101 NW 77th St",
+      "zip_code": "98117",
+      "x_coord": "-122.38324",
+      "y_coord": "47.684106"
+    },
+    {
+      "pmaid": "292",
+      "name": "Woodland Park",
+      "address": "1000 N 50th St",
+      "zip_code": "98103",
+      "x_coord": "-122.344218",
+      "y_coord": "47.668906"
+    },
+    {
+      "pmaid": "293",
+      "name": "Gas Works Park",
+      "address": "2101 N Northlake Way",
+      "zip_code": "98103",
+      "x_coord": "-122.334906",
+      "y_coord": "47.645639"
+    },
+    {
+      "pmaid": "297",
+      "name": "Little Brook Park",
+      "address": "14043 32nd Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.294567",
+      "y_coord": "47.731387"
+    },
+    {
+      "pmaid": "304",
+      "name": "Bhy Kracke Park",
+      "address": "1215 5th Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.348403",
+      "y_coord": "47.630426"
+    },
+    {
+      "pmaid": "307",
+      "name": "Green Lake Park",
+      "address": "7201 E Greenlake Dr N",
+      "zip_code": "98115",
+      "x_coord": "-122.330394",
+      "y_coord": "47.678938"
+    },
+    {
+      "pmaid": "308",
+      "name": "Commodore Park",
+      "address": "3330 W Commodore Way",
+      "zip_code": "98107",
+      "x_coord": "-122.40014",
+      "y_coord": "47.66538"
+    },
+    {
+      "pmaid": "309",
+      "name": "Denny Park",
+      "address": "100 Dexter Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.341049",
+      "y_coord": "47.61913"
+    },
+    {
+      "pmaid": "310",
+      "name": "Discovery Park",
+      "address": "3801 Discovery Park Blvd",
+      "zip_code": "98199",
+      "x_coord": "-122.415282",
+      "y_coord": "47.66083"
+    },
+    {
+      "pmaid": "3102",
+      "name": "Cal Anderson Park and Bobby Morris Playfield",
+      "address": "1635 11th Ave",
+      "zip_code": "98122",
+      "x_coord": "-122.319134",
+      "y_coord": "47.617013"
+    },
+    {
+      "pmaid": "3117",
+      "name": "Spruce Street Mini Park",
+      "address": "160 21st Ave",
+      "zip_code": "98122",
+      "x_coord": "-122.304648",
+      "y_coord": "47.603091"
+    },
+    {
+      "pmaid": "314",
+      "name": "Kinnear Park",
+      "address": "899 W Olympic Pl",
+      "zip_code": "98119",
+      "x_coord": "-122.367207",
+      "y_coord": "47.627317"
+    },
+    {
+      "pmaid": "317",
+      "name": "Magnolia Park",
+      "address": "1461 Magnolia Blvd W",
+      "zip_code": "98199",
+      "x_coord": "-122.398993",
+      "y_coord": "47.632366"
+    },
+    {
+      "pmaid": "318",
+      "name": "Ella Bailey Park",
+      "address": "2601 W Smith St",
+      "zip_code": "98199",
+      "x_coord": "-122.39106",
+      "y_coord": "47.640584"
+    },
+    {
+      "pmaid": "319",
+      "name": "Magnolia Playfield",
+      "address": "2518 34th Ave W",
+      "zip_code": "98199",
+      "x_coord": "-122.399472",
+      "y_coord": "47.643746"
+    },
+    {
+      "pmaid": "321",
+      "name": "Mayfair Park",
+      "address": "2600 2nd Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.353356",
+      "y_coord": "47.643241"
+    },
+    {
+      "pmaid": "322",
+      "name": "Observatory Courts",
+      "address": "1405 Warren Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.355134",
+      "y_coord": "47.631342"
+    },
+    {
+      "pmaid": "325",
+      "name": "Pioneer Square",
+      "address": "100 Yesler Way",
+      "zip_code": "98104",
+      "x_coord": "-122.333886",
+      "y_coord": "47.602076"
+    },
+    {
+      "pmaid": "326",
+      "name": "Prefontaine Place",
+      "address": "425 3rd Ave",
+      "zip_code": "98104",
+      "x_coord": "-122.330883",
+      "y_coord": "47.601844"
+    },
+    {
+      "pmaid": "329",
+      "name": "East Queen Anne Playground",
+      "address": "1912 Warren Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.353786",
+      "y_coord": "47.636139"
+    },
+    {
+      "pmaid": "330",
+      "name": "West Queen Anne Playfield",
+      "address": "150 W Blaine St",
+      "zip_code": "98119",
+      "x_coord": "-122.359504",
+      "y_coord": "47.635514"
+    },
+    {
+      "pmaid": "331",
+      "name": "David Rodgers Park",
+      "address": "2800 1st Ave W",
+      "zip_code": "98119",
+      "x_coord": "-122.359484",
+      "y_coord": "47.644135"
+    },
+    {
+      "pmaid": "336",
+      "name": "Regrade Park",
+      "address": "2251 3rd Ave",
+      "zip_code": "98121",
+      "x_coord": "-122.344776",
+      "y_coord": "47.614346"
+    },
+    {
+      "pmaid": "338",
+      "name": "Victor Steinbrueck Park",
+      "address": "2001 Western Ave",
+      "zip_code": "98121",
+      "x_coord": "-122.343869",
+      "y_coord": "47.610153"
+    },
+    {
+      "pmaid": "340",
+      "name": "Laurelhurst Playfield",
+      "address": "4544 NE 41st St",
+      "zip_code": "98105",
+      "x_coord": "-122.278019",
+      "y_coord": "47.65989"
+    },
+    {
+      "pmaid": "342",
+      "name": "Kerry Park",
+      "address": "211 W Highland Dr",
+      "zip_code": "98119",
+      "x_coord": "-122.359874",
+      "y_coord": "47.629023"
+    },
+    {
+      "pmaid": "344",
+      "name": "Lake Union Park",
+      "address": "860 Terry Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.338848",
+      "y_coord": "47.627015"
+    },
+    {
+      "pmaid": "345",
+      "name": "Powell Barnett Park",
+      "address": "352 Martin Luther King Jr Way",
+      "zip_code": "98112",
+      "x_coord": "-122.295998",
+      "y_coord": "47.605197"
+    },
+    {
+      "pmaid": "347",
+      "name": "Matthews Beach Park",
+      "address": "5100 NE 93rd St",
+      "zip_code": "98115",
+      "x_coord": "-122.271785",
+      "y_coord": "47.694564"
+    },
+    {
+      "pmaid": "351",
+      "name": "Firehouse Mini Park",
+      "address": "712 18th Ave",
+      "zip_code": "98122",
+      "x_coord": "-122.308558",
+      "y_coord": "47.608448"
+    },
+    {
+      "pmaid": "352",
+      "name": "Meadowbrook Playfield",
+      "address": "10533 35th Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.293493",
+      "y_coord": "47.705771"
+    },
+    {
+      "pmaid": "353",
+      "name": "Garfield Playfield",
+      "address": "537 25th Ave",
+      "zip_code": "98122",
+      "x_coord": "-122.301412",
+      "y_coord": "47.607098"
+    },
+    {
+      "pmaid": "358",
+      "name": "Hing Hay Park",
+      "address": "423 Maynard Ave S",
+      "zip_code": "98104",
+      "x_coord": "-122.325435",
+      "y_coord": "47.598609"
+    },
+    {
+      "pmaid": "361",
+      "name": "Northacres Park",
+      "address": "12718 1st Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.326124",
+      "y_coord": "47.721775"
+    },
+    {
+      "pmaid": "364",
+      "name": "International Children's Park",
+      "address": "700 S Lane St",
+      "zip_code": "98104",
+      "x_coord": "-122.323412",
+      "y_coord": "47.596897"
+    },
+    {
+      "pmaid": "367",
+      "name": "Leschi Park",
+      "address": "201 Lakeside Ave. S",
+      "zip_code": "98122",
+      "x_coord": "-122.286548",
+      "y_coord": "47.600931"
+    },
+    {
+      "pmaid": "369",
+      "name": "Madison Park",
+      "address": "4201 E Madison St",
+      "zip_code": "98112",
+      "x_coord": "-122.276602",
+      "y_coord": "47.635779"
+    },
+    {
+      "pmaid": "3694",
+      "name": "West Ewing Mini Park",
+      "address": "244 W Ewing St",
+      "zip_code": "98119",
+      "x_coord": "-122.360602",
+      "y_coord": "47.65205"
+    },
+    {
+      "pmaid": "370",
+      "name": "Madrona Park",
+      "address": "853 Lake Washington Blvd",
+      "zip_code": "98122",
+      "x_coord": "-122.282679",
+      "y_coord": "47.609299"
+    },
+    {
+      "pmaid": "371",
+      "name": "Madrona Playground",
+      "address": "3211 E Spring St",
+      "zip_code": "98122",
+      "x_coord": "-122.289885",
+      "y_coord": "47.611022"
+    },
+    {
+      "pmaid": "373",
+      "name": "Miller Playfield",
+      "address": "330 19th Ave E",
+      "zip_code": "98112",
+      "x_coord": "-122.306261",
+      "y_coord": "47.621433"
+    },
+    {
+      "pmaid": "380",
+      "name": "Rogers Playground",
+      "address": "2516 Eastlake Ave E",
+      "zip_code": "98102",
+      "x_coord": "-122.325257",
+      "y_coord": "47.642601"
+    },
+    {
+      "pmaid": "382",
+      "name": "Pinehurst Playground",
+      "address": "12029 14th Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.314628",
+      "y_coord": "47.716436"
+    },
+    {
+      "pmaid": "3887",
+      "name": "Interbay Athletic Complex",
+      "address": "3027 17th Ave W",
+      "zip_code": "98119",
+      "x_coord": "-122.379191",
+      "y_coord": "47.647239"
+    },
+    {
+      "pmaid": "3894",
+      "name": "Webster Park",
+      "address": "3025 NW 68th St",
+      "zip_code": "98117",
+      "x_coord": "-122.397851",
+      "y_coord": "47.677832"
+    },
+    {
+      "pmaid": "3901",
+      "name": "Sunset Place",
+      "address": "105 NW 52nd St",
+      "zip_code": "98107",
+      "x_coord": "-122.357602",
+      "y_coord": "47.666686"
+    },
+    {
+      "pmaid": "391",
+      "name": "Ravenna Park",
+      "address": "5520 Ravenna Ave NE",
+      "zip_code": "98105",
+      "x_coord": "-122.305705",
+      "y_coord": "47.671404"
+    },
+    {
+      "pmaid": "3910",
+      "name": "First Hill Park",
+      "address": "1201 University St",
+      "zip_code": "98101",
+      "x_coord": "-122.325512",
+      "y_coord": "47.611906"
+    },
+    {
+      "pmaid": "3913",
+      "name": "T.T. Minor Playground",
+      "address": "1698 E Union St",
+      "zip_code": "98122",
+      "x_coord": "-122.310543",
+      "y_coord": "47.613111"
+    },
+    {
+      "pmaid": "3917",
+      "name": "Don Armeni Park",
+      "address": "1222 Harbor Ave SW",
+      "zip_code": "98116",
+      "x_coord": "-122.382295",
+      "y_coord": "47.59274"
+    },
+    {
+      "pmaid": "3920",
+      "name": "Emma Schmitz Memorial Overlook",
+      "address": "4503 Beach Dr SW",
+      "zip_code": "98116",
+      "x_coord": "-122.40712",
+      "y_coord": "47.562898"
+    },
+    {
+      "pmaid": "3922",
+      "name": "College Street Park",
+      "address": "30th Ave S & S College St",
+      "zip_code": "98144",
+      "x_coord": "-122.294616",
+      "y_coord": "47.582697"
+    },
+    {
+      "pmaid": "3941",
+      "name": "Walt Hundley Playfield",
+      "address": "6920 34th Ave SW",
+      "zip_code": "98126",
+      "x_coord": "-122.373415",
+      "y_coord": "47.54017"
+    },
+    {
+      "pmaid": "395",
+      "name": "Dr. Blanche Lavizzo Park",
+      "address": "2100 S Jackson St",
+      "zip_code": "98144",
+      "x_coord": "-122.304179",
+      "y_coord": "47.600278"
+    },
+    {
+      "pmaid": "3972",
+      "name": "Lakeridge Playfield",
+      "address": "10145 Rainier Ave S",
+      "zip_code": "98178",
+      "x_coord": "-122.246841",
+      "y_coord": "47.510319"
+    },
+    {
+      "pmaid": "3973",
+      "name": "Waterfront Park",
+      "address": "1401 Alaskan Way",
+      "zip_code": "98101",
+      "x_coord": "-122.342196",
+      "y_coord": "47.606778"
+    },
+    {
+      "pmaid": "398",
+      "name": "Warren G. Magnuson Park",
+      "address": "7400 Sand Point Way NE",
+      "zip_code": "98115",
+      "x_coord": "-122.255084",
+      "y_coord": "47.680304"
+    },
+    {
+      "pmaid": "3984",
+      "name": "Queen Anne Bowl Playfield",
+      "address": "2806 3rd Ave W",
+      "zip_code": "98119",
+      "x_coord": "-122.359711",
+      "y_coord": "47.645599"
+    },
+    {
+      "pmaid": "3985",
+      "name": "Coe Play Park",
+      "address": "2420 7th Ave W",
+      "zip_code": "98119",
+      "x_coord": "-122.365952",
+      "y_coord": "47.640108"
+    },
+    {
+      "pmaid": "399",
+      "name": "Volunteer Park",
+      "address": "1247 15th Ave E",
+      "zip_code": "98112",
+      "x_coord": "-122.315568",
+      "y_coord": "47.630378"
+    },
+    {
+      "pmaid": "400",
+      "name": "Beacon Hill Playground",
+      "address": "1902 13th Ave S",
+      "zip_code": "98144",
+      "x_coord": "-122.315325",
+      "y_coord": "47.586226"
+    },
+    {
+      "pmaid": "4000",
+      "name": "Plymouth Pillars Park",
+      "address": "1050 Pike St",
+      "zip_code": "98101",
+      "x_coord": "-122.329092",
+      "y_coord": "47.614124"
+    },
+    {
+      "pmaid": "4002",
+      "name": "Virgil Flaim Park",
+      "address": "2700 NE 123rd St",
+      "zip_code": "98125",
+      "x_coord": "-122.299374",
+      "y_coord": "47.717955"
+    },
+    {
+      "pmaid": "402",
+      "name": "Brighton Playfield",
+      "address": "6000 39th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.2821",
+      "y_coord": "47.548387"
+    },
+    {
+      "pmaid": "404",
+      "name": "Cleveland Playfield",
+      "address": "5512 13th Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.315542",
+      "y_coord": "47.552012"
+    },
+    {
+      "pmaid": "4075",
+      "name": "Lynn Street Mini Park",
+      "address": "2291 Fairview Ave E",
+      "zip_code": "98102",
+      "x_coord": "-122.32975",
+      "y_coord": "47.639849"
+    },
+    {
+      "pmaid": "408",
+      "name": "Dearborn Park",
+      "address": "2919 S Brandon St",
+      "zip_code": "98126",
+      "x_coord": "-122.296225",
+      "y_coord": "47.553389"
+    },
+    {
+      "pmaid": "409",
+      "name": "Genesee Park and Playfield",
+      "address": "4316 S Genesee St",
+      "zip_code": "98118",
+      "x_coord": "-122.278744",
+      "y_coord": "47.564856"
+    },
+    {
+      "pmaid": "410",
+      "name": "Georgetown Playfield",
+      "address": "750 S Homer St",
+      "zip_code": "98108",
+      "x_coord": "-122.321396",
+      "y_coord": "47.55162"
+    },
+    {
+      "pmaid": "414",
+      "name": "Lakewood Playfield",
+      "address": "5013 S Angeline St",
+      "zip_code": "98118",
+      "x_coord": "-122.27006",
+      "y_coord": "47.558831"
+    },
+    {
+      "pmaid": "4153",
+      "name": "Jefferson Park Golf Course",
+      "address": "4101 Beacon Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.305242",
+      "y_coord": "47.567202"
+    },
+    {
+      "pmaid": "4154",
+      "name": "Camp Long",
+      "address": "5200 35th Ave SW",
+      "zip_code": "98126",
+      "x_coord": "-122.373161",
+      "y_coord": "47.556242"
+    },
+    {
+      "pmaid": "4167",
+      "name": "Cedar Park",
+      "address": "3737 NE 135th St",
+      "zip_code": "98125",
+      "x_coord": "-122.288042",
+      "y_coord": "47.725808"
+    },
+    {
+      "pmaid": "418",
+      "name": "Maple Wood Playfield",
+      "address": "4801 Corson Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.318845",
+      "y_coord": "47.560041"
+    },
+    {
+      "pmaid": "419",
+      "name": "Mt. Baker Park",
+      "address": "2521 Lake Park Dr S",
+      "zip_code": "98144",
+      "x_coord": "-122.288481",
+      "y_coord": "47.580957"
+    },
+    {
+      "pmaid": "4201",
+      "name": "Puget Ridge Playground",
+      "address": "6029 21st Ave SW",
+      "zip_code": "98106",
+      "x_coord": "-122.359947",
+      "y_coord": "47.547368"
+    },
+    {
+      "pmaid": "422",
+      "name": "Rainier Beach Playfield",
+      "address": "8802 Rainier Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.273136",
+      "y_coord": "47.525041"
+    },
+    {
+      "pmaid": "423",
+      "name": "Rainier Playfield",
+      "address": "3700 S Alaska St",
+      "zip_code": "98118",
+      "x_coord": "-122.2862",
+      "y_coord": "47.561817"
+    },
+    {
+      "pmaid": "4242",
+      "name": "Sam Smith Park",
+      "address": "1400 Martin Luther King Jr Way S",
+      "zip_code": "98122",
+      "x_coord": "-122.297814",
+      "y_coord": "47.589982"
+    },
+    {
+      "pmaid": "426",
+      "name": "Amy Yee Tennis Center",
+      "address": "2000 Martin Luther King Jr Way S",
+      "zip_code": "98144",
+      "x_coord": "-122.29742",
+      "y_coord": "47.584876"
+    },
+    {
+      "pmaid": "4278",
+      "name": "Ballard Commons Park",
+      "address": "5701 22nd Ave NW",
+      "zip_code": "98107",
+      "x_coord": "-122.385487",
+      "y_coord": "47.670549"
+    },
+    {
+      "pmaid": "428",
+      "name": "Seward Park",
+      "address": "5900 Lake Washington Blvd S",
+      "zip_code": "98118",
+      "x_coord": "-122.250639",
+      "y_coord": "47.54923"
+    },
+    {
+      "pmaid": "429",
+      "name": "John C. Little, Sr. Park",
+      "address": "6961 37th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.286686",
+      "y_coord": "47.539048"
+    },
+    {
+      "pmaid": "431",
+      "name": "Van Asselt Playground",
+      "address": "7050 Beacon Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.294068",
+      "y_coord": "47.539446"
+    },
+    {
+      "pmaid": "433",
+      "name": "Dr. Jose Rizal Park",
+      "address": "1007 12th Ave S",
+      "zip_code": "98144",
+      "x_coord": "-122.318094",
+      "y_coord": "47.593859"
+    },
+    {
+      "pmaid": "435",
+      "name": "University Playground",
+      "address": "4745 9th Ave NE",
+      "zip_code": "98105",
+      "x_coord": "-122.319312",
+      "y_coord": "47.664447"
+    },
+    {
+      "pmaid": "436",
+      "name": "Benefit Playground",
+      "address": "9320 38th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.284294",
+      "y_coord": "47.518998"
+    },
+    {
+      "pmaid": "438",
+      "name": "Victory Heights Playground",
+      "address": "1737 NE 106th St",
+      "zip_code": "98125",
+      "x_coord": "-122.307834",
+      "y_coord": "47.705672"
+    },
+    {
+      "pmaid": "439",
+      "name": "Hutchinson Playground",
+      "address": "59th Ave S & S Norfolk St",
+      "zip_code": "98118",
+      "x_coord": "-122.260062",
+      "y_coord": "47.514312"
+    },
+    {
+      "pmaid": "440",
+      "name": "Beer Sheva Park",
+      "address": "8650 55th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.263223",
+      "y_coord": "47.524191"
+    },
+    {
+      "pmaid": "4408",
+      "name": "Greenwood Park",
+      "address": "602 N 87th St",
+      "zip_code": "98117",
+      "x_coord": "-122.350647",
+      "y_coord": "47.693048"
+    },
+    {
+      "pmaid": "4427",
+      "name": "Mt. Baker Ridge Viewpoint",
+      "address": "1403 31st Ave S",
+      "zip_code": "98144",
+      "x_coord": "-122.292616",
+      "y_coord": "47.589983"
+    },
+    {
+      "pmaid": "4433",
+      "name": "Smith Cove",
+      "address": "23rd Ave West",
+      "zip_code": "98199",
+      "x_coord": "-122.387679",
+      "y_coord": "47.632602"
+    },
+    {
+      "pmaid": "4438",
+      "name": "Counterbalance Park: An Urban Oasis",
+      "address": "700 Queen Anne Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.356323",
+      "y_coord": "47.625683"
+    },
+    {
+      "pmaid": "444",
+      "name": "View Ridge Playfield",
+      "address": "4408 NE 70th St",
+      "zip_code": "98115",
+      "x_coord": "-122.279969",
+      "y_coord": "47.679747"
+    },
+    {
+      "pmaid": "445",
+      "name": "Alki Beach Park",
+      "address": "1702 Alki Ave SW",
+      "zip_code": "98116",
+      "x_coord": "-122.402173",
+      "y_coord": "47.582912"
+    },
+    {
+      "pmaid": "4453",
+      "name": "Solstice Park",
+      "address": "7400 Fauntleroy Way SW",
+      "zip_code": "98136",
+      "x_coord": "-122.390347",
+      "y_coord": "47.536414"
+    },
+    {
+      "pmaid": "4469",
+      "name": "Crown Hill Park",
+      "address": "9089 Holman Rd NW",
+      "zip_code": "98117",
+      "x_coord": "-122.373976",
+      "y_coord": "47.696071"
+    },
+    {
+      "pmaid": "449",
+      "name": "Wallingford Playfield",
+      "address": "4219 Wallingford Ave N",
+      "zip_code": "98103",
+      "x_coord": "-122.337444",
+      "y_coord": "47.658544"
+    },
+    {
+      "pmaid": "450",
+      "name": "Delridge Playfield",
+      "address": "4458 Delridge Way SW",
+      "zip_code": "98106",
+      "x_coord": "-122.364371",
+      "y_coord": "47.562842"
+    },
+    {
+      "pmaid": "452",
+      "name": "Fairmount Playfield",
+      "address": "5400 Fauntleroy Way SW",
+      "zip_code": "98136",
+      "x_coord": "-122.380549",
+      "y_coord": "47.554041"
+    },
+    {
+      "pmaid": "454",
+      "name": "Hamilton Viewpoint Park",
+      "address": "1120 California Ave SW",
+      "zip_code": "98116",
+      "x_coord": "-122.38907",
+      "y_coord": "47.590748"
+    },
+    {
+      "pmaid": "455",
+      "name": "Seacrest Park",
+      "address": "1660 Harbor Ave SW",
+      "zip_code": "98126",
+      "x_coord": "-122.381226",
+      "y_coord": "47.589941"
+    },
+    {
+      "pmaid": "456",
+      "name": "Hiawatha Playfield",
+      "address": "2700 California Ave SW",
+      "zip_code": "98116",
+      "x_coord": "-122.384965",
+      "y_coord": "47.578272"
+    },
+    {
+      "pmaid": "457",
+      "name": "Highland Park Playground",
+      "address": "1100 SW Cloverdale St",
+      "zip_code": "98106",
+      "x_coord": "-122.349034",
+      "y_coord": "47.52738"
+    },
+    {
+      "pmaid": "460",
+      "name": "Lincoln Park",
+      "address": "8011 Fauntleroy Way SW",
+      "zip_code": "98136",
+      "x_coord": "-122.396012",
+      "y_coord": "47.531176"
+    },
+    {
+      "pmaid": "463",
+      "name": "Riverview Playfield",
+      "address": "7226 12th Ave SW",
+      "zip_code": "98106",
+      "x_coord": "-122.348688",
+      "y_coord": "47.54101"
+    },
+    {
+      "pmaid": "467",
+      "name": "South Park Playground",
+      "address": "738 S Sullivan St",
+      "zip_code": "98108",
+      "x_coord": "-122.324159",
+      "y_coord": "47.528016"
+    },
+    {
+      "pmaid": "482",
+      "name": "Bryant Neighborhood Playground",
+      "address": "4103 NE 65th St",
+      "zip_code": "98115",
+      "x_coord": "-122.283644",
+      "y_coord": "47.675299"
+    },
+    {
+      "pmaid": "483",
+      "name": "Cowen Park",
+      "address": "5849 15th Ave NE",
+      "zip_code": "98105",
+      "x_coord": "-122.313072",
+      "y_coord": "47.672596"
+    },
+    {
+      "pmaid": "488",
+      "name": "Ravenna-Eckstein Park",
+      "address": "6535 Ravenna Ave NE",
+      "zip_code": "98115",
+      "x_coord": "-122.304964",
+      "y_coord": "47.676873"
+    },
+    {
+      "pmaid": "497",
+      "name": "Ballard Playground",
+      "address": "2644 NW 60th St",
+      "zip_code": "98107",
+      "x_coord": "-122.39155",
+      "y_coord": "47.672786"
+    },
+    {
+      "pmaid": "595",
+      "name": "Christie Park",
+      "address": "817 NE 43rd St",
+      "zip_code": "98105",
+      "x_coord": "-122.319072",
+      "y_coord": "47.659308"
+    },
+    {
+      "pmaid": "9064",
+      "name": "Roanoke St. Mini Park",
+      "address": "1 E Roanoke St",
+      "zip_code": "98102",
+      "x_coord": "-122.329327",
+      "y_coord": "47.643193"
+    }
+  ],
+  "Fire Pits": [
+    {
+      "pmaid": "243",
+      "name": "Golden Gardens Park",
+      "address": "8498 Seaview Pl NW",
+      "zip_code": "98117",
+      "x_coord": "-122.403454",
+      "y_coord": "47.686852"
+    },
+    {
+      "pmaid": "445",
+      "name": "Alki Beach Park",
+      "address": "1702 Alki Ave SW",
+      "zip_code": "98116",
+      "x_coord": "-122.402173",
+      "y_coord": "47.582912"
+    }
+  ],
+  "Fishing piers": [
+    {
+      "pmaid": "243",
+      "name": "Golden Gardens Park",
+      "address": "8498 Seaview Pl NW",
+      "zip_code": "98117",
+      "x_coord": "-122.403454",
+      "y_coord": "47.686852"
+    },
+    {
+      "pmaid": "274",
+      "name": "Piers 62 and 63",
+      "address": "1951 Alaskan Way",
+      "zip_code": "98101",
+      "x_coord": "-122.345237",
+      "y_coord": "47.608656"
+    },
+    {
+      "pmaid": "307",
+      "name": "Green Lake Park",
+      "address": "7201 E Greenlake Dr N",
+      "zip_code": "98115",
+      "x_coord": "-122.330394",
+      "y_coord": "47.678938"
+    },
+    {
+      "pmaid": "370",
+      "name": "Madrona Park",
+      "address": "853 Lake Washington Blvd",
+      "zip_code": "98122",
+      "x_coord": "-122.282679",
+      "y_coord": "47.609299"
+    },
+    {
+      "pmaid": "3973",
+      "name": "Waterfront Park",
+      "address": "1401 Alaskan Way",
+      "zip_code": "98101",
+      "x_coord": "-122.342196",
+      "y_coord": "47.606778"
+    },
+    {
+      "pmaid": "419",
+      "name": "Mt. Baker Park",
+      "address": "2521 Lake Park Dr S",
+      "zip_code": "98144",
+      "x_coord": "-122.288481",
+      "y_coord": "47.580957"
+    },
+    {
+      "pmaid": "428",
+      "name": "Seward Park",
+      "address": "5900 Lake Washington Blvd S",
+      "zip_code": "98118",
+      "x_coord": "-122.250639",
+      "y_coord": "47.54923"
+    },
+    {
+      "pmaid": "455",
+      "name": "Seacrest Park",
+      "address": "1660 Harbor Ave SW",
+      "zip_code": "98126",
+      "x_coord": "-122.381226",
+      "y_coord": "47.589941"
+    }
+  ],
+  "Football Fields": [
+    {
+      "pmaid": "251",
+      "name": "Soundview Playfield",
+      "address": "1590 NW 90th St",
+      "zip_code": "98117",
+      "x_coord": "-122.378878",
+      "y_coord": "47.695416"
+    },
+    {
+      "pmaid": "289",
+      "name": "Loyal Heights Playfield",
+      "address": "2101 NW 77th St",
+      "zip_code": "98117",
+      "x_coord": "-122.38324",
+      "y_coord": "47.684106"
+    },
+    {
+      "pmaid": "353",
+      "name": "Garfield Playfield",
+      "address": "537 25th Ave",
+      "zip_code": "98122",
+      "x_coord": "-122.301412",
+      "y_coord": "47.607098"
+    },
+    {
+      "pmaid": "376",
+      "name": "Montlake Playfield",
+      "address": "1618 E Calhoun St",
+      "zip_code": "98112",
+      "x_coord": "-122.310081",
+      "y_coord": "47.642407"
+    },
+    {
+      "pmaid": "3887",
+      "name": "Interbay Athletic Complex",
+      "address": "3027 17th Ave W",
+      "zip_code": "98119",
+      "x_coord": "-122.379191",
+      "y_coord": "47.647239"
+    },
+    {
+      "pmaid": "397",
+      "name": "Judkins Park and Playfield",
+      "address": "2150 S Norman St",
+      "zip_code": "98144",
+      "x_coord": "-122.303951",
+      "y_coord": "47.592425"
+    },
+    {
+      "pmaid": "423",
+      "name": "Rainier Playfield",
+      "address": "3700 S Alaska St",
+      "zip_code": "98118",
+      "x_coord": "-122.2862",
+      "y_coord": "47.561817"
+    },
+    {
+      "pmaid": "456",
+      "name": "Hiawatha Playfield",
+      "address": "2700 California Ave SW",
+      "zip_code": "98116",
+      "x_coord": "-122.384965",
+      "y_coord": "47.578272"
+    },
+    {
+      "pmaid": "460",
+      "name": "Lincoln Park",
+      "address": "8011 Fauntleroy Way SW",
+      "zip_code": "98136",
+      "x_coord": "-122.396012",
+      "y_coord": "47.531176"
+    },
+    {
+      "pmaid": "463",
+      "name": "Riverview Playfield",
+      "address": "7226 12th Ave SW",
+      "zip_code": "98106",
+      "x_coord": "-122.348688",
+      "y_coord": "47.54101"
+    },
+    {
+      "pmaid": "472",
+      "name": "West Seattle Stadium",
+      "address": "4432 35th Ave SW",
+      "zip_code": "98126",
+      "x_coord": "-122.374348",
+      "y_coord": "47.562826"
+    }
+  ],
+  "Gardens": [
+    {
+      "pmaid": "200",
+      "name": "Woodland Park Zoo",
+      "address": "700 N 50th St",
+      "zip_code": "98103",
+      "x_coord": "-122.35043",
+      "y_coord": "47.666183"
+    },
+    {
+      "pmaid": "3122",
+      "name": "Katie Black's Garden",
+      "address": "1150 S Atlantic St",
+      "zip_code": "98144",
+      "x_coord": "-122.317642",
+      "y_coord": "47.590421"
+    },
+    {
+      "pmaid": "324",
+      "name": "Parsons Gardens",
+      "address": "650 W Highland Dr",
+      "zip_code": "98119",
+      "x_coord": "-122.366082",
+      "y_coord": "47.629868"
+    },
+    {
+      "pmaid": "393",
+      "name": "Washington Park Arboretum",
+      "address": "2300 Arboretum Dr E",
+      "zip_code": "98112",
+      "x_coord": "-122.294835",
+      "y_coord": "47.636477"
+    },
+    {
+      "pmaid": "399",
+      "name": "Volunteer Park",
+      "address": "1247 15th Ave E",
+      "zip_code": "98112",
+      "x_coord": "-122.315568",
+      "y_coord": "47.630378"
+    },
+    {
+      "pmaid": "415",
+      "name": "Kubota Garden",
+      "address": "9817 55th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.266125",
+      "y_coord": "47.513543"
+    }
+  ],
+  "Grills": [
+    {
+      "pmaid": "1104",
+      "name": "Meridian Playground",
+      "address": "4649 Sunnyside Ave N",
+      "zip_code": "98103",
+      "x_coord": "-122.332557",
+      "y_coord": "47.664159"
+    },
+    {
+      "pmaid": "240",
+      "name": "Carkeek Park",
+      "address": "950 NW Carkeek Park Rd",
+      "zip_code": "98117",
+      "x_coord": "-122.379763",
+      "y_coord": "47.712194"
+    },
+    {
+      "pmaid": "243",
+      "name": "Golden Gardens Park",
+      "address": "8498 Seaview Pl NW",
+      "zip_code": "98117",
+      "x_coord": "-122.403454",
+      "y_coord": "47.686852"
+    },
+    {
+      "pmaid": "286",
+      "name": "Licton Springs Park",
+      "address": "9536 Ashworth Ave N",
+      "zip_code": "98103",
+      "x_coord": "-122.338735",
+      "y_coord": "47.698542"
+    },
+    {
+      "pmaid": "292",
+      "name": "Woodland Park",
+      "address": "1000 N 50th St",
+      "zip_code": "98103",
+      "x_coord": "-122.344218",
+      "y_coord": "47.668906"
+    },
+    {
+      "pmaid": "293",
+      "name": "Gas Works Park",
+      "address": "2101 N Northlake Way",
+      "zip_code": "98103",
+      "x_coord": "-122.334906",
+      "y_coord": "47.645639"
+    },
+    {
+      "pmaid": "307",
+      "name": "Green Lake Park",
+      "address": "7201 E Greenlake Dr N",
+      "zip_code": "98115",
+      "x_coord": "-122.330394",
+      "y_coord": "47.678938"
+    },
+    {
+      "pmaid": "317",
+      "name": "Magnolia Park",
+      "address": "1461 Magnolia Blvd W",
+      "zip_code": "98199",
+      "x_coord": "-122.398993",
+      "y_coord": "47.632366"
+    },
+    {
+      "pmaid": "318",
+      "name": "Ella Bailey Park",
+      "address": "2601 W Smith St",
+      "zip_code": "98199",
+      "x_coord": "-122.39106",
+      "y_coord": "47.640584"
+    },
+    {
+      "pmaid": "345",
+      "name": "Powell Barnett Park",
+      "address": "352 Martin Luther King Jr Way",
+      "zip_code": "98112",
+      "x_coord": "-122.295998",
+      "y_coord": "47.605197"
+    },
+    {
+      "pmaid": "347",
+      "name": "Matthews Beach Park",
+      "address": "5100 NE 93rd St",
+      "zip_code": "98115",
+      "x_coord": "-122.271785",
+      "y_coord": "47.694564"
+    },
+    {
+      "pmaid": "353",
+      "name": "Garfield Playfield",
+      "address": "537 25th Ave",
+      "zip_code": "98122",
+      "x_coord": "-122.301412",
+      "y_coord": "47.607098"
+    },
+    {
+      "pmaid": "361",
+      "name": "Northacres Park",
+      "address": "12718 1st Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.326124",
+      "y_coord": "47.721775"
+    },
+    {
+      "pmaid": "370",
+      "name": "Madrona Park",
+      "address": "853 Lake Washington Blvd",
+      "zip_code": "98122",
+      "x_coord": "-122.282679",
+      "y_coord": "47.609299"
+    },
+    {
+      "pmaid": "3703",
+      "name": "Bar-S Playground",
+      "address": "6425 SW Admiral Way",
+      "zip_code": "98116",
+      "x_coord": "-122.416054",
+      "y_coord": "47.575195"
+    },
+    {
+      "pmaid": "382",
+      "name": "Pinehurst Playground",
+      "address": "12029 14th Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.314628",
+      "y_coord": "47.716436"
+    },
+    {
+      "pmaid": "390",
+      "name": "Pratt Park",
+      "address": "1800 S Main St",
+      "zip_code": "98144",
+      "x_coord": "-122.307257",
+      "y_coord": "47.601407"
+    },
+    {
+      "pmaid": "391",
+      "name": "Ravenna Park",
+      "address": "5520 Ravenna Ave NE",
+      "zip_code": "98105",
+      "x_coord": "-122.305705",
+      "y_coord": "47.671404"
+    },
+    {
+      "pmaid": "3941",
+      "name": "Walt Hundley Playfield",
+      "address": "6920 34th Ave SW",
+      "zip_code": "98126",
+      "x_coord": "-122.373415",
+      "y_coord": "47.54017"
+    },
+    {
+      "pmaid": "395",
+      "name": "Dr. Blanche Lavizzo Park",
+      "address": "2100 S Jackson St",
+      "zip_code": "98144",
+      "x_coord": "-122.304179",
+      "y_coord": "47.600278"
+    },
+    {
+      "pmaid": "398",
+      "name": "Warren G. Magnuson Park",
+      "address": "7400 Sand Point Way NE",
+      "zip_code": "98115",
+      "x_coord": "-122.255084",
+      "y_coord": "47.680304"
+    },
+    {
+      "pmaid": "4002",
+      "name": "Virgil Flaim Park",
+      "address": "2700 NE 123rd St",
+      "zip_code": "98125",
+      "x_coord": "-122.299374",
+      "y_coord": "47.717955"
+    },
+    {
+      "pmaid": "402",
+      "name": "Brighton Playfield",
+      "address": "6000 39th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.2821",
+      "y_coord": "47.548387"
+    },
+    {
+      "pmaid": "403",
+      "name": "Othello Playground",
+      "address": "4351 S Othello St",
+      "zip_code": "98118",
+      "x_coord": "-122.278105",
+      "y_coord": "47.536214"
+    },
+    {
+      "pmaid": "408",
+      "name": "Dearborn Park",
+      "address": "2919 S Brandon St",
+      "zip_code": "98126",
+      "x_coord": "-122.296225",
+      "y_coord": "47.553389"
+    },
+    {
+      "pmaid": "409",
+      "name": "Genesee Park and Playfield",
+      "address": "4316 S Genesee St",
+      "zip_code": "98118",
+      "x_coord": "-122.278744",
+      "y_coord": "47.564856"
+    },
+    {
+      "pmaid": "413",
+      "name": "Ferdinand Street Boat Ramp",
+      "address": "5018 Lake Washington Blvd S",
+      "zip_code": "98118",
+      "x_coord": "-122.264912",
+      "y_coord": "47.561358"
+    },
+    {
+      "pmaid": "4154",
+      "name": "Camp Long",
+      "address": "5200 35th Ave SW",
+      "zip_code": "98126",
+      "x_coord": "-122.373161",
+      "y_coord": "47.556242"
+    },
+    {
+      "pmaid": "4167",
+      "name": "Cedar Park",
+      "address": "3737 NE 135th St",
+      "zip_code": "98125",
+      "x_coord": "-122.288042",
+      "y_coord": "47.725808"
+    },
+    {
+      "pmaid": "4201",
+      "name": "Puget Ridge Playground",
+      "address": "6029 21st Ave SW",
+      "zip_code": "98106",
+      "x_coord": "-122.359947",
+      "y_coord": "47.547368"
+    },
+    {
+      "pmaid": "423",
+      "name": "Rainier Playfield",
+      "address": "3700 S Alaska St",
+      "zip_code": "98118",
+      "x_coord": "-122.2862",
+      "y_coord": "47.561817"
+    },
+    {
+      "pmaid": "428",
+      "name": "Seward Park",
+      "address": "5900 Lake Washington Blvd S",
+      "zip_code": "98118",
+      "x_coord": "-122.250639",
+      "y_coord": "47.54923"
+    },
+    {
+      "pmaid": "429",
+      "name": "John C. Little, Sr. Park",
+      "address": "6961 37th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.286686",
+      "y_coord": "47.539048"
+    },
+    {
+      "pmaid": "431",
+      "name": "Van Asselt Playground",
+      "address": "7050 Beacon Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.294068",
+      "y_coord": "47.539446"
+    },
+    {
+      "pmaid": "433",
+      "name": "Dr. Jose Rizal Park",
+      "address": "1007 12th Ave S",
+      "zip_code": "98144",
+      "x_coord": "-122.318094",
+      "y_coord": "47.593859"
+    },
+    {
+      "pmaid": "436",
+      "name": "Benefit Playground",
+      "address": "9320 38th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.284294",
+      "y_coord": "47.518998"
+    },
+    {
+      "pmaid": "440",
+      "name": "Beer Sheva Park",
+      "address": "8650 55th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.263223",
+      "y_coord": "47.524191"
+    },
+    {
+      "pmaid": "4426",
+      "name": "Homer Harris Park",
+      "address": "2401 E Howell St",
+      "zip_code": "98122",
+      "x_coord": "-122.300994",
+      "y_coord": "47.617309"
+    },
+    {
+      "pmaid": "445",
+      "name": "Alki Beach Park",
+      "address": "1702 Alki Ave SW",
+      "zip_code": "98116",
+      "x_coord": "-122.402173",
+      "y_coord": "47.582912"
+    },
+    {
+      "pmaid": "4461",
+      "name": "Summit Slope Park",
+      "address": "200 Summit Ave E",
+      "zip_code": "98102",
+      "x_coord": "-122.325298",
+      "y_coord": "47.619832"
+    },
+    {
+      "pmaid": "4462",
+      "name": "Cottage Grove Park",
+      "address": "5206 26th Ave SW",
+      "zip_code": "98106",
+      "x_coord": "-122.365311",
+      "y_coord": "47.554364"
+    },
+    {
+      "pmaid": "4466",
+      "name": "Seven Hills Park",
+      "address": "1514 E Howell St",
+      "zip_code": "98122",
+      "x_coord": "-122.312534",
+      "y_coord": "47.617684"
+    },
+    {
+      "pmaid": "450",
+      "name": "Delridge Playfield",
+      "address": "4458 Delridge Way SW",
+      "zip_code": "98106",
+      "x_coord": "-122.364371",
+      "y_coord": "47.562842"
+    },
+    {
+      "pmaid": "458",
+      "name": "E.C. Hughes Playground",
+      "address": "2805 SW Holden St",
+      "zip_code": "98126",
+      "x_coord": "-122.369545",
+      "y_coord": "47.532805"
+    },
+    {
+      "pmaid": "460",
+      "name": "Lincoln Park",
+      "address": "8011 Fauntleroy Way SW",
+      "zip_code": "98136",
+      "x_coord": "-122.396012",
+      "y_coord": "47.531176"
+    },
+    {
+      "pmaid": "464",
+      "name": "Roxhill Park",
+      "address": "2850 SW Roxbury St",
+      "zip_code": "98126",
+      "x_coord": "-122.368881",
+      "y_coord": "47.519496"
+    },
+    {
+      "pmaid": "467",
+      "name": "South Park Playground",
+      "address": "738 S Sullivan St",
+      "zip_code": "98108",
+      "x_coord": "-122.324159",
+      "y_coord": "47.528016"
+    },
+    {
+      "pmaid": "468",
+      "name": "Westcrest Park",
+      "address": "9000 8th Ave SW",
+      "zip_code": "98106",
+      "x_coord": "-122.341719",
+      "y_coord": "47.525783"
+    },
+    {
+      "pmaid": "473",
+      "name": "Me-Kwa-Mooks Park",
+      "address": "4503 Beach Dr SW",
+      "zip_code": "98116",
+      "x_coord": "-122.404006",
+      "y_coord": "47.563167"
+    },
+    {
+      "pmaid": "705",
+      "name": "Duwamish Waterway Park",
+      "address": "7900 10th Ave S",
+      "zip_code": "98106",
+      "x_coord": "-122.319694",
+      "y_coord": "47.531156"
+    }
+  ],
+  "Hand Carry Boat Launches": [
+    {
+      "pmaid": "240",
+      "name": "Carkeek Park",
+      "address": "950 NW Carkeek Park Rd",
+      "zip_code": "98117",
+      "x_coord": "-122.379763",
+      "y_coord": "47.712194"
+    },
+    {
+      "pmaid": "243",
+      "name": "Golden Gardens Park",
+      "address": "8498 Seaview Pl NW",
+      "zip_code": "98117",
+      "x_coord": "-122.403454",
+      "y_coord": "47.686852"
+    },
+    {
+      "pmaid": "295",
+      "name": "Cormorant Cove",
+      "address": "3701 Beach Dr SW",
+      "zip_code": "98116",
+      "x_coord": "-122.412089",
+      "y_coord": "47.570984"
+    },
+    {
+      "pmaid": "2975",
+      "name": "Fairview Park",
+      "address": "2900 Fairview Ave E",
+      "zip_code": "98102",
+      "x_coord": "-122.325368",
+      "y_coord": "47.647413"
+    },
+    {
+      "pmaid": "307",
+      "name": "Green Lake Park",
+      "address": "7201 E Greenlake Dr N",
+      "zip_code": "98115",
+      "x_coord": "-122.330394",
+      "y_coord": "47.678938"
+    },
+    {
+      "pmaid": "344",
+      "name": "Lake Union Park",
+      "address": "860 Terry Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.338848",
+      "y_coord": "47.627015"
+    },
+    {
+      "pmaid": "347",
+      "name": "Matthews Beach Park",
+      "address": "5100 NE 93rd St",
+      "zip_code": "98115",
+      "x_coord": "-122.271785",
+      "y_coord": "47.694564"
+    },
+    {
+      "pmaid": "367",
+      "name": "Leschi Park",
+      "address": "201 Lakeside Ave. S",
+      "zip_code": "98122",
+      "x_coord": "-122.286548",
+      "y_coord": "47.600931"
+    },
+    {
+      "pmaid": "377",
+      "name": "South Passage Point Park",
+      "address": "3320 Fuhrman Ave E",
+      "zip_code": "98102",
+      "x_coord": "-122.322486",
+      "y_coord": "47.652087"
+    },
+    {
+      "pmaid": "3889",
+      "name": "Terry Pettus Park",
+      "address": "2001 Fairview Ave E",
+      "zip_code": "98102",
+      "x_coord": "-122.329689",
+      "y_coord": "47.636742"
+    },
+    {
+      "pmaid": "393",
+      "name": "Washington Park Arboretum",
+      "address": "2300 Arboretum Dr E",
+      "zip_code": "98112",
+      "x_coord": "-122.294835",
+      "y_coord": "47.636477"
+    },
+    {
+      "pmaid": "398",
+      "name": "Warren G. Magnuson Park",
+      "address": "7400 Sand Point Way NE",
+      "zip_code": "98115",
+      "x_coord": "-122.255084",
+      "y_coord": "47.680304"
+    },
+    {
+      "pmaid": "4040",
+      "name": "Lakewood Moorage",
+      "address": "4400 Lake Washington Blvd S",
+      "zip_code": "98118",
+      "x_coord": "-122.268295",
+      "y_coord": "47.562981"
+    },
+    {
+      "pmaid": "413",
+      "name": "Ferdinand Street Boat Ramp",
+      "address": "5018 Lake Washington Blvd S",
+      "zip_code": "98118",
+      "x_coord": "-122.264912",
+      "y_coord": "47.561358"
+    },
+    {
+      "pmaid": "4155",
+      "name": "Fairview Walkway",
+      "address": "1251 Fairview Ave. N",
+      "zip_code": "98109",
+      "x_coord": "-122.328967",
+      "y_coord": "47.630501"
+    },
+    {
+      "pmaid": "428",
+      "name": "Seward Park",
+      "address": "5900 Lake Washington Blvd S",
+      "zip_code": "98118",
+      "x_coord": "-122.250639",
+      "y_coord": "47.54923"
+    },
+    {
+      "pmaid": "432",
+      "name": "Martha Washington Park",
+      "address": "6612 57th Ave S",
+      "zip_code": "98115",
+      "x_coord": "-122.260054",
+      "y_coord": "47.542398"
+    },
+    {
+      "pmaid": "440",
+      "name": "Beer Sheva Park",
+      "address": "8650 55th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.263223",
+      "y_coord": "47.524191"
+    },
+    {
+      "pmaid": "445",
+      "name": "Alki Beach Park",
+      "address": "1702 Alki Ave SW",
+      "zip_code": "98116",
+      "x_coord": "-122.402173",
+      "y_coord": "47.582912"
+    },
+    {
+      "pmaid": "455",
+      "name": "Seacrest Park",
+      "address": "1660 Harbor Ave SW",
+      "zip_code": "98126",
+      "x_coord": "-122.381226",
+      "y_coord": "47.589941"
+    },
+    {
+      "pmaid": "460",
+      "name": "Lincoln Park",
+      "address": "8011 Fauntleroy Way SW",
+      "zip_code": "98136",
+      "x_coord": "-122.396012",
+      "y_coord": "47.531176"
+    },
+    {
+      "pmaid": "461",
+      "name": "Lowman Beach Park",
+      "address": "7017 Beach Dr SW",
+      "zip_code": "98136",
+      "x_coord": "-122.396728",
+      "y_coord": "47.540367"
+    },
+    {
+      "pmaid": "475",
+      "name": "Belvoir Place",
+      "address": "3659 42nd Ave NE",
+      "zip_code": "98105",
+      "x_coord": "-122.283215",
+      "y_coord": "47.655124"
+    },
+    {
+      "pmaid": "705",
+      "name": "Duwamish Waterway Park",
+      "address": "7900 10th Ave S",
+      "zip_code": "98106",
+      "x_coord": "-122.319694",
+      "y_coord": "47.531156"
+    },
+    {
+      "pmaid": "80",
+      "name": "Charles Richey Sr Viewpoint",
+      "address": "3521 Beach Dr SW",
+      "zip_code": "98116",
+      "x_coord": "-122.413877",
+      "y_coord": "47.57242"
+    }
+  ],
+  "Motorized Boat Launches": [
+    {
+      "pmaid": "243",
+      "name": "Golden Gardens Park",
+      "address": "8498 Seaview Pl NW",
+      "zip_code": "98117",
+      "x_coord": "-122.403454",
+      "y_coord": "47.686852"
+    },
+    {
+      "pmaid": "367",
+      "name": "Leschi Park",
+      "address": "201 Lakeside Ave. S",
+      "zip_code": "98122",
+      "x_coord": "-122.286548",
+      "y_coord": "47.600931"
+    },
+    {
+      "pmaid": "3903",
+      "name": "Sunnyside Ave N Boat Ramp",
+      "address": "2301 N Northlake Way",
+      "zip_code": "98103",
+      "x_coord": "-122.330723",
+      "y_coord": "47.650292"
+    },
+    {
+      "pmaid": "3917",
+      "name": "Don Armeni Park",
+      "address": "1222 Harbor Ave SW",
+      "zip_code": "98116",
+      "x_coord": "-122.382295",
+      "y_coord": "47.59274"
+    },
+    {
+      "pmaid": "398",
+      "name": "Warren G. Magnuson Park",
+      "address": "7400 Sand Point Way NE",
+      "zip_code": "98115",
+      "x_coord": "-122.255084",
+      "y_coord": "47.680304"
+    },
+    {
+      "pmaid": "4010",
+      "name": "14th Ave NW Boat Ramp",
+      "address": "4400 14th Ave NW",
+      "zip_code": "98107",
+      "x_coord": "-122.373536",
+      "y_coord": "47.660775"
+    },
+    {
+      "pmaid": "4081",
+      "name": "Atlantic City Boat Ramp",
+      "address": "8702 Seward Park Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.263078",
+      "y_coord": "47.522834"
+    },
+    {
+      "pmaid": "4082",
+      "name": "Day Street Boat Ramp",
+      "address": "1402 Lakeside Ave S",
+      "zip_code": "98144",
+      "x_coord": "-122.285154",
+      "y_coord": "47.59026"
+    }
+  ],
+  "Picnic Sites": [
+    {
+      "pmaid": "1104",
+      "name": "Meridian Playground",
+      "address": "4649 Sunnyside Ave N",
+      "zip_code": "98103",
+      "x_coord": "-122.332557",
+      "y_coord": "47.664159"
+    },
+    {
+      "pmaid": "114",
+      "name": "Jefferson Park",
+      "address": "3801 Beacon Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.311441",
+      "y_coord": "47.568067"
+    },
+    {
+      "pmaid": "240",
+      "name": "Carkeek Park",
+      "address": "950 NW Carkeek Park Rd",
+      "zip_code": "98117",
+      "x_coord": "-122.379763",
+      "y_coord": "47.712194"
+    },
+    {
+      "pmaid": "243",
+      "name": "Golden Gardens Park",
+      "address": "8498 Seaview Pl NW",
+      "zip_code": "98117",
+      "x_coord": "-122.403454",
+      "y_coord": "47.686852"
+    },
+    {
+      "pmaid": "292",
+      "name": "Woodland Park",
+      "address": "1000 N 50th St",
+      "zip_code": "98103",
+      "x_coord": "-122.344218",
+      "y_coord": "47.668906"
+    },
+    {
+      "pmaid": "293",
+      "name": "Gas Works Park",
+      "address": "2101 N Northlake Way",
+      "zip_code": "98103",
+      "x_coord": "-122.334906",
+      "y_coord": "47.645639"
+    },
+    {
+      "pmaid": "317",
+      "name": "Magnolia Park",
+      "address": "1461 Magnolia Blvd W",
+      "zip_code": "98199",
+      "x_coord": "-122.398993",
+      "y_coord": "47.632366"
+    },
+    {
+      "pmaid": "323",
+      "name": "Occidental Square",
+      "address": "117 S Washington St",
+      "zip_code": "98104",
+      "x_coord": "-122.333272",
+      "y_coord": "47.600463"
+    },
+    {
+      "pmaid": "347",
+      "name": "Matthews Beach Park",
+      "address": "5100 NE 93rd St",
+      "zip_code": "98115",
+      "x_coord": "-122.271785",
+      "y_coord": "47.694564"
+    },
+    {
+      "pmaid": "358",
+      "name": "Hing Hay Park",
+      "address": "423 Maynard Ave S",
+      "zip_code": "98104",
+      "x_coord": "-122.325435",
+      "y_coord": "47.598609"
+    },
+    {
+      "pmaid": "361",
+      "name": "Northacres Park",
+      "address": "12718 1st Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.326124",
+      "y_coord": "47.721775"
+    },
+    {
+      "pmaid": "370",
+      "name": "Madrona Park",
+      "address": "853 Lake Washington Blvd",
+      "zip_code": "98122",
+      "x_coord": "-122.282679",
+      "y_coord": "47.609299"
+    },
+    {
+      "pmaid": "390",
+      "name": "Pratt Park",
+      "address": "1800 S Main St",
+      "zip_code": "98144",
+      "x_coord": "-122.307257",
+      "y_coord": "47.601407"
+    },
+    {
+      "pmaid": "391",
+      "name": "Ravenna Park",
+      "address": "5520 Ravenna Ave NE",
+      "zip_code": "98105",
+      "x_coord": "-122.305705",
+      "y_coord": "47.671404"
+    },
+    {
+      "pmaid": "3917",
+      "name": "Don Armeni Park",
+      "address": "1222 Harbor Ave SW",
+      "zip_code": "98116",
+      "x_coord": "-122.382295",
+      "y_coord": "47.59274"
+    },
+    {
+      "pmaid": "397",
+      "name": "Judkins Park and Playfield",
+      "address": "2150 S Norman St",
+      "zip_code": "98144",
+      "x_coord": "-122.303951",
+      "y_coord": "47.592425"
+    },
+    {
+      "pmaid": "398",
+      "name": "Warren G. Magnuson Park",
+      "address": "7400 Sand Point Way NE",
+      "zip_code": "98115",
+      "x_coord": "-122.255084",
+      "y_coord": "47.680304"
+    },
+    {
+      "pmaid": "403",
+      "name": "Othello Playground",
+      "address": "4351 S Othello St",
+      "zip_code": "98118",
+      "x_coord": "-122.278105",
+      "y_coord": "47.536214"
+    },
+    {
+      "pmaid": "409",
+      "name": "Genesee Park and Playfield",
+      "address": "4316 S Genesee St",
+      "zip_code": "98118",
+      "x_coord": "-122.278744",
+      "y_coord": "47.564856"
+    },
+    {
+      "pmaid": "413",
+      "name": "Ferdinand Street Boat Ramp",
+      "address": "5018 Lake Washington Blvd S",
+      "zip_code": "98118",
+      "x_coord": "-122.264912",
+      "y_coord": "47.561358"
+    },
+    {
+      "pmaid": "428",
+      "name": "Seward Park",
+      "address": "5900 Lake Washington Blvd S",
+      "zip_code": "98118",
+      "x_coord": "-122.250639",
+      "y_coord": "47.54923"
+    },
+    {
+      "pmaid": "429",
+      "name": "John C. Little, Sr. Park",
+      "address": "6961 37th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.286686",
+      "y_coord": "47.539048"
+    },
+    {
+      "pmaid": "433",
+      "name": "Dr. Jose Rizal Park",
+      "address": "1007 12th Ave S",
+      "zip_code": "98144",
+      "x_coord": "-122.318094",
+      "y_coord": "47.593859"
+    },
+    {
+      "pmaid": "436",
+      "name": "Benefit Playground",
+      "address": "9320 38th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.284294",
+      "y_coord": "47.518998"
+    },
+    {
+      "pmaid": "440",
+      "name": "Beer Sheva Park",
+      "address": "8650 55th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.263223",
+      "y_coord": "47.524191"
+    },
+    {
+      "pmaid": "446",
+      "name": "Alki Playground",
+      "address": "5817 SW Lander St",
+      "zip_code": "98116",
+      "x_coord": "-122.407312",
+      "y_coord": "47.578497"
+    },
+    {
+      "pmaid": "460",
+      "name": "Lincoln Park",
+      "address": "8011 Fauntleroy Way SW",
+      "zip_code": "98136",
+      "x_coord": "-122.396012",
+      "y_coord": "47.531176"
+    },
+    {
+      "pmaid": "464",
+      "name": "Roxhill Park",
+      "address": "2850 SW Roxbury St",
+      "zip_code": "98126",
+      "x_coord": "-122.368881",
+      "y_coord": "47.519496"
+    },
+    {
+      "pmaid": "468",
+      "name": "Westcrest Park",
+      "address": "9000 8th Ave SW",
+      "zip_code": "98106",
+      "x_coord": "-122.341719",
+      "y_coord": "47.525783"
+    },
+    {
+      "pmaid": "473",
+      "name": "Me-Kwa-Mooks Park",
+      "address": "4503 Beach Dr SW",
+      "zip_code": "98116",
+      "x_coord": "-122.404006",
+      "y_coord": "47.563167"
+    }
+  ],
+  "Play Area": [
+    {
+      "pmaid": "1104",
+      "name": "Meridian Playground",
+      "address": "4649 Sunnyside Ave N",
+      "zip_code": "98103",
+      "x_coord": "-122.332557",
+      "y_coord": "47.664159"
+    },
+    {
+      "pmaid": "114",
+      "name": "Jefferson Park",
+      "address": "3801 Beacon Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.311441",
+      "y_coord": "47.568067"
+    },
+    {
+      "pmaid": "200",
+      "name": "Woodland Park Zoo",
+      "address": "700 N 50th St",
+      "zip_code": "98103",
+      "x_coord": "-122.35043",
+      "y_coord": "47.666183"
+    },
+    {
+      "pmaid": "240",
+      "name": "Carkeek Park",
+      "address": "950 NW Carkeek Park Rd",
+      "zip_code": "98117",
+      "x_coord": "-122.379763",
+      "y_coord": "47.712194"
+    },
+    {
+      "pmaid": "241",
+      "name": "B.F. Day Playground",
+      "address": "4020 Fremont Ave N",
+      "zip_code": "98103",
+      "x_coord": "-122.349222",
+      "y_coord": "47.65603"
+    },
+    {
+      "pmaid": "242",
+      "name": "Gilman Playground",
+      "address": "923 NW 54th St",
+      "zip_code": "98107",
+      "x_coord": "-122.369684",
+      "y_coord": "47.667292"
+    },
+    {
+      "pmaid": "243",
+      "name": "Golden Gardens Park",
+      "address": "8498 Seaview Pl NW",
+      "zip_code": "98117",
+      "x_coord": "-122.403454",
+      "y_coord": "47.686852"
+    },
+    {
+      "pmaid": "244",
+      "name": "Albert Davis Park",
+      "address": "12526 27th Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.298752",
+      "y_coord": "47.72016"
+    },
+    {
+      "pmaid": "248",
+      "name": "Ross Playground",
+      "address": "4320 4th Ave NW",
+      "zip_code": "98107",
+      "x_coord": "-122.361347",
+      "y_coord": "47.659718"
+    },
+    {
+      "pmaid": "249",
+      "name": "Salmon Bay Park",
+      "address": "2001 NW Canoe Pl",
+      "zip_code": "98117",
+      "x_coord": "-122.381343",
+      "y_coord": "47.679297"
+    },
+    {
+      "pmaid": "250",
+      "name": "Sandel Playground",
+      "address": "9053 1st Ave NW",
+      "zip_code": "98117",
+      "x_coord": "-122.358701",
+      "y_coord": "47.695134"
+    },
+    {
+      "pmaid": "251",
+      "name": "Soundview Playfield",
+      "address": "1590 NW 90th St",
+      "zip_code": "98117",
+      "x_coord": "-122.378878",
+      "y_coord": "47.695416"
+    },
+    {
+      "pmaid": "281",
+      "name": "12th and Howe Play Park",
+      "address": "1200 W Howe St",
+      "zip_code": "98119",
+      "x_coord": "-122.372985",
+      "y_coord": "47.636097"
+    },
+    {
+      "pmaid": "2840",
+      "name": "Baker Park on Crown Hill",
+      "address": "8347 14th Ave NW",
+      "zip_code": "98117",
+      "x_coord": "-122.374794",
+      "y_coord": "47.690119"
+    },
+    {
+      "pmaid": "286",
+      "name": "Licton Springs Park",
+      "address": "9536 Ashworth Ave N",
+      "zip_code": "98103",
+      "x_coord": "-122.338735",
+      "y_coord": "47.698542"
+    },
+    {
+      "pmaid": "287",
+      "name": "Froula Playground",
+      "address": "7200 12th Ave NE",
+      "zip_code": "98115",
+      "x_coord": "-122.313978",
+      "y_coord": "47.680538"
+    },
+    {
+      "pmaid": "288",
+      "name": "Bitter Lake Playfield",
+      "address": "13035 Linden Ave N",
+      "zip_code": "98133",
+      "x_coord": "-122.349314",
+      "y_coord": "47.724209"
+    },
+    {
+      "pmaid": "289",
+      "name": "Loyal Heights Playfield",
+      "address": "2101 NW 77th St",
+      "zip_code": "98117",
+      "x_coord": "-122.38324",
+      "y_coord": "47.684106"
+    },
+    {
+      "pmaid": "293",
+      "name": "Gas Works Park",
+      "address": "2101 N Northlake Way",
+      "zip_code": "98103",
+      "x_coord": "-122.334906",
+      "y_coord": "47.645639"
+    },
+    {
+      "pmaid": "297",
+      "name": "Little Brook Park",
+      "address": "14043 32nd Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.294567",
+      "y_coord": "47.731387"
+    },
+    {
+      "pmaid": "303",
+      "name": "Bayview Playground",
+      "address": "2614 24th Ave W",
+      "zip_code": "98199",
+      "x_coord": "-122.386786",
+      "y_coord": "47.643802"
+    },
+    {
+      "pmaid": "304",
+      "name": "Bhy Kracke Park",
+      "address": "1215 5th Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.348403",
+      "y_coord": "47.630426"
+    },
+    {
+      "pmaid": "307",
+      "name": "Green Lake Park",
+      "address": "7201 E Greenlake Dr N",
+      "zip_code": "98115",
+      "x_coord": "-122.330394",
+      "y_coord": "47.678938"
+    },
+    {
+      "pmaid": "309",
+      "name": "Denny Park",
+      "address": "100 Dexter Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.341049",
+      "y_coord": "47.61913"
+    },
+    {
+      "pmaid": "310",
+      "name": "Discovery Park",
+      "address": "3801 Discovery Park Blvd",
+      "zip_code": "98199",
+      "x_coord": "-122.415282",
+      "y_coord": "47.66083"
+    },
+    {
+      "pmaid": "3102",
+      "name": "Cal Anderson Park and Bobby Morris Playfield",
+      "address": "1635 11th Ave",
+      "zip_code": "98122",
+      "x_coord": "-122.319134",
+      "y_coord": "47.617013"
+    },
+    {
+      "pmaid": "3117",
+      "name": "Spruce Street Mini Park",
+      "address": "160 21st Ave",
+      "zip_code": "98122",
+      "x_coord": "-122.304648",
+      "y_coord": "47.603091"
+    },
+    {
+      "pmaid": "314",
+      "name": "Kinnear Park",
+      "address": "899 W Olympic Pl",
+      "zip_code": "98119",
+      "x_coord": "-122.367207",
+      "y_coord": "47.627317"
+    },
+    {
+      "pmaid": "3158",
+      "name": "6th Ave NW Pocket Park",
+      "address": "606  NW 76th St",
+      "zip_code": "98117",
+      "x_coord": "-122.363566",
+      "y_coord": "47.684202"
+    },
+    {
+      "pmaid": "316",
+      "name": "Lawton Park",
+      "address": "4005 27th Ave W",
+      "zip_code": "98199",
+      "x_coord": "-122.391158",
+      "y_coord": "47.655065"
+    },
+    {
+      "pmaid": "317",
+      "name": "Magnolia Park",
+      "address": "1461 Magnolia Blvd W",
+      "zip_code": "98199",
+      "x_coord": "-122.398993",
+      "y_coord": "47.632366"
+    },
+    {
+      "pmaid": "318",
+      "name": "Ella Bailey Park",
+      "address": "2601 W Smith St",
+      "zip_code": "98199",
+      "x_coord": "-122.39106",
+      "y_coord": "47.640584"
+    },
+    {
+      "pmaid": "319",
+      "name": "Magnolia Playfield",
+      "address": "2518 34th Ave W",
+      "zip_code": "98199",
+      "x_coord": "-122.399472",
+      "y_coord": "47.643746"
+    },
+    {
+      "pmaid": "321",
+      "name": "Mayfair Park",
+      "address": "2600 2nd Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.353356",
+      "y_coord": "47.643241"
+    },
+    {
+      "pmaid": "323",
+      "name": "Occidental Square",
+      "address": "117 S Washington St",
+      "zip_code": "98104",
+      "x_coord": "-122.333272",
+      "y_coord": "47.600463"
+    },
+    {
+      "pmaid": "329",
+      "name": "East Queen Anne Playground",
+      "address": "1912 Warren Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.353786",
+      "y_coord": "47.636139"
+    },
+    {
+      "pmaid": "330",
+      "name": "West Queen Anne Playfield",
+      "address": "150 W Blaine St",
+      "zip_code": "98119",
+      "x_coord": "-122.359504",
+      "y_coord": "47.635514"
+    },
+    {
+      "pmaid": "331",
+      "name": "David Rodgers Park",
+      "address": "2800 1st Ave W",
+      "zip_code": "98119",
+      "x_coord": "-122.359484",
+      "y_coord": "47.644135"
+    },
+    {
+      "pmaid": "340",
+      "name": "Laurelhurst Playfield",
+      "address": "4544 NE 41st St",
+      "zip_code": "98105",
+      "x_coord": "-122.278019",
+      "y_coord": "47.65989"
+    },
+    {
+      "pmaid": "342",
+      "name": "Kerry Park",
+      "address": "211 W Highland Dr",
+      "zip_code": "98119",
+      "x_coord": "-122.359874",
+      "y_coord": "47.629023"
+    },
+    {
+      "pmaid": "345",
+      "name": "Powell Barnett Park",
+      "address": "352 Martin Luther King Jr Way",
+      "zip_code": "98112",
+      "x_coord": "-122.295998",
+      "y_coord": "47.605197"
+    },
+    {
+      "pmaid": "347",
+      "name": "Matthews Beach Park",
+      "address": "5100 NE 93rd St",
+      "zip_code": "98115",
+      "x_coord": "-122.271785",
+      "y_coord": "47.694564"
+    },
+    {
+      "pmaid": "350",
+      "name": "Cascade Playground",
+      "address": "333 Pontius Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.332355",
+      "y_coord": "47.621405"
+    },
+    {
+      "pmaid": "351",
+      "name": "Firehouse Mini Park",
+      "address": "712 18th Ave",
+      "zip_code": "98122",
+      "x_coord": "-122.308558",
+      "y_coord": "47.608448"
+    },
+    {
+      "pmaid": "352",
+      "name": "Meadowbrook Playfield",
+      "address": "10533 35th Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.293493",
+      "y_coord": "47.705771"
+    },
+    {
+      "pmaid": "353",
+      "name": "Garfield Playfield",
+      "address": "537 25th Ave",
+      "zip_code": "98122",
+      "x_coord": "-122.301412",
+      "y_coord": "47.607098"
+    },
+    {
+      "pmaid": "357",
+      "name": "Prentis I. Frazier Park",
+      "address": "401 24th Ave E",
+      "zip_code": "98112",
+      "x_coord": "-122.301614",
+      "y_coord": "47.622895"
+    },
+    {
+      "pmaid": "361",
+      "name": "Northacres Park",
+      "address": "12718 1st Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.326124",
+      "y_coord": "47.721775"
+    },
+    {
+      "pmaid": "363",
+      "name": "Flo Ware Park",
+      "address": "2800 S Jackson St",
+      "zip_code": "98144",
+      "x_coord": "-122.295868",
+      "y_coord": "47.599557"
+    },
+    {
+      "pmaid": "364",
+      "name": "International Children's Park",
+      "address": "700 S Lane St",
+      "zip_code": "98104",
+      "x_coord": "-122.323412",
+      "y_coord": "47.596897"
+    },
+    {
+      "pmaid": "367",
+      "name": "Leschi Park",
+      "address": "201 Lakeside Ave. S",
+      "zip_code": "98122",
+      "x_coord": "-122.286548",
+      "y_coord": "47.600931"
+    },
+    {
+      "pmaid": "369",
+      "name": "Madison Park",
+      "address": "4201 E Madison St",
+      "zip_code": "98112",
+      "x_coord": "-122.276602",
+      "y_coord": "47.635779"
+    },
+    {
+      "pmaid": "370",
+      "name": "Madrona Park",
+      "address": "853 Lake Washington Blvd",
+      "zip_code": "98122",
+      "x_coord": "-122.282679",
+      "y_coord": "47.609299"
+    },
+    {
+      "pmaid": "371",
+      "name": "Madrona Playground",
+      "address": "3211 E Spring St",
+      "zip_code": "98122",
+      "x_coord": "-122.289885",
+      "y_coord": "47.611022"
+    },
+    {
+      "pmaid": "373",
+      "name": "Miller Playfield",
+      "address": "330 19th Ave E",
+      "zip_code": "98112",
+      "x_coord": "-122.306261",
+      "y_coord": "47.621433"
+    },
+    {
+      "pmaid": "376",
+      "name": "Montlake Playfield",
+      "address": "1618 E Calhoun St",
+      "zip_code": "98112",
+      "x_coord": "-122.310081",
+      "y_coord": "47.642407"
+    },
+    {
+      "pmaid": "378",
+      "name": "Peppi's Playground",
+      "address": "3233 E Spruce St",
+      "zip_code": "98122",
+      "x_coord": "-122.290602",
+      "y_coord": "47.602723"
+    },
+    {
+      "pmaid": "379",
+      "name": "Roanoke Park",
+      "address": "950 E Roanoke St",
+      "zip_code": "98102",
+      "x_coord": "-122.320185",
+      "y_coord": "47.643723"
+    },
+    {
+      "pmaid": "380",
+      "name": "Rogers Playground",
+      "address": "2516 Eastlake Ave E",
+      "zip_code": "98102",
+      "x_coord": "-122.325257",
+      "y_coord": "47.642601"
+    },
+    {
+      "pmaid": "381",
+      "name": "Spring Street Mini Park",
+      "address": "1506 E Spring St",
+      "zip_code": "98122",
+      "x_coord": "-122.3124",
+      "y_coord": "47.611801"
+    },
+    {
+      "pmaid": "382",
+      "name": "Pinehurst Playground",
+      "address": "12029 14th Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.314628",
+      "y_coord": "47.716436"
+    },
+    {
+      "pmaid": "387",
+      "name": "Plum Tree Park",
+      "address": "1717 26th Ave",
+      "zip_code": "98122",
+      "x_coord": "-122.299142",
+      "y_coord": "47.617053"
+    },
+    {
+      "pmaid": "3881",
+      "name": "Maple Leaf Resevoir Park",
+      "address": "1020 NE 82nd St",
+      "zip_code": "98115",
+      "x_coord": "-122.315613",
+      "y_coord": "47.689015"
+    },
+    {
+      "pmaid": "3894",
+      "name": "Webster Park",
+      "address": "3025 NW 68th St",
+      "zip_code": "98117",
+      "x_coord": "-122.397851",
+      "y_coord": "47.677832"
+    },
+    {
+      "pmaid": "390",
+      "name": "Pratt Park",
+      "address": "1800 S Main St",
+      "zip_code": "98144",
+      "x_coord": "-122.307257",
+      "y_coord": "47.601407"
+    },
+    {
+      "pmaid": "391",
+      "name": "Ravenna Park",
+      "address": "5520 Ravenna Ave NE",
+      "zip_code": "98105",
+      "x_coord": "-122.305705",
+      "y_coord": "47.671404"
+    },
+    {
+      "pmaid": "3913",
+      "name": "T.T. Minor Playground",
+      "address": "1698 E Union St",
+      "zip_code": "98122",
+      "x_coord": "-122.310543",
+      "y_coord": "47.613111"
+    },
+    {
+      "pmaid": "393",
+      "name": "Washington Park Arboretum",
+      "address": "2300 Arboretum Dr E",
+      "zip_code": "98112",
+      "x_coord": "-122.294835",
+      "y_coord": "47.636477"
+    },
+    {
+      "pmaid": "394",
+      "name": "Sacajawea Playground",
+      "address": "1726 NE 94th St",
+      "zip_code": "98115",
+      "x_coord": "-122.308132",
+      "y_coord": "47.697132"
+    },
+    {
+      "pmaid": "3941",
+      "name": "Walt Hundley Playfield",
+      "address": "6920 34th Ave SW",
+      "zip_code": "98126",
+      "x_coord": "-122.373415",
+      "y_coord": "47.54017"
+    },
+    {
+      "pmaid": "395",
+      "name": "Dr. Blanche Lavizzo Park",
+      "address": "2100 S Jackson St",
+      "zip_code": "98144",
+      "x_coord": "-122.304179",
+      "y_coord": "47.600278"
+    },
+    {
+      "pmaid": "397",
+      "name": "Judkins Park and Playfield",
+      "address": "2150 S Norman St",
+      "zip_code": "98144",
+      "x_coord": "-122.303951",
+      "y_coord": "47.592425"
+    },
+    {
+      "pmaid": "3972",
+      "name": "Lakeridge Playfield",
+      "address": "10145 Rainier Ave S",
+      "zip_code": "98178",
+      "x_coord": "-122.246841",
+      "y_coord": "47.510319"
+    },
+    {
+      "pmaid": "398",
+      "name": "Warren G. Magnuson Park",
+      "address": "7400 Sand Point Way NE",
+      "zip_code": "98115",
+      "x_coord": "-122.255084",
+      "y_coord": "47.680304"
+    },
+    {
+      "pmaid": "3985",
+      "name": "Coe Play Park",
+      "address": "2420 7th Ave W",
+      "zip_code": "98119",
+      "x_coord": "-122.365952",
+      "y_coord": "47.640108"
+    },
+    {
+      "pmaid": "3987",
+      "name": "Soundview Terrace",
+      "address": "2500 11th Ave W",
+      "zip_code": "98119",
+      "x_coord": "-122.37141",
+      "y_coord": "47.640849"
+    },
+    {
+      "pmaid": "399",
+      "name": "Volunteer Park",
+      "address": "1247 15th Ave E",
+      "zip_code": "98112",
+      "x_coord": "-122.315568",
+      "y_coord": "47.630378"
+    },
+    {
+      "pmaid": "400",
+      "name": "Beacon Hill Playground",
+      "address": "1902 13th Ave S",
+      "zip_code": "98144",
+      "x_coord": "-122.315325",
+      "y_coord": "47.586226"
+    },
+    {
+      "pmaid": "4002",
+      "name": "Virgil Flaim Park",
+      "address": "2700 NE 123rd St",
+      "zip_code": "98125",
+      "x_coord": "-122.299374",
+      "y_coord": "47.717955"
+    },
+    {
+      "pmaid": "401",
+      "name": "Bradner Gardens Park",
+      "address": "1730 Bradner Pl S",
+      "zip_code": "98144",
+      "x_coord": "-122.295426",
+      "y_coord": "47.587419"
+    },
+    {
+      "pmaid": "402",
+      "name": "Brighton Playfield",
+      "address": "6000 39th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.2821",
+      "y_coord": "47.548387"
+    },
+    {
+      "pmaid": "403",
+      "name": "Othello Playground",
+      "address": "4351 S Othello St",
+      "zip_code": "98118",
+      "x_coord": "-122.278105",
+      "y_coord": "47.536214"
+    },
+    {
+      "pmaid": "406",
+      "name": "Colman Playground",
+      "address": "1740 23rd Ave S",
+      "zip_code": "98122",
+      "x_coord": "-122.301957",
+      "y_coord": "47.587625"
+    },
+    {
+      "pmaid": "408",
+      "name": "Dearborn Park",
+      "address": "2919 S Brandon St",
+      "zip_code": "98126",
+      "x_coord": "-122.296225",
+      "y_coord": "47.553389"
+    },
+    {
+      "pmaid": "409",
+      "name": "Genesee Park and Playfield",
+      "address": "4316 S Genesee St",
+      "zip_code": "98118",
+      "x_coord": "-122.278744",
+      "y_coord": "47.564856"
+    },
+    {
+      "pmaid": "410",
+      "name": "Georgetown Playfield",
+      "address": "750 S Homer St",
+      "zip_code": "98108",
+      "x_coord": "-122.321396",
+      "y_coord": "47.55162"
+    },
+    {
+      "pmaid": "414",
+      "name": "Lakewood Playfield",
+      "address": "5013 S Angeline St",
+      "zip_code": "98118",
+      "x_coord": "-122.27006",
+      "y_coord": "47.558831"
+    },
+    {
+      "pmaid": "4158",
+      "name": "Puget Boulevard Commons",
+      "address": "5200 26th Ave SW",
+      "zip_code": "98106",
+      "x_coord": "-122.365575",
+      "y_coord": "47.555356"
+    },
+    {
+      "pmaid": "4167",
+      "name": "Cedar Park",
+      "address": "3737 NE 135th St",
+      "zip_code": "98125",
+      "x_coord": "-122.288042",
+      "y_coord": "47.725808"
+    },
+    {
+      "pmaid": "418",
+      "name": "Maple Wood Playfield",
+      "address": "4801 Corson Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.318845",
+      "y_coord": "47.560041"
+    },
+    {
+      "pmaid": "419",
+      "name": "Mt. Baker Park",
+      "address": "2521 Lake Park Dr S",
+      "zip_code": "98144",
+      "x_coord": "-122.288481",
+      "y_coord": "47.580957"
+    },
+    {
+      "pmaid": "4201",
+      "name": "Puget Ridge Playground",
+      "address": "6029 21st Ave SW",
+      "zip_code": "98106",
+      "x_coord": "-122.359947",
+      "y_coord": "47.547368"
+    },
+    {
+      "pmaid": "422",
+      "name": "Rainier Beach Playfield",
+      "address": "8802 Rainier Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.273136",
+      "y_coord": "47.525041"
+    },
+    {
+      "pmaid": "423",
+      "name": "Rainier Playfield",
+      "address": "3700 S Alaska St",
+      "zip_code": "98118",
+      "x_coord": "-122.2862",
+      "y_coord": "47.561817"
+    },
+    {
+      "pmaid": "4242",
+      "name": "Sam Smith Park",
+      "address": "1400 Martin Luther King Jr Way S",
+      "zip_code": "98122",
+      "x_coord": "-122.297814",
+      "y_coord": "47.589982"
+    },
+    {
+      "pmaid": "4243",
+      "name": "Atlantic Street Park",
+      "address": "1501 21st Ave S",
+      "zip_code": "98144",
+      "x_coord": "-122.30566",
+      "y_coord": "47.589165"
+    },
+    {
+      "pmaid": "428",
+      "name": "Seward Park",
+      "address": "5900 Lake Washington Blvd S",
+      "zip_code": "98118",
+      "x_coord": "-122.250639",
+      "y_coord": "47.54923"
+    },
+    {
+      "pmaid": "429",
+      "name": "John C. Little, Sr. Park",
+      "address": "6961 37th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.286686",
+      "y_coord": "47.539048"
+    },
+    {
+      "pmaid": "431",
+      "name": "Van Asselt Playground",
+      "address": "7050 Beacon Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.294068",
+      "y_coord": "47.539446"
+    },
+    {
+      "pmaid": "433",
+      "name": "Dr. Jose Rizal Park",
+      "address": "1007 12th Ave S",
+      "zip_code": "98144",
+      "x_coord": "-122.318094",
+      "y_coord": "47.593859"
+    },
+    {
+      "pmaid": "435",
+      "name": "University Playground",
+      "address": "4745 9th Ave NE",
+      "zip_code": "98105",
+      "x_coord": "-122.319312",
+      "y_coord": "47.664447"
+    },
+    {
+      "pmaid": "436",
+      "name": "Benefit Playground",
+      "address": "9320 38th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.284294",
+      "y_coord": "47.518998"
+    },
+    {
+      "pmaid": "438",
+      "name": "Victory Heights Playground",
+      "address": "1737 NE 106th St",
+      "zip_code": "98125",
+      "x_coord": "-122.307834",
+      "y_coord": "47.705672"
+    },
+    {
+      "pmaid": "439",
+      "name": "Hutchinson Playground",
+      "address": "59th Ave S & S Norfolk St",
+      "zip_code": "98118",
+      "x_coord": "-122.260062",
+      "y_coord": "47.514312"
+    },
+    {
+      "pmaid": "440",
+      "name": "Beer Sheva Park",
+      "address": "8650 55th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.263223",
+      "y_coord": "47.524191"
+    },
+    {
+      "pmaid": "4408",
+      "name": "Greenwood Park",
+      "address": "602 N 87th St",
+      "zip_code": "98117",
+      "x_coord": "-122.350647",
+      "y_coord": "47.693048"
+    },
+    {
+      "pmaid": "4416",
+      "name": "Oxbow Park",
+      "address": "6430 Corson Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.321583",
+      "y_coord": "47.54499"
+    },
+    {
+      "pmaid": "4419",
+      "name": "Linden Orchard Park",
+      "address": "Linden Ave N & N 67th St",
+      "zip_code": "98103",
+      "x_coord": "-122.347727",
+      "y_coord": "47.678016"
+    },
+    {
+      "pmaid": "4421",
+      "name": "Trolley Hill Park",
+      "address": "1800 Taylor Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.347039",
+      "y_coord": "47.635143"
+    },
+    {
+      "pmaid": "4426",
+      "name": "Homer Harris Park",
+      "address": "2401 E Howell St",
+      "zip_code": "98122",
+      "x_coord": "-122.300994",
+      "y_coord": "47.617309"
+    },
+    {
+      "pmaid": "4428",
+      "name": "Ballard Corners Park",
+      "address": "1702 nw 62nd St",
+      "zip_code": "98107",
+      "x_coord": "-122.379116",
+      "y_coord": "47.674186"
+    },
+    {
+      "pmaid": "444",
+      "name": "View Ridge Playfield",
+      "address": "4408 NE 70th St",
+      "zip_code": "98115",
+      "x_coord": "-122.279969",
+      "y_coord": "47.679747"
+    },
+    {
+      "pmaid": "4441",
+      "name": "Madison Park North Beach",
+      "address": "2300 43rd Ave E",
+      "zip_code": "98112",
+      "x_coord": "-122.276118",
+      "y_coord": "47.639084"
+    },
+    {
+      "pmaid": "4450",
+      "name": "Bitter Lake Reservoir Open Space",
+      "address": "14201 Linden Ave N",
+      "zip_code": "98133",
+      "x_coord": "-122.348583",
+      "y_coord": "47.731181"
+    },
+    {
+      "pmaid": "4454",
+      "name": "Ercolini Park",
+      "address": "4542 48th Ave SW",
+      "zip_code": "98116",
+      "x_coord": "-122.394275",
+      "y_coord": "47.515021"
+    },
+    {
+      "pmaid": "446",
+      "name": "Alki Playground",
+      "address": "5817 SW Lander St",
+      "zip_code": "98116",
+      "x_coord": "-122.407312",
+      "y_coord": "47.578497"
+    },
+    {
+      "pmaid": "4463",
+      "name": "Myrtle Reservoir",
+      "address": "35th Ave SW & SW Myrtle St",
+      "zip_code": "98126",
+      "x_coord": "-122.376716",
+      "y_coord": "47.539206"
+    },
+    {
+      "pmaid": "4468",
+      "name": "Kirke Park",
+      "address": "7028 9th Ave NW",
+      "zip_code": "98117",
+      "x_coord": "-122.368021",
+      "y_coord": "47.680338"
+    },
+    {
+      "pmaid": "4469",
+      "name": "Crown Hill Park",
+      "address": "9089 Holman Rd NW",
+      "zip_code": "98117",
+      "x_coord": "-122.373976",
+      "y_coord": "47.696071"
+    },
+    {
+      "pmaid": "449",
+      "name": "Wallingford Playfield",
+      "address": "4219 Wallingford Ave N",
+      "zip_code": "98103",
+      "x_coord": "-122.337444",
+      "y_coord": "47.658544"
+    },
+    {
+      "pmaid": "450",
+      "name": "Delridge Playfield",
+      "address": "4458 Delridge Way SW",
+      "zip_code": "98106",
+      "x_coord": "-122.364371",
+      "y_coord": "47.562842"
+    },
+    {
+      "pmaid": "452",
+      "name": "Fairmount Playfield",
+      "address": "5400 Fauntleroy Way SW",
+      "zip_code": "98136",
+      "x_coord": "-122.380549",
+      "y_coord": "47.554041"
+    },
+    {
+      "pmaid": "456",
+      "name": "Hiawatha Playfield",
+      "address": "2700 California Ave SW",
+      "zip_code": "98116",
+      "x_coord": "-122.384965",
+      "y_coord": "47.578272"
+    },
+    {
+      "pmaid": "457",
+      "name": "Highland Park Playground",
+      "address": "1100 SW Cloverdale St",
+      "zip_code": "98106",
+      "x_coord": "-122.349034",
+      "y_coord": "47.52738"
+    },
+    {
+      "pmaid": "458",
+      "name": "E.C. Hughes Playground",
+      "address": "2805 SW Holden St",
+      "zip_code": "98126",
+      "x_coord": "-122.369545",
+      "y_coord": "47.532805"
+    },
+    {
+      "pmaid": "460",
+      "name": "Lincoln Park",
+      "address": "8011 Fauntleroy Way SW",
+      "zip_code": "98136",
+      "x_coord": "-122.396012",
+      "y_coord": "47.531176"
+    },
+    {
+      "pmaid": "461",
+      "name": "Lowman Beach Park",
+      "address": "7017 Beach Dr SW",
+      "zip_code": "98136",
+      "x_coord": "-122.396728",
+      "y_coord": "47.540367"
+    },
+    {
+      "pmaid": "463",
+      "name": "Riverview Playfield",
+      "address": "7226 12th Ave SW",
+      "zip_code": "98106",
+      "x_coord": "-122.348688",
+      "y_coord": "47.54101"
+    },
+    {
+      "pmaid": "464",
+      "name": "Roxhill Park",
+      "address": "2850 SW Roxbury St",
+      "zip_code": "98126",
+      "x_coord": "-122.368881",
+      "y_coord": "47.519496"
+    },
+    {
+      "pmaid": "467",
+      "name": "South Park Playground",
+      "address": "738 S Sullivan St",
+      "zip_code": "98108",
+      "x_coord": "-122.324159",
+      "y_coord": "47.528016"
+    },
+    {
+      "pmaid": "468",
+      "name": "Westcrest Park",
+      "address": "9000 8th Ave SW",
+      "zip_code": "98106",
+      "x_coord": "-122.341719",
+      "y_coord": "47.525783"
+    },
+    {
+      "pmaid": "482",
+      "name": "Bryant Neighborhood Playground",
+      "address": "4103 NE 65th St",
+      "zip_code": "98115",
+      "x_coord": "-122.283644",
+      "y_coord": "47.675299"
+    },
+    {
+      "pmaid": "483",
+      "name": "Cowen Park",
+      "address": "5849 15th Ave NE",
+      "zip_code": "98105",
+      "x_coord": "-122.313072",
+      "y_coord": "47.672596"
+    },
+    {
+      "pmaid": "488",
+      "name": "Ravenna-Eckstein Park",
+      "address": "6535 Ravenna Ave NE",
+      "zip_code": "98115",
+      "x_coord": "-122.304964",
+      "y_coord": "47.676873"
+    },
+    {
+      "pmaid": "496",
+      "name": "Burke-Gilman Playground Park",
+      "address": "5201 Sand Point Way NE",
+      "zip_code": "98105",
+      "x_coord": "-122.282623",
+      "y_coord": "47.666634"
+    },
+    {
+      "pmaid": "497",
+      "name": "Ballard Playground",
+      "address": "2644 NW 60th St",
+      "zip_code": "98107",
+      "x_coord": "-122.39155",
+      "y_coord": "47.672786"
+    },
+    {
+      "pmaid": "499",
+      "name": "Dahl Playfield",
+      "address": "7700 25th Ave NE",
+      "zip_code": "98115",
+      "x_coord": "-122.299309",
+      "y_coord": "47.685267"
+    },
+    {
+      "pmaid": "763",
+      "name": "Ward Springs Park",
+      "address": "4th Ave N & Ward St",
+      "zip_code": "98109",
+      "x_coord": "-122.349245",
+      "y_coord": "47.627747"
+    }
+  ],
+  "Restrooms": [
+    {
+      "pmaid": "1104",
+      "name": "Meridian Playground",
+      "address": "4649 Sunnyside Ave N",
+      "zip_code": "98103",
+      "x_coord": "-122.332557",
+      "y_coord": "47.664159"
+    },
+    {
+      "pmaid": "114",
+      "name": "Jefferson Park",
+      "address": "3801 Beacon Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.311441",
+      "y_coord": "47.568067"
+    },
+    {
+      "pmaid": "240",
+      "name": "Carkeek Park",
+      "address": "950 NW Carkeek Park Rd",
+      "zip_code": "98117",
+      "x_coord": "-122.379763",
+      "y_coord": "47.712194"
+    },
+    {
+      "pmaid": "242",
+      "name": "Gilman Playground",
+      "address": "923 NW 54th St",
+      "zip_code": "98107",
+      "x_coord": "-122.369684",
+      "y_coord": "47.667292"
+    },
+    {
+      "pmaid": "243",
+      "name": "Golden Gardens Park",
+      "address": "8498 Seaview Pl NW",
+      "zip_code": "98117",
+      "x_coord": "-122.403454",
+      "y_coord": "47.686852"
+    },
+    {
+      "pmaid": "249",
+      "name": "Salmon Bay Park",
+      "address": "2001 NW Canoe Pl",
+      "zip_code": "98117",
+      "x_coord": "-122.381343",
+      "y_coord": "47.679297"
+    },
+    {
+      "pmaid": "250",
+      "name": "Sandel Playground",
+      "address": "9053 1st Ave NW",
+      "zip_code": "98117",
+      "x_coord": "-122.358701",
+      "y_coord": "47.695134"
+    },
+    {
+      "pmaid": "251",
+      "name": "Soundview Playfield",
+      "address": "1590 NW 90th St",
+      "zip_code": "98117",
+      "x_coord": "-122.378878",
+      "y_coord": "47.695416"
+    },
+    {
+      "pmaid": "286",
+      "name": "Licton Springs Park",
+      "address": "9536 Ashworth Ave N",
+      "zip_code": "98103",
+      "x_coord": "-122.338735",
+      "y_coord": "47.698542"
+    },
+    {
+      "pmaid": "288",
+      "name": "Bitter Lake Playfield",
+      "address": "13035 Linden Ave N",
+      "zip_code": "98133",
+      "x_coord": "-122.349314",
+      "y_coord": "47.724209"
+    },
+    {
+      "pmaid": "292",
+      "name": "Woodland Park",
+      "address": "1000 N 50th St",
+      "zip_code": "98103",
+      "x_coord": "-122.344218",
+      "y_coord": "47.668906"
+    },
+    {
+      "pmaid": "293",
+      "name": "Gas Works Park",
+      "address": "2101 N Northlake Way",
+      "zip_code": "98103",
+      "x_coord": "-122.334906",
+      "y_coord": "47.645639"
+    },
+    {
+      "pmaid": "297",
+      "name": "Little Brook Park",
+      "address": "14043 32nd Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.294567",
+      "y_coord": "47.731387"
+    },
+    {
+      "pmaid": "303",
+      "name": "Bayview Playground",
+      "address": "2614 24th Ave W",
+      "zip_code": "98199",
+      "x_coord": "-122.386786",
+      "y_coord": "47.643802"
+    },
+    {
+      "pmaid": "307",
+      "name": "Green Lake Park",
+      "address": "7201 E Greenlake Dr N",
+      "zip_code": "98115",
+      "x_coord": "-122.330394",
+      "y_coord": "47.678938"
+    },
+    {
+      "pmaid": "310",
+      "name": "Discovery Park",
+      "address": "3801 Discovery Park Blvd",
+      "zip_code": "98199",
+      "x_coord": "-122.415282",
+      "y_coord": "47.66083"
+    },
+    {
+      "pmaid": "3102",
+      "name": "Cal Anderson Park and Bobby Morris Playfield",
+      "address": "1635 11th Ave",
+      "zip_code": "98122",
+      "x_coord": "-122.319134",
+      "y_coord": "47.617013"
+    },
+    {
+      "pmaid": "314",
+      "name": "Kinnear Park",
+      "address": "899 W Olympic Pl",
+      "zip_code": "98119",
+      "x_coord": "-122.367207",
+      "y_coord": "47.627317"
+    },
+    {
+      "pmaid": "317",
+      "name": "Magnolia Park",
+      "address": "1461 Magnolia Blvd W",
+      "zip_code": "98199",
+      "x_coord": "-122.398993",
+      "y_coord": "47.632366"
+    },
+    {
+      "pmaid": "319",
+      "name": "Magnolia Playfield",
+      "address": "2518 34th Ave W",
+      "zip_code": "98199",
+      "x_coord": "-122.399472",
+      "y_coord": "47.643746"
+    },
+    {
+      "pmaid": "329",
+      "name": "East Queen Anne Playground",
+      "address": "1912 Warren Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.353786",
+      "y_coord": "47.636139"
+    },
+    {
+      "pmaid": "331",
+      "name": "David Rodgers Park",
+      "address": "2800 1st Ave W",
+      "zip_code": "98119",
+      "x_coord": "-122.359484",
+      "y_coord": "47.644135"
+    },
+    {
+      "pmaid": "345",
+      "name": "Powell Barnett Park",
+      "address": "352 Martin Luther King Jr Way",
+      "zip_code": "98112",
+      "x_coord": "-122.295998",
+      "y_coord": "47.605197"
+    },
+    {
+      "pmaid": "347",
+      "name": "Matthews Beach Park",
+      "address": "5100 NE 93rd St",
+      "zip_code": "98115",
+      "x_coord": "-122.271785",
+      "y_coord": "47.694564"
+    },
+    {
+      "pmaid": "350",
+      "name": "Cascade Playground",
+      "address": "333 Pontius Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.332355",
+      "y_coord": "47.621405"
+    },
+    {
+      "pmaid": "352",
+      "name": "Meadowbrook Playfield",
+      "address": "10533 35th Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.293493",
+      "y_coord": "47.705771"
+    },
+    {
+      "pmaid": "353",
+      "name": "Garfield Playfield",
+      "address": "537 25th Ave",
+      "zip_code": "98122",
+      "x_coord": "-122.301412",
+      "y_coord": "47.607098"
+    },
+    {
+      "pmaid": "361",
+      "name": "Northacres Park",
+      "address": "12718 1st Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.326124",
+      "y_coord": "47.721775"
+    },
+    {
+      "pmaid": "367",
+      "name": "Leschi Park",
+      "address": "201 Lakeside Ave. S",
+      "zip_code": "98122",
+      "x_coord": "-122.286548",
+      "y_coord": "47.600931"
+    },
+    {
+      "pmaid": "369",
+      "name": "Madison Park",
+      "address": "4201 E Madison St",
+      "zip_code": "98112",
+      "x_coord": "-122.276602",
+      "y_coord": "47.635779"
+    },
+    {
+      "pmaid": "370",
+      "name": "Madrona Park",
+      "address": "853 Lake Washington Blvd",
+      "zip_code": "98122",
+      "x_coord": "-122.282679",
+      "y_coord": "47.609299"
+    },
+    {
+      "pmaid": "371",
+      "name": "Madrona Playground",
+      "address": "3211 E Spring St",
+      "zip_code": "98122",
+      "x_coord": "-122.289885",
+      "y_coord": "47.611022"
+    },
+    {
+      "pmaid": "376",
+      "name": "Montlake Playfield",
+      "address": "1618 E Calhoun St",
+      "zip_code": "98112",
+      "x_coord": "-122.310081",
+      "y_coord": "47.642407"
+    },
+    {
+      "pmaid": "378",
+      "name": "Peppi's Playground",
+      "address": "3233 E Spruce St",
+      "zip_code": "98122",
+      "x_coord": "-122.290602",
+      "y_coord": "47.602723"
+    },
+    {
+      "pmaid": "380",
+      "name": "Rogers Playground",
+      "address": "2516 Eastlake Ave E",
+      "zip_code": "98102",
+      "x_coord": "-122.325257",
+      "y_coord": "47.642601"
+    },
+    {
+      "pmaid": "3881",
+      "name": "Maple Leaf Resevoir Park",
+      "address": "1020 NE 82nd St",
+      "zip_code": "98115",
+      "x_coord": "-122.315613",
+      "y_coord": "47.689015"
+    },
+    {
+      "pmaid": "3887",
+      "name": "Interbay Athletic Complex",
+      "address": "3027 17th Ave W",
+      "zip_code": "98119",
+      "x_coord": "-122.379191",
+      "y_coord": "47.647239"
+    },
+    {
+      "pmaid": "390",
+      "name": "Pratt Park",
+      "address": "1800 S Main St",
+      "zip_code": "98144",
+      "x_coord": "-122.307257",
+      "y_coord": "47.601407"
+    },
+    {
+      "pmaid": "391",
+      "name": "Ravenna Park",
+      "address": "5520 Ravenna Ave NE",
+      "zip_code": "98105",
+      "x_coord": "-122.305705",
+      "y_coord": "47.671404"
+    },
+    {
+      "pmaid": "3917",
+      "name": "Don Armeni Park",
+      "address": "1222 Harbor Ave SW",
+      "zip_code": "98116",
+      "x_coord": "-122.382295",
+      "y_coord": "47.59274"
+    },
+    {
+      "pmaid": "393",
+      "name": "Washington Park Arboretum",
+      "address": "2300 Arboretum Dr E",
+      "zip_code": "98112",
+      "x_coord": "-122.294835",
+      "y_coord": "47.636477"
+    },
+    {
+      "pmaid": "3941",
+      "name": "Walt Hundley Playfield",
+      "address": "6920 34th Ave SW",
+      "zip_code": "98126",
+      "x_coord": "-122.373415",
+      "y_coord": "47.54017"
+    },
+    {
+      "pmaid": "395",
+      "name": "Dr. Blanche Lavizzo Park",
+      "address": "2100 S Jackson St",
+      "zip_code": "98144",
+      "x_coord": "-122.304179",
+      "y_coord": "47.600278"
+    },
+    {
+      "pmaid": "397",
+      "name": "Judkins Park and Playfield",
+      "address": "2150 S Norman St",
+      "zip_code": "98144",
+      "x_coord": "-122.303951",
+      "y_coord": "47.592425"
+    },
+    {
+      "pmaid": "3972",
+      "name": "Lakeridge Playfield",
+      "address": "10145 Rainier Ave S",
+      "zip_code": "98178",
+      "x_coord": "-122.246841",
+      "y_coord": "47.510319"
+    },
+    {
+      "pmaid": "398",
+      "name": "Warren G. Magnuson Park",
+      "address": "7400 Sand Point Way NE",
+      "zip_code": "98115",
+      "x_coord": "-122.255084",
+      "y_coord": "47.680304"
+    },
+    {
+      "pmaid": "399",
+      "name": "Volunteer Park",
+      "address": "1247 15th Ave E",
+      "zip_code": "98112",
+      "x_coord": "-122.315568",
+      "y_coord": "47.630378"
+    },
+    {
+      "pmaid": "400",
+      "name": "Beacon Hill Playground",
+      "address": "1902 13th Ave S",
+      "zip_code": "98144",
+      "x_coord": "-122.315325",
+      "y_coord": "47.586226"
+    },
+    {
+      "pmaid": "401",
+      "name": "Bradner Gardens Park",
+      "address": "1730 Bradner Pl S",
+      "zip_code": "98144",
+      "x_coord": "-122.295426",
+      "y_coord": "47.587419"
+    },
+    {
+      "pmaid": "402",
+      "name": "Brighton Playfield",
+      "address": "6000 39th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.2821",
+      "y_coord": "47.548387"
+    },
+    {
+      "pmaid": "403",
+      "name": "Othello Playground",
+      "address": "4351 S Othello St",
+      "zip_code": "98118",
+      "x_coord": "-122.278105",
+      "y_coord": "47.536214"
+    },
+    {
+      "pmaid": "406",
+      "name": "Colman Playground",
+      "address": "1740 23rd Ave S",
+      "zip_code": "98122",
+      "x_coord": "-122.301957",
+      "y_coord": "47.587625"
+    },
+    {
+      "pmaid": "4081",
+      "name": "Atlantic City Boat Ramp",
+      "address": "8702 Seward Park Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.263078",
+      "y_coord": "47.522834"
+    },
+    {
+      "pmaid": "409",
+      "name": "Genesee Park and Playfield",
+      "address": "4316 S Genesee St",
+      "zip_code": "98118",
+      "x_coord": "-122.278744",
+      "y_coord": "47.564856"
+    },
+    {
+      "pmaid": "410",
+      "name": "Georgetown Playfield",
+      "address": "750 S Homer St",
+      "zip_code": "98108",
+      "x_coord": "-122.321396",
+      "y_coord": "47.55162"
+    },
+    {
+      "pmaid": "414",
+      "name": "Lakewood Playfield",
+      "address": "5013 S Angeline St",
+      "zip_code": "98118",
+      "x_coord": "-122.27006",
+      "y_coord": "47.558831"
+    },
+    {
+      "pmaid": "4154",
+      "name": "Camp Long",
+      "address": "5200 35th Ave SW",
+      "zip_code": "98126",
+      "x_coord": "-122.373161",
+      "y_coord": "47.556242"
+    },
+    {
+      "pmaid": "418",
+      "name": "Maple Wood Playfield",
+      "address": "4801 Corson Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.318845",
+      "y_coord": "47.560041"
+    },
+    {
+      "pmaid": "419",
+      "name": "Mt. Baker Park",
+      "address": "2521 Lake Park Dr S",
+      "zip_code": "98144",
+      "x_coord": "-122.288481",
+      "y_coord": "47.580957"
+    },
+    {
+      "pmaid": "422",
+      "name": "Rainier Beach Playfield",
+      "address": "8802 Rainier Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.273136",
+      "y_coord": "47.525041"
+    },
+    {
+      "pmaid": "423",
+      "name": "Rainier Playfield",
+      "address": "3700 S Alaska St",
+      "zip_code": "98118",
+      "x_coord": "-122.2862",
+      "y_coord": "47.561817"
+    },
+    {
+      "pmaid": "428",
+      "name": "Seward Park",
+      "address": "5900 Lake Washington Blvd S",
+      "zip_code": "98118",
+      "x_coord": "-122.250639",
+      "y_coord": "47.54923"
+    },
+    {
+      "pmaid": "429",
+      "name": "John C. Little, Sr. Park",
+      "address": "6961 37th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.286686",
+      "y_coord": "47.539048"
+    },
+    {
+      "pmaid": "431",
+      "name": "Van Asselt Playground",
+      "address": "7050 Beacon Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.294068",
+      "y_coord": "47.539446"
+    },
+    {
+      "pmaid": "433",
+      "name": "Dr. Jose Rizal Park",
+      "address": "1007 12th Ave S",
+      "zip_code": "98144",
+      "x_coord": "-122.318094",
+      "y_coord": "47.593859"
+    },
+    {
+      "pmaid": "435",
+      "name": "University Playground",
+      "address": "4745 9th Ave NE",
+      "zip_code": "98105",
+      "x_coord": "-122.319312",
+      "y_coord": "47.664447"
+    },
+    {
+      "pmaid": "439",
+      "name": "Hutchinson Playground",
+      "address": "59th Ave S & S Norfolk St",
+      "zip_code": "98118",
+      "x_coord": "-122.260062",
+      "y_coord": "47.514312"
+    },
+    {
+      "pmaid": "440",
+      "name": "Beer Sheva Park",
+      "address": "8650 55th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.263223",
+      "y_coord": "47.524191"
+    },
+    {
+      "pmaid": "4408",
+      "name": "Greenwood Park",
+      "address": "602 N 87th St",
+      "zip_code": "98117",
+      "x_coord": "-122.350647",
+      "y_coord": "47.693048"
+    },
+    {
+      "pmaid": "444",
+      "name": "View Ridge Playfield",
+      "address": "4408 NE 70th St",
+      "zip_code": "98115",
+      "x_coord": "-122.279969",
+      "y_coord": "47.679747"
+    },
+    {
+      "pmaid": "445",
+      "name": "Alki Beach Park",
+      "address": "1702 Alki Ave SW",
+      "zip_code": "98116",
+      "x_coord": "-122.402173",
+      "y_coord": "47.582912"
+    },
+    {
+      "pmaid": "446",
+      "name": "Alki Playground",
+      "address": "5817 SW Lander St",
+      "zip_code": "98116",
+      "x_coord": "-122.407312",
+      "y_coord": "47.578497"
+    },
+    {
+      "pmaid": "449",
+      "name": "Wallingford Playfield",
+      "address": "4219 Wallingford Ave N",
+      "zip_code": "98103",
+      "x_coord": "-122.337444",
+      "y_coord": "47.658544"
+    },
+    {
+      "pmaid": "450",
+      "name": "Delridge Playfield",
+      "address": "4458 Delridge Way SW",
+      "zip_code": "98106",
+      "x_coord": "-122.364371",
+      "y_coord": "47.562842"
+    },
+    {
+      "pmaid": "452",
+      "name": "Fairmount Playfield",
+      "address": "5400 Fauntleroy Way SW",
+      "zip_code": "98136",
+      "x_coord": "-122.380549",
+      "y_coord": "47.554041"
+    },
+    {
+      "pmaid": "455",
+      "name": "Seacrest Park",
+      "address": "1660 Harbor Ave SW",
+      "zip_code": "98126",
+      "x_coord": "-122.381226",
+      "y_coord": "47.589941"
+    },
+    {
+      "pmaid": "456",
+      "name": "Hiawatha Playfield",
+      "address": "2700 California Ave SW",
+      "zip_code": "98116",
+      "x_coord": "-122.384965",
+      "y_coord": "47.578272"
+    },
+    {
+      "pmaid": "457",
+      "name": "Highland Park Playground",
+      "address": "1100 SW Cloverdale St",
+      "zip_code": "98106",
+      "x_coord": "-122.349034",
+      "y_coord": "47.52738"
+    },
+    {
+      "pmaid": "458",
+      "name": "E.C. Hughes Playground",
+      "address": "2805 SW Holden St",
+      "zip_code": "98126",
+      "x_coord": "-122.369545",
+      "y_coord": "47.532805"
+    },
+    {
+      "pmaid": "460",
+      "name": "Lincoln Park",
+      "address": "8011 Fauntleroy Way SW",
+      "zip_code": "98136",
+      "x_coord": "-122.396012",
+      "y_coord": "47.531176"
+    },
+    {
+      "pmaid": "463",
+      "name": "Riverview Playfield",
+      "address": "7226 12th Ave SW",
+      "zip_code": "98106",
+      "x_coord": "-122.348688",
+      "y_coord": "47.54101"
+    },
+    {
+      "pmaid": "464",
+      "name": "Roxhill Park",
+      "address": "2850 SW Roxbury St",
+      "zip_code": "98126",
+      "x_coord": "-122.368881",
+      "y_coord": "47.519496"
+    },
+    {
+      "pmaid": "468",
+      "name": "Westcrest Park",
+      "address": "9000 8th Ave SW",
+      "zip_code": "98106",
+      "x_coord": "-122.341719",
+      "y_coord": "47.525783"
+    },
+    {
+      "pmaid": "483",
+      "name": "Cowen Park",
+      "address": "5849 15th Ave NE",
+      "zip_code": "98105",
+      "x_coord": "-122.313072",
+      "y_coord": "47.672596"
+    },
+    {
+      "pmaid": "496",
+      "name": "Burke-Gilman Playground Park",
+      "address": "5201 Sand Point Way NE",
+      "zip_code": "98105",
+      "x_coord": "-122.282623",
+      "y_coord": "47.666634"
+    },
+    {
+      "pmaid": "499",
+      "name": "Dahl Playfield",
+      "address": "7700 25th Ave NE",
+      "zip_code": "98115",
+      "x_coord": "-122.299309",
+      "y_coord": "47.685267"
+    }
+  ],
+  "Skate Park": [
+    {
+      "pmaid": "114",
+      "name": "Jefferson Park",
+      "address": "3801 Beacon Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.311441",
+      "y_coord": "47.568067"
+    },
+    {
+      "pmaid": "292",
+      "name": "Woodland Park",
+      "address": "1000 N 50th St",
+      "zip_code": "98103",
+      "x_coord": "-122.344218",
+      "y_coord": "47.668906"
+    },
+    {
+      "pmaid": "397",
+      "name": "Judkins Park and Playfield",
+      "address": "2150 S Norman St",
+      "zip_code": "98144",
+      "x_coord": "-122.303951",
+      "y_coord": "47.592425"
+    },
+    {
+      "pmaid": "4278",
+      "name": "Ballard Commons Park",
+      "address": "5701 22nd Ave NW",
+      "zip_code": "98107",
+      "x_coord": "-122.385487",
+      "y_coord": "47.670549"
+    },
+    {
+      "pmaid": "436",
+      "name": "Benefit Playground",
+      "address": "9320 38th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.284294",
+      "y_coord": "47.518998"
+    },
+    {
+      "pmaid": "4456",
+      "name": "Hubbard Homestead",
+      "address": "11203 5th Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.324674",
+      "y_coord": "47.709964"
+    },
+    {
+      "pmaid": "4461",
+      "name": "Summit Slope Park",
+      "address": "200 Summit Ave E",
+      "zip_code": "98102",
+      "x_coord": "-122.325298",
+      "y_coord": "47.619832"
+    },
+    {
+      "pmaid": "4469",
+      "name": "Crown Hill Park",
+      "address": "9089 Holman Rd NW",
+      "zip_code": "98117",
+      "x_coord": "-122.373976",
+      "y_coord": "47.696071"
+    },
+    {
+      "pmaid": "450",
+      "name": "Delridge Playfield",
+      "address": "4458 Delridge Way SW",
+      "zip_code": "98106",
+      "x_coord": "-122.364371",
+      "y_coord": "47.562842"
+    },
+    {
+      "pmaid": "464",
+      "name": "Roxhill Park",
+      "address": "2850 SW Roxbury St",
+      "zip_code": "98126",
+      "x_coord": "-122.368881",
+      "y_coord": "47.519496"
+    },
+    {
+      "pmaid": "499",
+      "name": "Dahl Playfield",
+      "address": "7700 25th Ave NE",
+      "zip_code": "98115",
+      "x_coord": "-122.299309",
+      "y_coord": "47.685267"
+    }
+  ],
+  "Soccer Fields": [
+    {
+      "pmaid": "114",
+      "name": "Jefferson Park",
+      "address": "3801 Beacon Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.311441",
+      "y_coord": "47.568067"
+    },
+    {
+      "pmaid": "241",
+      "name": "B.F. Day Playground",
+      "address": "4020 Fremont Ave N",
+      "zip_code": "98103",
+      "x_coord": "-122.349222",
+      "y_coord": "47.65603"
+    },
+    {
+      "pmaid": "242",
+      "name": "Gilman Playground",
+      "address": "923 NW 54th St",
+      "zip_code": "98107",
+      "x_coord": "-122.369684",
+      "y_coord": "47.667292"
+    },
+    {
+      "pmaid": "251",
+      "name": "Soundview Playfield",
+      "address": "1590 NW 90th St",
+      "zip_code": "98117",
+      "x_coord": "-122.378878",
+      "y_coord": "47.695416"
+    },
+    {
+      "pmaid": "288",
+      "name": "Bitter Lake Playfield",
+      "address": "13035 Linden Ave N",
+      "zip_code": "98133",
+      "x_coord": "-122.349314",
+      "y_coord": "47.724209"
+    },
+    {
+      "pmaid": "289",
+      "name": "Loyal Heights Playfield",
+      "address": "2101 NW 77th St",
+      "zip_code": "98117",
+      "x_coord": "-122.38324",
+      "y_coord": "47.684106"
+    },
+    {
+      "pmaid": "292",
+      "name": "Woodland Park",
+      "address": "1000 N 50th St",
+      "zip_code": "98103",
+      "x_coord": "-122.344218",
+      "y_coord": "47.668906"
+    },
+    {
+      "pmaid": "303",
+      "name": "Bayview Playground",
+      "address": "2614 24th Ave W",
+      "zip_code": "98199",
+      "x_coord": "-122.386786",
+      "y_coord": "47.643802"
+    },
+    {
+      "pmaid": "307",
+      "name": "Green Lake Park",
+      "address": "7201 E Greenlake Dr N",
+      "zip_code": "98115",
+      "x_coord": "-122.330394",
+      "y_coord": "47.678938"
+    },
+    {
+      "pmaid": "3102",
+      "name": "Cal Anderson Park and Bobby Morris Playfield",
+      "address": "1635 11th Ave",
+      "zip_code": "98122",
+      "x_coord": "-122.319134",
+      "y_coord": "47.617013"
+    },
+    {
+      "pmaid": "316",
+      "name": "Lawton Park",
+      "address": "4005 27th Ave W",
+      "zip_code": "98199",
+      "x_coord": "-122.391158",
+      "y_coord": "47.655065"
+    },
+    {
+      "pmaid": "319",
+      "name": "Magnolia Playfield",
+      "address": "2518 34th Ave W",
+      "zip_code": "98199",
+      "x_coord": "-122.399472",
+      "y_coord": "47.643746"
+    },
+    {
+      "pmaid": "329",
+      "name": "East Queen Anne Playground",
+      "address": "1912 Warren Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.353786",
+      "y_coord": "47.636139"
+    },
+    {
+      "pmaid": "330",
+      "name": "West Queen Anne Playfield",
+      "address": "150 W Blaine St",
+      "zip_code": "98119",
+      "x_coord": "-122.359504",
+      "y_coord": "47.635514"
+    },
+    {
+      "pmaid": "340",
+      "name": "Laurelhurst Playfield",
+      "address": "4544 NE 41st St",
+      "zip_code": "98105",
+      "x_coord": "-122.278019",
+      "y_coord": "47.65989"
+    },
+    {
+      "pmaid": "361",
+      "name": "Northacres Park",
+      "address": "12718 1st Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.326124",
+      "y_coord": "47.721775"
+    },
+    {
+      "pmaid": "371",
+      "name": "Madrona Playground",
+      "address": "3211 E Spring St",
+      "zip_code": "98122",
+      "x_coord": "-122.289885",
+      "y_coord": "47.611022"
+    },
+    {
+      "pmaid": "373",
+      "name": "Miller Playfield",
+      "address": "330 19th Ave E",
+      "zip_code": "98112",
+      "x_coord": "-122.306261",
+      "y_coord": "47.621433"
+    },
+    {
+      "pmaid": "376",
+      "name": "Montlake Playfield",
+      "address": "1618 E Calhoun St",
+      "zip_code": "98112",
+      "x_coord": "-122.310081",
+      "y_coord": "47.642407"
+    },
+    {
+      "pmaid": "382",
+      "name": "Pinehurst Playground",
+      "address": "12029 14th Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.314628",
+      "y_coord": "47.716436"
+    },
+    {
+      "pmaid": "3881",
+      "name": "Maple Leaf Resevoir Park",
+      "address": "1020 NE 82nd St",
+      "zip_code": "98115",
+      "x_coord": "-122.315613",
+      "y_coord": "47.689015"
+    },
+    {
+      "pmaid": "3887",
+      "name": "Interbay Athletic Complex",
+      "address": "3027 17th Ave W",
+      "zip_code": "98119",
+      "x_coord": "-122.379191",
+      "y_coord": "47.647239"
+    },
+    {
+      "pmaid": "391",
+      "name": "Ravenna Park",
+      "address": "5520 Ravenna Ave NE",
+      "zip_code": "98105",
+      "x_coord": "-122.305705",
+      "y_coord": "47.671404"
+    },
+    {
+      "pmaid": "3941",
+      "name": "Walt Hundley Playfield",
+      "address": "6920 34th Ave SW",
+      "zip_code": "98126",
+      "x_coord": "-122.373415",
+      "y_coord": "47.54017"
+    },
+    {
+      "pmaid": "397",
+      "name": "Judkins Park and Playfield",
+      "address": "2150 S Norman St",
+      "zip_code": "98144",
+      "x_coord": "-122.303951",
+      "y_coord": "47.592425"
+    },
+    {
+      "pmaid": "398",
+      "name": "Warren G. Magnuson Park",
+      "address": "7400 Sand Point Way NE",
+      "zip_code": "98115",
+      "x_coord": "-122.255084",
+      "y_coord": "47.680304"
+    },
+    {
+      "pmaid": "3984",
+      "name": "Queen Anne Bowl Playfield",
+      "address": "2806 3rd Ave W",
+      "zip_code": "98119",
+      "x_coord": "-122.359711",
+      "y_coord": "47.645599"
+    },
+    {
+      "pmaid": "400",
+      "name": "Beacon Hill Playground",
+      "address": "1902 13th Ave S",
+      "zip_code": "98144",
+      "x_coord": "-122.315325",
+      "y_coord": "47.586226"
+    },
+    {
+      "pmaid": "402",
+      "name": "Brighton Playfield",
+      "address": "6000 39th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.2821",
+      "y_coord": "47.548387"
+    },
+    {
+      "pmaid": "404",
+      "name": "Cleveland Playfield",
+      "address": "5512 13th Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.315542",
+      "y_coord": "47.552012"
+    },
+    {
+      "pmaid": "406",
+      "name": "Colman Playground",
+      "address": "1740 23rd Ave S",
+      "zip_code": "98122",
+      "x_coord": "-122.301957",
+      "y_coord": "47.587625"
+    },
+    {
+      "pmaid": "409",
+      "name": "Genesee Park and Playfield",
+      "address": "4316 S Genesee St",
+      "zip_code": "98118",
+      "x_coord": "-122.278744",
+      "y_coord": "47.564856"
+    },
+    {
+      "pmaid": "410",
+      "name": "Georgetown Playfield",
+      "address": "750 S Homer St",
+      "zip_code": "98108",
+      "x_coord": "-122.321396",
+      "y_coord": "47.55162"
+    },
+    {
+      "pmaid": "414",
+      "name": "Lakewood Playfield",
+      "address": "5013 S Angeline St",
+      "zip_code": "98118",
+      "x_coord": "-122.27006",
+      "y_coord": "47.558831"
+    },
+    {
+      "pmaid": "418",
+      "name": "Maple Wood Playfield",
+      "address": "4801 Corson Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.318845",
+      "y_coord": "47.560041"
+    },
+    {
+      "pmaid": "422",
+      "name": "Rainier Beach Playfield",
+      "address": "8802 Rainier Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.273136",
+      "y_coord": "47.525041"
+    },
+    {
+      "pmaid": "4242",
+      "name": "Sam Smith Park",
+      "address": "1400 Martin Luther King Jr Way S",
+      "zip_code": "98122",
+      "x_coord": "-122.297814",
+      "y_coord": "47.589982"
+    },
+    {
+      "pmaid": "431",
+      "name": "Van Asselt Playground",
+      "address": "7050 Beacon Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.294068",
+      "y_coord": "47.539446"
+    },
+    {
+      "pmaid": "435",
+      "name": "University Playground",
+      "address": "4745 9th Ave NE",
+      "zip_code": "98105",
+      "x_coord": "-122.319312",
+      "y_coord": "47.664447"
+    },
+    {
+      "pmaid": "439",
+      "name": "Hutchinson Playground",
+      "address": "59th Ave S & S Norfolk St",
+      "zip_code": "98118",
+      "x_coord": "-122.260062",
+      "y_coord": "47.514312"
+    },
+    {
+      "pmaid": "444",
+      "name": "View Ridge Playfield",
+      "address": "4408 NE 70th St",
+      "zip_code": "98115",
+      "x_coord": "-122.279969",
+      "y_coord": "47.679747"
+    },
+    {
+      "pmaid": "446",
+      "name": "Alki Playground",
+      "address": "5817 SW Lander St",
+      "zip_code": "98116",
+      "x_coord": "-122.407312",
+      "y_coord": "47.578497"
+    },
+    {
+      "pmaid": "449",
+      "name": "Wallingford Playfield",
+      "address": "4219 Wallingford Ave N",
+      "zip_code": "98103",
+      "x_coord": "-122.337444",
+      "y_coord": "47.658544"
+    },
+    {
+      "pmaid": "450",
+      "name": "Delridge Playfield",
+      "address": "4458 Delridge Way SW",
+      "zip_code": "98106",
+      "x_coord": "-122.364371",
+      "y_coord": "47.562842"
+    },
+    {
+      "pmaid": "452",
+      "name": "Fairmount Playfield",
+      "address": "5400 Fauntleroy Way SW",
+      "zip_code": "98136",
+      "x_coord": "-122.380549",
+      "y_coord": "47.554041"
+    },
+    {
+      "pmaid": "456",
+      "name": "Hiawatha Playfield",
+      "address": "2700 California Ave SW",
+      "zip_code": "98116",
+      "x_coord": "-122.384965",
+      "y_coord": "47.578272"
+    },
+    {
+      "pmaid": "457",
+      "name": "Highland Park Playground",
+      "address": "1100 SW Cloverdale St",
+      "zip_code": "98106",
+      "x_coord": "-122.349034",
+      "y_coord": "47.52738"
+    },
+    {
+      "pmaid": "458",
+      "name": "E.C. Hughes Playground",
+      "address": "2805 SW Holden St",
+      "zip_code": "98126",
+      "x_coord": "-122.369545",
+      "y_coord": "47.532805"
+    },
+    {
+      "pmaid": "460",
+      "name": "Lincoln Park",
+      "address": "8011 Fauntleroy Way SW",
+      "zip_code": "98136",
+      "x_coord": "-122.396012",
+      "y_coord": "47.531176"
+    },
+    {
+      "pmaid": "463",
+      "name": "Riverview Playfield",
+      "address": "7226 12th Ave SW",
+      "zip_code": "98106",
+      "x_coord": "-122.348688",
+      "y_coord": "47.54101"
+    },
+    {
+      "pmaid": "464",
+      "name": "Roxhill Park",
+      "address": "2850 SW Roxbury St",
+      "zip_code": "98126",
+      "x_coord": "-122.368881",
+      "y_coord": "47.519496"
+    },
+    {
+      "pmaid": "467",
+      "name": "South Park Playground",
+      "address": "738 S Sullivan St",
+      "zip_code": "98108",
+      "x_coord": "-122.324159",
+      "y_coord": "47.528016"
+    },
+    {
+      "pmaid": "488",
+      "name": "Ravenna-Eckstein Park",
+      "address": "6535 Ravenna Ave NE",
+      "zip_code": "98115",
+      "x_coord": "-122.304964",
+      "y_coord": "47.676873"
+    },
+    {
+      "pmaid": "497",
+      "name": "Ballard Playground",
+      "address": "2644 NW 60th St",
+      "zip_code": "98107",
+      "x_coord": "-122.39155",
+      "y_coord": "47.672786"
+    },
+    {
+      "pmaid": "499",
+      "name": "Dahl Playfield",
+      "address": "7700 25th Ave NE",
+      "zip_code": "98115",
+      "x_coord": "-122.299309",
+      "y_coord": "47.685267"
+    }
+  ],
+  "Spray Parks": [
+    {
+      "pmaid": "114",
+      "name": "Jefferson Park",
+      "address": "3801 Beacon Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.311441",
+      "y_coord": "47.568067"
+    },
+    {
+      "pmaid": "344",
+      "name": "Lake Union Park",
+      "address": "860 Terry Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.338848",
+      "y_coord": "47.627015"
+    },
+    {
+      "pmaid": "361",
+      "name": "Northacres Park",
+      "address": "12718 1st Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.326124",
+      "y_coord": "47.721775"
+    },
+    {
+      "pmaid": "373",
+      "name": "Miller Playfield",
+      "address": "330 19th Ave E",
+      "zip_code": "98112",
+      "x_coord": "-122.306261",
+      "y_coord": "47.621433"
+    },
+    {
+      "pmaid": "390",
+      "name": "Pratt Park",
+      "address": "1800 S Main St",
+      "zip_code": "98144",
+      "x_coord": "-122.307257",
+      "y_coord": "47.601407"
+    },
+    {
+      "pmaid": "397",
+      "name": "Judkins Park and Playfield",
+      "address": "2150 S Norman St",
+      "zip_code": "98144",
+      "x_coord": "-122.303951",
+      "y_coord": "47.592425"
+    },
+    {
+      "pmaid": "410",
+      "name": "Georgetown Playfield",
+      "address": "750 S Homer St",
+      "zip_code": "98108",
+      "x_coord": "-122.321396",
+      "y_coord": "47.55162"
+    },
+    {
+      "pmaid": "4278",
+      "name": "Ballard Commons Park",
+      "address": "5701 22nd Ave NW",
+      "zip_code": "98107",
+      "x_coord": "-122.385487",
+      "y_coord": "47.670549"
+    },
+    {
+      "pmaid": "429",
+      "name": "John C. Little, Sr. Park",
+      "address": "6961 37th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.286686",
+      "y_coord": "47.539048"
+    },
+    {
+      "pmaid": "457",
+      "name": "Highland Park Playground",
+      "address": "1100 SW Cloverdale St",
+      "zip_code": "98106",
+      "x_coord": "-122.349034",
+      "y_coord": "47.52738"
+    }
+  ],
+  "Swimming Beaches": [
+    {
+      "pmaid": "307",
+      "name": "Green Lake Park",
+      "address": "7201 E Greenlake Dr N",
+      "zip_code": "98115",
+      "x_coord": "-122.330394",
+      "y_coord": "47.678938"
+    },
+    {
+      "pmaid": "347",
+      "name": "Matthews Beach Park",
+      "address": "5100 NE 93rd St",
+      "zip_code": "98115",
+      "x_coord": "-122.271785",
+      "y_coord": "47.694564"
+    },
+    {
+      "pmaid": "369",
+      "name": "Madison Park",
+      "address": "4201 E Madison St",
+      "zip_code": "98112",
+      "x_coord": "-122.276602",
+      "y_coord": "47.635779"
+    },
+    {
+      "pmaid": "370",
+      "name": "Madrona Park",
+      "address": "853 Lake Washington Blvd",
+      "zip_code": "98122",
+      "x_coord": "-122.282679",
+      "y_coord": "47.609299"
+    },
+    {
+      "pmaid": "398",
+      "name": "Warren G. Magnuson Park",
+      "address": "7400 Sand Point Way NE",
+      "zip_code": "98115",
+      "x_coord": "-122.255084",
+      "y_coord": "47.680304"
+    },
+    {
+      "pmaid": "419",
+      "name": "Mt. Baker Park",
+      "address": "2521 Lake Park Dr S",
+      "zip_code": "98144",
+      "x_coord": "-122.288481",
+      "y_coord": "47.580957"
+    },
+    {
+      "pmaid": "420",
+      "name": "Pritchard Island Beach",
+      "address": "8400 55th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.26283",
+      "y_coord": "47.528948"
+    },
+    {
+      "pmaid": "428",
+      "name": "Seward Park",
+      "address": "5900 Lake Washington Blvd S",
+      "zip_code": "98118",
+      "x_coord": "-122.250639",
+      "y_coord": "47.54923"
+    }
+  ],
+  "Tennis Courts": [
+    {
+      "pmaid": "114",
+      "name": "Jefferson Park",
+      "address": "3801 Beacon Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.311441",
+      "y_coord": "47.568067"
+    },
+    {
+      "pmaid": "242",
+      "name": "Gilman Playground",
+      "address": "923 NW 54th St",
+      "zip_code": "98107",
+      "x_coord": "-122.369684",
+      "y_coord": "47.667292"
+    },
+    {
+      "pmaid": "251",
+      "name": "Soundview Playfield",
+      "address": "1590 NW 90th St",
+      "zip_code": "98117",
+      "x_coord": "-122.378878",
+      "y_coord": "47.695416"
+    },
+    {
+      "pmaid": "287",
+      "name": "Froula Playground",
+      "address": "7200 12th Ave NE",
+      "zip_code": "98115",
+      "x_coord": "-122.313978",
+      "y_coord": "47.680538"
+    },
+    {
+      "pmaid": "288",
+      "name": "Bitter Lake Playfield",
+      "address": "13035 Linden Ave N",
+      "zip_code": "98133",
+      "x_coord": "-122.349314",
+      "y_coord": "47.724209"
+    },
+    {
+      "pmaid": "292",
+      "name": "Woodland Park",
+      "address": "1000 N 50th St",
+      "zip_code": "98103",
+      "x_coord": "-122.344218",
+      "y_coord": "47.668906"
+    },
+    {
+      "pmaid": "307",
+      "name": "Green Lake Park",
+      "address": "7201 E Greenlake Dr N",
+      "zip_code": "98115",
+      "x_coord": "-122.330394",
+      "y_coord": "47.678938"
+    },
+    {
+      "pmaid": "310",
+      "name": "Discovery Park",
+      "address": "3801 Discovery Park Blvd",
+      "zip_code": "98199",
+      "x_coord": "-122.415282",
+      "y_coord": "47.66083"
+    },
+    {
+      "pmaid": "3102",
+      "name": "Cal Anderson Park and Bobby Morris Playfield",
+      "address": "1635 11th Ave",
+      "zip_code": "98122",
+      "x_coord": "-122.319134",
+      "y_coord": "47.617013"
+    },
+    {
+      "pmaid": "314",
+      "name": "Kinnear Park",
+      "address": "899 W Olympic Pl",
+      "zip_code": "98119",
+      "x_coord": "-122.367207",
+      "y_coord": "47.627317"
+    },
+    {
+      "pmaid": "317",
+      "name": "Magnolia Park",
+      "address": "1461 Magnolia Blvd W",
+      "zip_code": "98199",
+      "x_coord": "-122.398993",
+      "y_coord": "47.632366"
+    },
+    {
+      "pmaid": "319",
+      "name": "Magnolia Playfield",
+      "address": "2518 34th Ave W",
+      "zip_code": "98199",
+      "x_coord": "-122.399472",
+      "y_coord": "47.643746"
+    },
+    {
+      "pmaid": "331",
+      "name": "David Rodgers Park",
+      "address": "2800 1st Ave W",
+      "zip_code": "98119",
+      "x_coord": "-122.359484",
+      "y_coord": "47.644135"
+    },
+    {
+      "pmaid": "340",
+      "name": "Laurelhurst Playfield",
+      "address": "4544 NE 41st St",
+      "zip_code": "98105",
+      "x_coord": "-122.278019",
+      "y_coord": "47.65989"
+    },
+    {
+      "pmaid": "352",
+      "name": "Meadowbrook Playfield",
+      "address": "10533 35th Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.293493",
+      "y_coord": "47.705771"
+    },
+    {
+      "pmaid": "353",
+      "name": "Garfield Playfield",
+      "address": "537 25th Ave",
+      "zip_code": "98122",
+      "x_coord": "-122.301412",
+      "y_coord": "47.607098"
+    },
+    {
+      "pmaid": "367",
+      "name": "Leschi Park",
+      "address": "201 Lakeside Ave. S",
+      "zip_code": "98122",
+      "x_coord": "-122.286548",
+      "y_coord": "47.600931"
+    },
+    {
+      "pmaid": "369",
+      "name": "Madison Park",
+      "address": "4201 E Madison St",
+      "zip_code": "98112",
+      "x_coord": "-122.276602",
+      "y_coord": "47.635779"
+    },
+    {
+      "pmaid": "371",
+      "name": "Madrona Playground",
+      "address": "3211 E Spring St",
+      "zip_code": "98122",
+      "x_coord": "-122.289885",
+      "y_coord": "47.611022"
+    },
+    {
+      "pmaid": "373",
+      "name": "Miller Playfield",
+      "address": "330 19th Ave E",
+      "zip_code": "98112",
+      "x_coord": "-122.306261",
+      "y_coord": "47.621433"
+    },
+    {
+      "pmaid": "376",
+      "name": "Montlake Playfield",
+      "address": "1618 E Calhoun St",
+      "zip_code": "98112",
+      "x_coord": "-122.310081",
+      "y_coord": "47.642407"
+    },
+    {
+      "pmaid": "380",
+      "name": "Rogers Playground",
+      "address": "2516 Eastlake Ave E",
+      "zip_code": "98102",
+      "x_coord": "-122.325257",
+      "y_coord": "47.642601"
+    },
+    {
+      "pmaid": "391",
+      "name": "Ravenna Park",
+      "address": "5520 Ravenna Ave NE",
+      "zip_code": "98105",
+      "x_coord": "-122.305705",
+      "y_coord": "47.671404"
+    },
+    {
+      "pmaid": "3941",
+      "name": "Walt Hundley Playfield",
+      "address": "6920 34th Ave SW",
+      "zip_code": "98126",
+      "x_coord": "-122.373415",
+      "y_coord": "47.54017"
+    },
+    {
+      "pmaid": "397",
+      "name": "Judkins Park and Playfield",
+      "address": "2150 S Norman St",
+      "zip_code": "98144",
+      "x_coord": "-122.303951",
+      "y_coord": "47.592425"
+    },
+    {
+      "pmaid": "3972",
+      "name": "Lakeridge Playfield",
+      "address": "10145 Rainier Ave S",
+      "zip_code": "98178",
+      "x_coord": "-122.246841",
+      "y_coord": "47.510319"
+    },
+    {
+      "pmaid": "398",
+      "name": "Warren G. Magnuson Park",
+      "address": "7400 Sand Point Way NE",
+      "zip_code": "98115",
+      "x_coord": "-122.255084",
+      "y_coord": "47.680304"
+    },
+    {
+      "pmaid": "399",
+      "name": "Volunteer Park",
+      "address": "1247 15th Ave E",
+      "zip_code": "98112",
+      "x_coord": "-122.315568",
+      "y_coord": "47.630378"
+    },
+    {
+      "pmaid": "400",
+      "name": "Beacon Hill Playground",
+      "address": "1902 13th Ave S",
+      "zip_code": "98144",
+      "x_coord": "-122.315325",
+      "y_coord": "47.586226"
+    },
+    {
+      "pmaid": "402",
+      "name": "Brighton Playfield",
+      "address": "6000 39th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.2821",
+      "y_coord": "47.548387"
+    },
+    {
+      "pmaid": "410",
+      "name": "Georgetown Playfield",
+      "address": "750 S Homer St",
+      "zip_code": "98108",
+      "x_coord": "-122.321396",
+      "y_coord": "47.55162"
+    },
+    {
+      "pmaid": "419",
+      "name": "Mt. Baker Park",
+      "address": "2521 Lake Park Dr S",
+      "zip_code": "98144",
+      "x_coord": "-122.288481",
+      "y_coord": "47.580957"
+    },
+    {
+      "pmaid": "422",
+      "name": "Rainier Beach Playfield",
+      "address": "8802 Rainier Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.273136",
+      "y_coord": "47.525041"
+    },
+    {
+      "pmaid": "423",
+      "name": "Rainier Playfield",
+      "address": "3700 S Alaska St",
+      "zip_code": "98118",
+      "x_coord": "-122.2862",
+      "y_coord": "47.561817"
+    },
+    {
+      "pmaid": "4242",
+      "name": "Sam Smith Park",
+      "address": "1400 Martin Luther King Jr Way S",
+      "zip_code": "98122",
+      "x_coord": "-122.297814",
+      "y_coord": "47.589982"
+    },
+    {
+      "pmaid": "426",
+      "name": "Amy Yee Tennis Center",
+      "address": "2000 Martin Luther King Jr Way S",
+      "zip_code": "98144",
+      "x_coord": "-122.29742",
+      "y_coord": "47.584876"
+    },
+    {
+      "pmaid": "428",
+      "name": "Seward Park",
+      "address": "5900 Lake Washington Blvd S",
+      "zip_code": "98118",
+      "x_coord": "-122.250639",
+      "y_coord": "47.54923"
+    },
+    {
+      "pmaid": "435",
+      "name": "University Playground",
+      "address": "4745 9th Ave NE",
+      "zip_code": "98105",
+      "x_coord": "-122.319312",
+      "y_coord": "47.664447"
+    },
+    {
+      "pmaid": "438",
+      "name": "Victory Heights Playground",
+      "address": "1737 NE 106th St",
+      "zip_code": "98125",
+      "x_coord": "-122.307834",
+      "y_coord": "47.705672"
+    },
+    {
+      "pmaid": "439",
+      "name": "Hutchinson Playground",
+      "address": "59th Ave S & S Norfolk St",
+      "zip_code": "98118",
+      "x_coord": "-122.260062",
+      "y_coord": "47.514312"
+    },
+    {
+      "pmaid": "4453",
+      "name": "Solstice Park",
+      "address": "7400 Fauntleroy Way SW",
+      "zip_code": "98136",
+      "x_coord": "-122.390347",
+      "y_coord": "47.536414"
+    },
+    {
+      "pmaid": "446",
+      "name": "Alki Playground",
+      "address": "5817 SW Lander St",
+      "zip_code": "98116",
+      "x_coord": "-122.407312",
+      "y_coord": "47.578497"
+    },
+    {
+      "pmaid": "449",
+      "name": "Wallingford Playfield",
+      "address": "4219 Wallingford Ave N",
+      "zip_code": "98103",
+      "x_coord": "-122.337444",
+      "y_coord": "47.658544"
+    },
+    {
+      "pmaid": "450",
+      "name": "Delridge Playfield",
+      "address": "4458 Delridge Way SW",
+      "zip_code": "98106",
+      "x_coord": "-122.364371",
+      "y_coord": "47.562842"
+    },
+    {
+      "pmaid": "456",
+      "name": "Hiawatha Playfield",
+      "address": "2700 California Ave SW",
+      "zip_code": "98116",
+      "x_coord": "-122.384965",
+      "y_coord": "47.578272"
+    },
+    {
+      "pmaid": "457",
+      "name": "Highland Park Playground",
+      "address": "1100 SW Cloverdale St",
+      "zip_code": "98106",
+      "x_coord": "-122.349034",
+      "y_coord": "47.52738"
+    },
+    {
+      "pmaid": "461",
+      "name": "Lowman Beach Park",
+      "address": "7017 Beach Dr SW",
+      "zip_code": "98136",
+      "x_coord": "-122.396728",
+      "y_coord": "47.540367"
+    },
+    {
+      "pmaid": "463",
+      "name": "Riverview Playfield",
+      "address": "7226 12th Ave SW",
+      "zip_code": "98106",
+      "x_coord": "-122.348688",
+      "y_coord": "47.54101"
+    },
+    {
+      "pmaid": "467",
+      "name": "South Park Playground",
+      "address": "738 S Sullivan St",
+      "zip_code": "98108",
+      "x_coord": "-122.324159",
+      "y_coord": "47.528016"
+    },
+    {
+      "pmaid": "482",
+      "name": "Bryant Neighborhood Playground",
+      "address": "4103 NE 65th St",
+      "zip_code": "98115",
+      "x_coord": "-122.283644",
+      "y_coord": "47.675299"
+    },
+    {
+      "pmaid": "488",
+      "name": "Ravenna-Eckstein Park",
+      "address": "6535 Ravenna Ave NE",
+      "zip_code": "98115",
+      "x_coord": "-122.304964",
+      "y_coord": "47.676873"
+    }
+  ],
+  "Track Fields": [
+    {
+      "pmaid": "292",
+      "name": "Woodland Park",
+      "address": "1000 N 50th St",
+      "zip_code": "98103",
+      "x_coord": "-122.344218",
+      "y_coord": "47.668906"
+    },
+    {
+      "pmaid": "376",
+      "name": "Montlake Playfield",
+      "address": "1618 E Calhoun St",
+      "zip_code": "98112",
+      "x_coord": "-122.310081",
+      "y_coord": "47.642407"
+    },
+    {
+      "pmaid": "3984",
+      "name": "Queen Anne Bowl Playfield",
+      "address": "2806 3rd Ave W",
+      "zip_code": "98119",
+      "x_coord": "-122.359711",
+      "y_coord": "47.645599"
+    },
+    {
+      "pmaid": "404",
+      "name": "Cleveland Playfield",
+      "address": "5512 13th Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.315542",
+      "y_coord": "47.552012"
+    },
+    {
+      "pmaid": "472",
+      "name": "West Seattle Stadium",
+      "address": "4432 35th Ave SW",
+      "zip_code": "98126",
+      "x_coord": "-122.374348",
+      "y_coord": "47.562826"
+    }
+  ],
+  "Trails": [
+    {
+      "pmaid": "114",
+      "name": "Jefferson Park",
+      "address": "3801 Beacon Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.311441",
+      "y_coord": "47.568067"
+    },
+    {
+      "pmaid": "234",
+      "name": "SW Queen Anne Greenbelt",
+      "address": "12th Ave W & W Howe St",
+      "zip_code": "98119",
+      "x_coord": "-122.373209",
+      "y_coord": "47.633353"
+    },
+    {
+      "pmaid": "240",
+      "name": "Carkeek Park",
+      "address": "950 NW Carkeek Park Rd",
+      "zip_code": "98117",
+      "x_coord": "-122.379763",
+      "y_coord": "47.712194"
+    },
+    {
+      "pmaid": "243",
+      "name": "Golden Gardens Park",
+      "address": "8498 Seaview Pl NW",
+      "zip_code": "98117",
+      "x_coord": "-122.403454",
+      "y_coord": "47.686852"
+    },
+    {
+      "pmaid": "246",
+      "name": "Kiwanis Memorial Preserve Park",
+      "address": "4441 Brygger Dr W",
+      "zip_code": "98199",
+      "x_coord": "-122.401004",
+      "y_coord": "47.66197"
+    },
+    {
+      "pmaid": "258",
+      "name": "Cheasty GS: Cheasty Blvd",
+      "address": "Cheasty Blvd S & S Della St",
+      "zip_code": "98144",
+      "x_coord": "-122.299204",
+      "y_coord": "47.572682"
+    },
+    {
+      "pmaid": "264",
+      "name": "Longfellow Creek Greenspace",
+      "address": "Delridge Way SW & SW Graham St",
+      "zip_code": "98106",
+      "x_coord": "-122.363435",
+      "y_coord": "47.530167"
+    },
+    {
+      "pmaid": "279",
+      "name": "Northeast Queen Anne Greenbelt",
+      "address": "Dexter Way N & Lynn St & Wheeler",
+      "zip_code": "98109",
+      "x_coord": "-122.345011",
+      "y_coord": "47.635866"
+    },
+    {
+      "pmaid": "282",
+      "name": "Pigeon Point Park",
+      "address": "4418 21st Ave SW",
+      "zip_code": "98106",
+      "x_coord": "-122.356966",
+      "y_coord": "47.563271"
+    },
+    {
+      "pmaid": "2848",
+      "name": "St. Mark's Greenbelt",
+      "address": "1500 Lakeview Blvd E",
+      "zip_code": "98102",
+      "x_coord": "-122.322174",
+      "y_coord": "47.63115"
+    },
+    {
+      "pmaid": "286",
+      "name": "Licton Springs Park",
+      "address": "9536 Ashworth Ave N",
+      "zip_code": "98103",
+      "x_coord": "-122.338735",
+      "y_coord": "47.698542"
+    },
+    {
+      "pmaid": "292",
+      "name": "Woodland Park",
+      "address": "1000 N 50th St",
+      "zip_code": "98103",
+      "x_coord": "-122.344218",
+      "y_coord": "47.668906"
+    },
+    {
+      "pmaid": "301",
+      "name": "Llandover Woods Greenspace",
+      "address": "14499 3rd Ave NW",
+      "zip_code": "98177",
+      "x_coord": "-122.364545",
+      "y_coord": "47.733024"
+    },
+    {
+      "pmaid": "3023",
+      "name": "Interlaken Park",
+      "address": "2451 Delmar Dr E",
+      "zip_code": "98102",
+      "x_coord": "-122.308316",
+      "y_coord": "47.636257"
+    },
+    {
+      "pmaid": "304",
+      "name": "Bhy Kracke Park",
+      "address": "1215 5th Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.348403",
+      "y_coord": "47.630426"
+    },
+    {
+      "pmaid": "310",
+      "name": "Discovery Park",
+      "address": "3801 Discovery Park Blvd",
+      "zip_code": "98199",
+      "x_coord": "-122.415282",
+      "y_coord": "47.66083"
+    },
+    {
+      "pmaid": "314",
+      "name": "Kinnear Park",
+      "address": "899 W Olympic Pl",
+      "zip_code": "98119",
+      "x_coord": "-122.367207",
+      "y_coord": "47.627317"
+    },
+    {
+      "pmaid": "316",
+      "name": "Lawton Park",
+      "address": "4005 27th Ave W",
+      "zip_code": "98199",
+      "x_coord": "-122.391158",
+      "y_coord": "47.655065"
+    },
+    {
+      "pmaid": "327",
+      "name": "Jackson Park Golf Course",
+      "address": "1100 NE 135th St",
+      "zip_code": "98125",
+      "x_coord": "-122.319103",
+      "y_coord": "47.729254"
+    },
+    {
+      "pmaid": "347",
+      "name": "Matthews Beach Park",
+      "address": "5100 NE 93rd St",
+      "zip_code": "98115",
+      "x_coord": "-122.271785",
+      "y_coord": "47.694564"
+    },
+    {
+      "pmaid": "352",
+      "name": "Meadowbrook Playfield",
+      "address": "10533 35th Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.293493",
+      "y_coord": "47.705771"
+    },
+    {
+      "pmaid": "361",
+      "name": "Northacres Park",
+      "address": "12718 1st Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.326124",
+      "y_coord": "47.721775"
+    },
+    {
+      "pmaid": "362",
+      "name": "Louisa Boren Park",
+      "address": "1606 15th Ave E",
+      "zip_code": "98112",
+      "x_coord": "-122.311628",
+      "y_coord": "47.635274"
+    },
+    {
+      "pmaid": "365",
+      "name": "Lakeview Park",
+      "address": "340 37th Ave E",
+      "zip_code": "98112",
+      "x_coord": "-122.284732",
+      "y_coord": "47.62205"
+    },
+    {
+      "pmaid": "367",
+      "name": "Leschi Park",
+      "address": "201 Lakeside Ave. S",
+      "zip_code": "98122",
+      "x_coord": "-122.286548",
+      "y_coord": "47.600931"
+    },
+    {
+      "pmaid": "370",
+      "name": "Madrona Park",
+      "address": "853 Lake Washington Blvd",
+      "zip_code": "98122",
+      "x_coord": "-122.282679",
+      "y_coord": "47.609299"
+    },
+    {
+      "pmaid": "391",
+      "name": "Ravenna Park",
+      "address": "5520 Ravenna Ave NE",
+      "zip_code": "98105",
+      "x_coord": "-122.305705",
+      "y_coord": "47.671404"
+    },
+    {
+      "pmaid": "392",
+      "name": "Frink Park",
+      "address": "398 Lake Washington Blvd S",
+      "zip_code": "98144",
+      "x_coord": "-122.290256",
+      "y_coord": "47.599506"
+    },
+    {
+      "pmaid": "393",
+      "name": "Washington Park Arboretum",
+      "address": "2300 Arboretum Dr E",
+      "zip_code": "98112",
+      "x_coord": "-122.294835",
+      "y_coord": "47.636477"
+    },
+    {
+      "pmaid": "398",
+      "name": "Warren G. Magnuson Park",
+      "address": "7400 Sand Point Way NE",
+      "zip_code": "98115",
+      "x_coord": "-122.255084",
+      "y_coord": "47.680304"
+    },
+    {
+      "pmaid": "399",
+      "name": "Volunteer Park",
+      "address": "1247 15th Ave E",
+      "zip_code": "98112",
+      "x_coord": "-122.315568",
+      "y_coord": "47.630378"
+    },
+    {
+      "pmaid": "404",
+      "name": "Cleveland Playfield",
+      "address": "5512 13th Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.315542",
+      "y_coord": "47.552012"
+    },
+    {
+      "pmaid": "405",
+      "name": "Colman Park",
+      "address": "1800 Lake Washington Blvd S",
+      "zip_code": "98144",
+      "x_coord": "-122.288612",
+      "y_coord": "47.58547"
+    },
+    {
+      "pmaid": "408",
+      "name": "Dearborn Park",
+      "address": "2919 S Brandon St",
+      "zip_code": "98126",
+      "x_coord": "-122.296225",
+      "y_coord": "47.553389"
+    },
+    {
+      "pmaid": "409",
+      "name": "Genesee Park and Playfield",
+      "address": "4316 S Genesee St",
+      "zip_code": "98118",
+      "x_coord": "-122.278744",
+      "y_coord": "47.564856"
+    },
+    {
+      "pmaid": "411",
+      "name": "Lakeridge Park",
+      "address": "10201 Holyoke Way S",
+      "zip_code": "98178",
+      "x_coord": "-122.247429",
+      "y_coord": "47.506033"
+    },
+    {
+      "pmaid": "4154",
+      "name": "Camp Long",
+      "address": "5200 35th Ave SW",
+      "zip_code": "98126",
+      "x_coord": "-122.373161",
+      "y_coord": "47.556242"
+    },
+    {
+      "pmaid": "416",
+      "name": "Thornton Creek Park #1",
+      "address": "13002 10th Ave NE",
+      "zip_code": "98125",
+      "x_coord": "-122.307629",
+      "y_coord": "47.707034"
+    },
+    {
+      "pmaid": "4167",
+      "name": "Cedar Park",
+      "address": "3737 NE 135th St",
+      "zip_code": "98125",
+      "x_coord": "-122.288042",
+      "y_coord": "47.725808"
+    },
+    {
+      "pmaid": "419",
+      "name": "Mt. Baker Park",
+      "address": "2521 Lake Park Dr S",
+      "zip_code": "98144",
+      "x_coord": "-122.288481",
+      "y_coord": "47.580957"
+    },
+    {
+      "pmaid": "420",
+      "name": "Pritchard Island Beach",
+      "address": "8400 55th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.26283",
+      "y_coord": "47.528948"
+    },
+    {
+      "pmaid": "428",
+      "name": "Seward Park",
+      "address": "5900 Lake Washington Blvd S",
+      "zip_code": "98118",
+      "x_coord": "-122.250639",
+      "y_coord": "47.54923"
+    },
+    {
+      "pmaid": "432",
+      "name": "Martha Washington Park",
+      "address": "6612 57th Ave S",
+      "zip_code": "98115",
+      "x_coord": "-122.260054",
+      "y_coord": "47.542398"
+    },
+    {
+      "pmaid": "433",
+      "name": "Dr. Jose Rizal Park",
+      "address": "1007 12th Ave S",
+      "zip_code": "98144",
+      "x_coord": "-122.318094",
+      "y_coord": "47.593859"
+    },
+    {
+      "pmaid": "4401",
+      "name": "West Duwamish Greenbelt",
+      "address": "W Marginal Way SW & Highland Park Way SW",
+      "zip_code": "98106",
+      "x_coord": "-122.356966",
+      "y_coord": "47.563271"
+    },
+    {
+      "pmaid": "4413",
+      "name": "Hitt's Hill Park",
+      "address": "5234 37th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.28455",
+      "y_coord": "47.554207"
+    },
+    {
+      "pmaid": "4439",
+      "name": "Lake People Park (Xacua'bs)",
+      "address": "3100 S Bradford st",
+      "zip_code": "98108",
+      "x_coord": "-122.292012",
+      "y_coord": "47.569133"
+    },
+    {
+      "pmaid": "4453",
+      "name": "Solstice Park",
+      "address": "7400 Fauntleroy Way SW",
+      "zip_code": "98136",
+      "x_coord": "-122.390347",
+      "y_coord": "47.536414"
+    },
+    {
+      "pmaid": "453",
+      "name": "Fauntleroy Park",
+      "address": "3951 SW Barton St",
+      "zip_code": "98136",
+      "x_coord": "-122.383222",
+      "y_coord": "47.5192"
+    },
+    {
+      "pmaid": "460",
+      "name": "Lincoln Park",
+      "address": "8011 Fauntleroy Way SW",
+      "zip_code": "98136",
+      "x_coord": "-122.396012",
+      "y_coord": "47.531176"
+    },
+    {
+      "pmaid": "462",
+      "name": "Puget Park",
+      "address": "4767 Puget Way SW",
+      "zip_code": "98106",
+      "x_coord": "-122.356922",
+      "y_coord": "47.558473"
+    },
+    {
+      "pmaid": "463",
+      "name": "Riverview Playfield",
+      "address": "7226 12th Ave SW",
+      "zip_code": "98106",
+      "x_coord": "-122.348688",
+      "y_coord": "47.54101"
+    },
+    {
+      "pmaid": "464",
+      "name": "Roxhill Park",
+      "address": "2850 SW Roxbury St",
+      "zip_code": "98126",
+      "x_coord": "-122.368881",
+      "y_coord": "47.519496"
+    },
+    {
+      "pmaid": "465",
+      "name": "Schmitz Preserve Park",
+      "address": "5551 SW Admiral Way",
+      "zip_code": "98116",
+      "x_coord": "-122.400425",
+      "y_coord": "47.574375"
+    },
+    {
+      "pmaid": "466",
+      "name": "Seola Park",
+      "address": "11399 Seola Beach Dr SW",
+      "zip_code": "98146",
+      "x_coord": "-122.374332",
+      "y_coord": "47.50039"
+    },
+    {
+      "pmaid": "468",
+      "name": "Westcrest Park",
+      "address": "9000 8th Ave SW",
+      "zip_code": "98106",
+      "x_coord": "-122.341719",
+      "y_coord": "47.525783"
+    },
+    {
+      "pmaid": "473",
+      "name": "Me-Kwa-Mooks Park",
+      "address": "4503 Beach Dr SW",
+      "zip_code": "98116",
+      "x_coord": "-122.404006",
+      "y_coord": "47.563167"
+    },
+    {
+      "pmaid": "483",
+      "name": "Cowen Park",
+      "address": "5849 15th Ave NE",
+      "zip_code": "98105",
+      "x_coord": "-122.313072",
+      "y_coord": "47.672596"
+    }
+  ],
+  "Views": [
+    {
+      "pmaid": "114",
+      "name": "Jefferson Park",
+      "address": "3801 Beacon Ave S",
+      "zip_code": "98108",
+      "x_coord": "-122.311441",
+      "y_coord": "47.568067"
+    },
+    {
+      "pmaid": "240",
+      "name": "Carkeek Park",
+      "address": "950 NW Carkeek Park Rd",
+      "zip_code": "98117",
+      "x_coord": "-122.379763",
+      "y_coord": "47.712194"
+    },
+    {
+      "pmaid": "243",
+      "name": "Golden Gardens Park",
+      "address": "8498 Seaview Pl NW",
+      "zip_code": "98117",
+      "x_coord": "-122.403454",
+      "y_coord": "47.686852"
+    },
+    {
+      "pmaid": "246",
+      "name": "Kiwanis Memorial Preserve Park",
+      "address": "4441 Brygger Dr W",
+      "zip_code": "98199",
+      "x_coord": "-122.401004",
+      "y_coord": "47.66197"
+    },
+    {
+      "pmaid": "251",
+      "name": "Soundview Playfield",
+      "address": "1590 NW 90th St",
+      "zip_code": "98117",
+      "x_coord": "-122.378878",
+      "y_coord": "47.695416"
+    },
+    {
+      "pmaid": "252",
+      "name": "Sunset Hill Park",
+      "address": "7531 34th Ave NW",
+      "zip_code": "98117",
+      "x_coord": "-122.400938",
+      "y_coord": "47.684034"
+    },
+    {
+      "pmaid": "274",
+      "name": "Piers 62 and 63",
+      "address": "1951 Alaskan Way",
+      "zip_code": "98101",
+      "x_coord": "-122.345237",
+      "y_coord": "47.608656"
+    },
+    {
+      "pmaid": "2927",
+      "name": "Andover Place",
+      "address": "4000 Beach Dr SW",
+      "zip_code": "98116",
+      "x_coord": "-122.409993",
+      "y_coord": "47.568517"
+    },
+    {
+      "pmaid": "293",
+      "name": "Gas Works Park",
+      "address": "2101 N Northlake Way",
+      "zip_code": "98103",
+      "x_coord": "-122.334906",
+      "y_coord": "47.645639"
+    },
+    {
+      "pmaid": "295",
+      "name": "Cormorant Cove",
+      "address": "3701 Beach Dr SW",
+      "zip_code": "98116",
+      "x_coord": "-122.412089",
+      "y_coord": "47.570984"
+    },
+    {
+      "pmaid": "2956",
+      "name": "North Passage Point Park",
+      "address": "600 NE Northlake Way",
+      "zip_code": "98105",
+      "x_coord": "-122.322428",
+      "y_coord": "47.653963"
+    },
+    {
+      "pmaid": "2975",
+      "name": "Fairview Park",
+      "address": "2900 Fairview Ave E",
+      "zip_code": "98102",
+      "x_coord": "-122.325368",
+      "y_coord": "47.647413"
+    },
+    {
+      "pmaid": "303",
+      "name": "Bayview Playground",
+      "address": "2614 24th Ave W",
+      "zip_code": "98199",
+      "x_coord": "-122.386786",
+      "y_coord": "47.643802"
+    },
+    {
+      "pmaid": "304",
+      "name": "Bhy Kracke Park",
+      "address": "1215 5th Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.348403",
+      "y_coord": "47.630426"
+    },
+    {
+      "pmaid": "308",
+      "name": "Commodore Park",
+      "address": "3330 W Commodore Way",
+      "zip_code": "98107",
+      "x_coord": "-122.40014",
+      "y_coord": "47.66538"
+    },
+    {
+      "pmaid": "310",
+      "name": "Discovery Park",
+      "address": "3801 Discovery Park Blvd",
+      "zip_code": "98199",
+      "x_coord": "-122.415282",
+      "y_coord": "47.66083"
+    },
+    {
+      "pmaid": "311",
+      "name": "Myrtle Edwards Park",
+      "address": "3130 Alaskan Way",
+      "zip_code": "98121",
+      "x_coord": "-122.36087",
+      "y_coord": "47.618767"
+    },
+    {
+      "pmaid": "314",
+      "name": "Kinnear Park",
+      "address": "899 W Olympic Pl",
+      "zip_code": "98119",
+      "x_coord": "-122.367207",
+      "y_coord": "47.627317"
+    },
+    {
+      "pmaid": "317",
+      "name": "Magnolia Park",
+      "address": "1461 Magnolia Blvd W",
+      "zip_code": "98199",
+      "x_coord": "-122.398993",
+      "y_coord": "47.632366"
+    },
+    {
+      "pmaid": "318",
+      "name": "Ella Bailey Park",
+      "address": "2601 W Smith St",
+      "zip_code": "98199",
+      "x_coord": "-122.39106",
+      "y_coord": "47.640584"
+    },
+    {
+      "pmaid": "320",
+      "name": "Marshall Park",
+      "address": "1191 7th Ave W",
+      "zip_code": "98119",
+      "x_coord": "-122.366805",
+      "y_coord": "47.629436"
+    },
+    {
+      "pmaid": "338",
+      "name": "Victor Steinbrueck Park",
+      "address": "2001 Western Ave",
+      "zip_code": "98121",
+      "x_coord": "-122.343869",
+      "y_coord": "47.610153"
+    },
+    {
+      "pmaid": "342",
+      "name": "Kerry Park",
+      "address": "211 W Highland Dr",
+      "zip_code": "98119",
+      "x_coord": "-122.359874",
+      "y_coord": "47.629023"
+    },
+    {
+      "pmaid": "344",
+      "name": "Lake Union Park",
+      "address": "860 Terry Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.338848",
+      "y_coord": "47.627015"
+    },
+    {
+      "pmaid": "347",
+      "name": "Matthews Beach Park",
+      "address": "5100 NE 93rd St",
+      "zip_code": "98115",
+      "x_coord": "-122.271785",
+      "y_coord": "47.694564"
+    },
+    {
+      "pmaid": "359",
+      "name": "Howell Park",
+      "address": "1740 Howell Pl",
+      "zip_code": "98122",
+      "x_coord": "-122.280313",
+      "y_coord": "47.617518"
+    },
+    {
+      "pmaid": "365",
+      "name": "Lakeview Park",
+      "address": "340 37th Ave E",
+      "zip_code": "98112",
+      "x_coord": "-122.284732",
+      "y_coord": "47.62205"
+    },
+    {
+      "pmaid": "367",
+      "name": "Leschi Park",
+      "address": "201 Lakeside Ave. S",
+      "zip_code": "98122",
+      "x_coord": "-122.286548",
+      "y_coord": "47.600931"
+    },
+    {
+      "pmaid": "369",
+      "name": "Madison Park",
+      "address": "4201 E Madison St",
+      "zip_code": "98112",
+      "x_coord": "-122.276602",
+      "y_coord": "47.635779"
+    },
+    {
+      "pmaid": "3694",
+      "name": "West Ewing Mini Park",
+      "address": "244 W Ewing St",
+      "zip_code": "98119",
+      "x_coord": "-122.360602",
+      "y_coord": "47.65205"
+    },
+    {
+      "pmaid": "370",
+      "name": "Madrona Park",
+      "address": "853 Lake Washington Blvd",
+      "zip_code": "98122",
+      "x_coord": "-122.282679",
+      "y_coord": "47.609299"
+    },
+    {
+      "pmaid": "375",
+      "name": "West Montlake Park",
+      "address": "2815 W Park Dr E",
+      "zip_code": "98112",
+      "x_coord": "-122.30982",
+      "y_coord": "47.646219"
+    },
+    {
+      "pmaid": "376",
+      "name": "Montlake Playfield",
+      "address": "1618 E Calhoun St",
+      "zip_code": "98112",
+      "x_coord": "-122.310081",
+      "y_coord": "47.642407"
+    },
+    {
+      "pmaid": "377",
+      "name": "South Passage Point Park",
+      "address": "3320 Fuhrman Ave E",
+      "zip_code": "98102",
+      "x_coord": "-122.322486",
+      "y_coord": "47.652087"
+    },
+    {
+      "pmaid": "3889",
+      "name": "Terry Pettus Park",
+      "address": "2001 Fairview Ave E",
+      "zip_code": "98102",
+      "x_coord": "-122.329689",
+      "y_coord": "47.636742"
+    },
+    {
+      "pmaid": "3903",
+      "name": "Sunnyside Ave N Boat Ramp",
+      "address": "2301 N Northlake Way",
+      "zip_code": "98103",
+      "x_coord": "-122.330723",
+      "y_coord": "47.650292"
+    },
+    {
+      "pmaid": "3917",
+      "name": "Don Armeni Park",
+      "address": "1222 Harbor Ave SW",
+      "zip_code": "98116",
+      "x_coord": "-122.382295",
+      "y_coord": "47.59274"
+    },
+    {
+      "pmaid": "3920",
+      "name": "Emma Schmitz Memorial Overlook",
+      "address": "4503 Beach Dr SW",
+      "zip_code": "98116",
+      "x_coord": "-122.40712",
+      "y_coord": "47.562898"
+    },
+    {
+      "pmaid": "3923",
+      "name": "Martin Luther King, Jr. Memorial",
+      "address": "2200 Martin Luther King Jr  Way S",
+      "zip_code": "98144",
+      "x_coord": "-122.297165",
+      "y_coord": "47.582756"
+    },
+    {
+      "pmaid": "393",
+      "name": "Washington Park Arboretum",
+      "address": "2300 Arboretum Dr E",
+      "zip_code": "98112",
+      "x_coord": "-122.294835",
+      "y_coord": "47.636477"
+    },
+    {
+      "pmaid": "3973",
+      "name": "Waterfront Park",
+      "address": "1401 Alaskan Way",
+      "zip_code": "98101",
+      "x_coord": "-122.342196",
+      "y_coord": "47.606778"
+    },
+    {
+      "pmaid": "398",
+      "name": "Warren G. Magnuson Park",
+      "address": "7400 Sand Point Way NE",
+      "zip_code": "98115",
+      "x_coord": "-122.255084",
+      "y_coord": "47.680304"
+    },
+    {
+      "pmaid": "3982",
+      "name": "Denny Blaine Park",
+      "address": "200 Lake Washington Blvd E",
+      "zip_code": "98112",
+      "x_coord": "-122.280548",
+      "y_coord": "47.62011"
+    },
+    {
+      "pmaid": "4000",
+      "name": "Plymouth Pillars Park",
+      "address": "1050 Pike St",
+      "zip_code": "98101",
+      "x_coord": "-122.329092",
+      "y_coord": "47.614124"
+    },
+    {
+      "pmaid": "4006",
+      "name": "Bagley Viewpoint",
+      "address": "2548 Delmar Dr E",
+      "zip_code": "98102",
+      "x_coord": "-122.318347",
+      "y_coord": "47.643015"
+    },
+    {
+      "pmaid": "401",
+      "name": "Bradner Gardens Park",
+      "address": "1730 Bradner Pl S",
+      "zip_code": "98144",
+      "x_coord": "-122.295426",
+      "y_coord": "47.587419"
+    },
+    {
+      "pmaid": "4011",
+      "name": "Fremont Canal Park",
+      "address": "199 N Canal St",
+      "zip_code": "98103",
+      "x_coord": "-122.357864",
+      "y_coord": "47.651802"
+    },
+    {
+      "pmaid": "4012",
+      "name": "Eastmont Place",
+      "address": "2201 Westmont Way W",
+      "zip_code": "98199",
+      "x_coord": "-122.405566",
+      "y_coord": "47.637689"
+    },
+    {
+      "pmaid": "4013",
+      "name": "McGilvra Boulevard",
+      "address": "1099 McGilvra Blvd E",
+      "zip_code": "98112",
+      "x_coord": "-122.282116",
+      "y_coord": "47.626925"
+    },
+    {
+      "pmaid": "4019",
+      "name": "Mt. Claire Park",
+      "address": "2523 Mount Claire Dr S",
+      "zip_code": "98144",
+      "x_coord": "-122.28642",
+      "y_coord": "47.580737"
+    },
+    {
+      "pmaid": "4034",
+      "name": "Columbia Park",
+      "address": "4721 Rainier Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.287394",
+      "y_coord": "47.559792"
+    },
+    {
+      "pmaid": "4045",
+      "name": "Rainbow Point",
+      "address": "631 NE Banner Pl",
+      "zip_code": "98115",
+      "x_coord": "-122.320476",
+      "y_coord": "47.682713"
+    },
+    {
+      "pmaid": "405",
+      "name": "Colman Park",
+      "address": "1800 Lake Washington Blvd S",
+      "zip_code": "98144",
+      "x_coord": "-122.288612",
+      "y_coord": "47.58547"
+    },
+    {
+      "pmaid": "4075",
+      "name": "Lynn Street Mini Park",
+      "address": "2291 Fairview Ave E",
+      "zip_code": "98102",
+      "x_coord": "-122.32975",
+      "y_coord": "47.639849"
+    },
+    {
+      "pmaid": "4082",
+      "name": "Day Street Boat Ramp",
+      "address": "1402 Lakeside Ave S",
+      "zip_code": "98144",
+      "x_coord": "-122.285154",
+      "y_coord": "47.59026"
+    },
+    {
+      "pmaid": "4159",
+      "name": "12th Ave S Viewpoint",
+      "address": "2821 12TH Ave S",
+      "zip_code": "98144",
+      "x_coord": "-122.317765",
+      "y_coord": "47.577953"
+    },
+    {
+      "pmaid": "4161",
+      "name": "Northwest 60th St. Viewpoint",
+      "address": "6001 Seaview Ave NW",
+      "zip_code": "98107",
+      "x_coord": "-122.40656",
+      "y_coord": "47.672184"
+    },
+    {
+      "pmaid": "420",
+      "name": "Pritchard Island Beach",
+      "address": "8400 55th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.26283",
+      "y_coord": "47.528948"
+    },
+    {
+      "pmaid": "421",
+      "name": "Chinook Beach Park",
+      "address": "700 S Cloverdale St",
+      "zip_code": "98118",
+      "x_coord": "-122.258376",
+      "y_coord": "47.520135"
+    },
+    {
+      "pmaid": "4241",
+      "name": "East Portal Viewpoint",
+      "address": "1400 Lake Washington Blvd S",
+      "zip_code": "98144",
+      "x_coord": "-122.287893",
+      "y_coord": "47.590222"
+    },
+    {
+      "pmaid": "4242",
+      "name": "Sam Smith Park",
+      "address": "1400 Martin Luther King Jr Way S",
+      "zip_code": "98122",
+      "x_coord": "-122.297814",
+      "y_coord": "47.589982"
+    },
+    {
+      "pmaid": "4245",
+      "name": "Benvenuto Viewpoint",
+      "address": "1401 23rd Ave S",
+      "zip_code": "98122",
+      "x_coord": "-122.303029",
+      "y_coord": "47.589841"
+    },
+    {
+      "pmaid": "428",
+      "name": "Seward Park",
+      "address": "5900 Lake Washington Blvd S",
+      "zip_code": "98118",
+      "x_coord": "-122.250639",
+      "y_coord": "47.54923"
+    },
+    {
+      "pmaid": "43",
+      "name": "Horiuchi Park",
+      "address": "156 Boren Ave",
+      "zip_code": "98122",
+      "x_coord": "-122.318982",
+      "y_coord": "47.603132"
+    },
+    {
+      "pmaid": "432",
+      "name": "Martha Washington Park",
+      "address": "6612 57th Ave S",
+      "zip_code": "98115",
+      "x_coord": "-122.260054",
+      "y_coord": "47.542398"
+    },
+    {
+      "pmaid": "433",
+      "name": "Dr. Jose Rizal Park",
+      "address": "1007 12th Ave S",
+      "zip_code": "98144",
+      "x_coord": "-122.318094",
+      "y_coord": "47.593859"
+    },
+    {
+      "pmaid": "436",
+      "name": "Benefit Playground",
+      "address": "9320 38th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.284294",
+      "y_coord": "47.518998"
+    },
+    {
+      "pmaid": "440",
+      "name": "Beer Sheva Park",
+      "address": "8650 55th Ave S",
+      "zip_code": "98118",
+      "x_coord": "-122.263223",
+      "y_coord": "47.524191"
+    },
+    {
+      "pmaid": "4400",
+      "name": "Daejeon Park",
+      "address": "1144 Sturgus Ave S",
+      "zip_code": "98144",
+      "x_coord": "-122.312163",
+      "y_coord": "47.59192"
+    },
+    {
+      "pmaid": "4404",
+      "name": "A. B. Ernst Park",
+      "address": "723 N 35th St",
+      "zip_code": "98103",
+      "x_coord": "-122.348826",
+      "y_coord": "47.650087"
+    },
+    {
+      "pmaid": "4412",
+      "name": "Herring's House Park (T'ul'altx)",
+      "address": "4570 West Marginal Way SW",
+      "zip_code": "98106",
+      "x_coord": "-122.349545",
+      "y_coord": "47.561514"
+    },
+    {
+      "pmaid": "4421",
+      "name": "Trolley Hill Park",
+      "address": "1800 Taylor Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.347039",
+      "y_coord": "47.635143"
+    },
+    {
+      "pmaid": "4422",
+      "name": "MacLean Park",
+      "address": "1922 Taylor Ave N",
+      "zip_code": "98109",
+      "x_coord": "-122.345276",
+      "y_coord": "47.636191"
+    },
+    {
+      "pmaid": "4424",
+      "name": "Fremont Peak Park",
+      "address": "4357 Palatine Ave N",
+      "zip_code": "98103",
+      "x_coord": "-122.356671",
+      "y_coord": "47.661108"
+    },
+    {
+      "pmaid": "4426",
+      "name": "Homer Harris Park",
+      "address": "2401 E Howell St",
+      "zip_code": "98122",
+      "x_coord": "-122.300994",
+      "y_coord": "47.617309"
+    },
+    {
+      "pmaid": "4427",
+      "name": "Mt. Baker Ridge Viewpoint",
+      "address": "1403 31st Ave S",
+      "zip_code": "98144",
+      "x_coord": "-122.292616",
+      "y_coord": "47.589983"
+    },
+    {
+      "pmaid": "4433",
+      "name": "Smith Cove",
+      "address": "23rd Ave West",
+      "zip_code": "98199",
+      "x_coord": "-122.387679",
+      "y_coord": "47.632602"
+    }
+  ]
+}

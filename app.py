@@ -3,7 +3,7 @@ import pandas as pd
 import pydeck as pdk
 import requests
 
-st.title("Seattle Parks Map")
+st.title("Seattle Parks Amenities Map")
 
 BASE_API_URL = "https://unveiled-freely-defacing.ngrok-free.dev"
 
@@ -11,6 +11,19 @@ st.sidebar.header("Search and Filter")
 
 search_text = st.sidebar.text_input("Search park by name or address").strip()
 zip_code = st.sidebar.text_input("Filter by ZIP code, ex: 98144").strip()
+
+features_response = requests.get(f"{BASE_API_URL}/features")
+
+if features_response.status_code == 200:
+    feature_options = ["All"] + features_response.json()
+else:
+    feature_options = ["All"]
+    st.sidebar.warning("Could not load feature options from API.")
+
+feature_filter = st.sidebar.selectbox(
+    "Filter by feature",
+    feature_options
+)
 
 if search_text:
     response = requests.get(
@@ -20,6 +33,10 @@ if search_text:
 elif zip_code:
     response = requests.get(
         f"{BASE_API_URL}/parks/zip/{zip_code}"
+    )
+elif feature_filter != "All":
+    response = requests.get(
+        f"{BASE_API_URL}/parks/feature/{feature_filter}"
     )
 else:
     response = requests.get(
