@@ -1,4 +1,4 @@
-# Seattle Parks API and Map – Test Plan
+# Seattle Parks Features Map and API – Test Plan
 
 ## Purpose
 
@@ -8,7 +8,7 @@ This document outlines the testing strategy for ensuring the quality, accuracy, 
 
 ## System Overview
 
-- **Frontend / Interface**: Streamlit map application using Pydeck
+- **Frontend / Interface**: Streamlit map application
 - **Backend**: Flask API running locally or exposed through ngrok
 - **Data Source**: Static JSON files loaded when the Flask server starts
   - `parks_compiled.json`: Seattle park records with park ID, name, address, ZIP code, coordinates, and connected features
@@ -33,11 +33,8 @@ This document outlines the testing strategy for ensuring the quality, accuracy, 
 
 - Ensure that all API endpoints return the correct data and status codes
 - Verify that park records and amenity records are correctly connected through `pmaid`
-- Confirm that parks without amenities return `"None"` instead of breaking the application
 - Ensure the Streamlit map loads API data correctly and displays valid coordinates
 - Confirm that search and ZIP filtering return expected results
-- Detect missing data, broken endpoints, slow responses, or unexpected server errors
-- Provide clear actions for fixing failures and maintaining system quality over time
 
 ---
 
@@ -107,13 +104,9 @@ For this project, monitoring will mainly happen through Flask terminal logs, Str
 
 ---
 
-## Ongoing Testing Plan
+## Continuous Testing & Maintenance
 
-This test plan should be used as a living document during implementation. The main checks should be repeated before recording demos, submitting the assignment, or changing the API response format.
-
-Before each demo or submission:
-
-1. Start Flask and confirm `/` works.
+1. Start Flask and confirm `GET /` works.
 2. Test `/parks`, `/search?q=Pratt`, `/parks/zip/98144`, and `/parks/feature/Basketball`.
 3. Start Streamlit and confirm the map loads.
 4. Try one search, one ZIP filter, and one feature filter.
@@ -151,7 +144,6 @@ Before each demo or submission:
 
 ## Future Improvements
 
-- Add automated tests with Pytest for key endpoints.
 - Add a route that lists all available routes for debugging.
 - Add JSON validation for required fields.
 - Improve feature filtering so users can combine search, ZIP code, and feature filters at the same time.
