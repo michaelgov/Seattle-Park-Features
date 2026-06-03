@@ -54,19 +54,6 @@ def get_park_by_id(pmaid):
 
     return jsonify({"error": "Park not found"}), 404
 
-
-@app.route("/parks/<pmaid>/full", methods=["GET"])
-def get_full_park_info(pmaid):
-    for park in parks:
-        if str(park.get("pmaid", "")).strip() == str(pmaid).strip():
-            return jsonify({
-                "park": park,
-                "features": park.get("features", "None")
-            })
-
-    return jsonify({"error": "Park not found"}), 404
-
-
 @app.route("/search", methods=["GET"])
 def search_parks():
     query = request.args.get("q", "").strip().lower()

@@ -5,11 +5,11 @@ import requests
 import re
 
 st.set_page_config(
-    page_title="Seattle Park Feature Explorer",
+    page_title="Seattle Parks Feature Explorer",
     layout="wide"
 )
 
-st.title("Seattle Park Feature Explorer")
+st.title("Seattle Parks Feature Explorer")
 
 BASE_API_URL = "https://unveiled-freely-defacing.ngrok-free.dev"
 
