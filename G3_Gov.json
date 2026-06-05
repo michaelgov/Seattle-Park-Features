@@ -1,0 +1,23 @@
+[
+  {
+    "idea_rank": 1,
+    "idea_name": "Greater Seattle Parks Amenities Explorer",
+    "idea_summary": "Create a tool that identifies and displays amenities within parks and public spaces around the Greater Seattle Area so users can quickly see what each location offers.",
+    "information_story": "People looking for outdoor spaces often want to know more than just where a park is located. They may want to find parks with playgrounds, restrooms, sports courts, picnic areas, trails, or other specific amenities before deciding where to go. This system would gather park and amenities data, organize it clearly, and present it through an interactive map or menu so users can compare spaces and choose the one that best fits their needs.",
+    "possible_information_structure": "A JSON structure could organize information by park, including fields such as park_id, park_name, address, neighborhood, coordinates, amenities, and accessibility details. Amenities could be stored as an array so the data can be portable across a website, map interface, or mobile app. Users could filter parks by amenity type or location."
+  },
+  {
+    "idea_rank": 2,
+    "idea_name": "Local Farmers Market Seller Information Platform",
+    "idea_summary": "Create a tool that helps local farmers market sellers share their offerings, business information, and services in a way that is accessible, organized, and digitally efficient.",
+    "information_story": "Shoppers at farmers markets often want to know which vendors will be present, what products they sell, and whether they offer specialty items such as organic produce, baked goods, flowers, or handmade products. Sellers also need an easier way to communicate this information digitally. This system would allow sellers to upload and manage their information while giving customers a searchable and user-friendly way to browse market vendors and offerings before visiting.",
+    "possible_information_structure": "A JSON structure could organize information by market and seller. Each seller entry could include seller_id, seller_name, market_name, product_categories, product_descriptions, schedule, payment_methods, and contact information. This structure would make the information portable across a website, directory, or app, while also supporting filters for product type, location, or market date."
+  },
+  {
+    "idea_rank": 3,
+    "idea_name": "Live Show and Performance Experience Rating System",
+    "idea_summary": "Create a system that allows users to rate musicians, performances, and live shows while adding context about their experiences so others can judge whether an event is worth attending.",
+    "information_story": "People deciding whether to attend a concert or live performance often want more than ticket prices or artist popularity. They may want to know how strong the live vocals are, whether the performance quality matches expectations, how long the show lasts, or whether the overall experience feels worth the cost. This system would collect community feedback and structured ratings to help users make more informed decisions about attending live events.",
+    "possible_information_structure": "A JSON structure could organize information by event, artist, and review. Event entries could include event_id, artist_name, venue, date, ticket_price_range, and genre. Review entries could include user_rating, comments, atmosphere_rating, value_rating, and performance_notes. This structure would support portability across a review platform, recommendation system, or mobile event app."
+  }
+]

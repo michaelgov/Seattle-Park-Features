@@ -27,8 +27,6 @@ The Seattle Park Amenities Explorer is a web-based tool that helps users find Se
 
 ## Structure
 
-## Structure
-
 Each API response returns a JSON array of park objects. Each park object contains location information, identifying fields, coordinates, and a list of connected features.
 
 | Field | Type | Description |
